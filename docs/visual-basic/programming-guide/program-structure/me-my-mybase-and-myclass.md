@@ -1,5 +1,6 @@
 ---
 title: "Me, My, MyBase, and MyClass in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 f1_keywords: 
   - "MyClass"
   - "vb.Me"
@@ -28,12 +32,18 @@ helpviewer_keywords:
   - "current instance [Visual Basic], Me keyword"
   - "MyBase keyword [Visual Basic], relationship to similar programming elements"
 ms.assetid: f8e241ae-b1ed-4886-9aa0-08c632154029
+<<<<<<< HEAD
 caps.latest.revision: 15
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # Me, My, MyBase, and MyClass in Visual Basic
 `Me`, `My`, `MyBase`, and `MyClass` in [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] have similar names, but different purposes. This topic describes each of these entities in order to distinguish them.  
+=======
+---
+# Me, My, MyBase, and MyClass in Visual Basic
+`Me`, `My`, `MyBase`, and `MyClass` in Visual Basic have similar names, but different purposes. This topic describes each of these entities in order to distinguish them.  
+>>>>>>> upstream/master
   
 ## Me  
  The `Me` keyword provides a way to refer to the specific instance of a class or structure in which the code is currently executing. `Me` behaves like either an object variable or a structure variable referring to the current instance. Using `Me` is particularly useful for passing information about the currently executing instance of a class or structure to a procedure in another class, structure, or module.  
@@ -54,7 +64,11 @@ ChangeFormColor(Me)
 ```  
   
 ## My  
+<<<<<<< HEAD
  The `My` feature provides easy and intuitive access to a number of [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] classes, enabling the [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] user to interact with the computer, application, settings, resources, and so on.  
+=======
+ The `My` feature provides easy and intuitive access to a number of [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] classes, enabling the Visual Basic user to interact with the computer, application, settings, resources, and so on.  
+>>>>>>> upstream/master
   
 ## MyBase  
  The `MyBase` keyword behaves like an object variable referring to the base class of the current instance of a class. `MyBase` is commonly used to access base class members that are overridden or shadowed in a derived class. `MyBase.New` is used to explicitly call a base class constructor from a derived class constructor.  

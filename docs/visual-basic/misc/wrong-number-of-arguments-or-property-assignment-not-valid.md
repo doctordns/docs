@@ -1,6 +1,7 @@
 ---
 title: "Wrong number of arguments or property assignment not valid"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 61700dd4-ebd0-4088-b439-2cd1ef9fc8f4
 caps.latest.revision: 7
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrID450"
+ms.assetid: 61700dd4-ebd0-4088-b439-2cd1ef9fc8f4
+>>>>>>> upstream/master
 ---
 # Wrong number of arguments or property assignment not valid
 An assignment has been attempted that is not valid.  

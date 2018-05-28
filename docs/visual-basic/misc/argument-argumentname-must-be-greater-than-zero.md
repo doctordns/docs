@@ -1,6 +1,7 @@
 ---
 title: "Argument &#39;&lt;argumentname&gt;&#39; must be greater than zero"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: f9939fbd-6c4f-4871-9452-9ea0267e948e
 caps.latest.revision: 7
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrArgument_GTZero1"
+ms.assetid: f9939fbd-6c4f-4871-9452-9ea0267e948e
+>>>>>>> upstream/master
 ---
 # Argument &#39;&lt;argumentname&gt;&#39; must be greater than zero
 An argument is not valid because it is less than or equal to zero.  

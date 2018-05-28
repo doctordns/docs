@@ -1,5 +1,6 @@
 ---
 title: "Introduction to COM Interop (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,18 +9,28 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "interop assemblies"
   - "COM interop [Visual Basic], about COM interop"
 ms.assetid: 8bd62e68-383d-407f-998b-29aa0ce0fd67
+<<<<<<< HEAD
 caps.latest.revision: 12
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Introduction to COM Interop (Visual Basic)
 The Component Object Model (COM) lets an object expose its functionality to other components and to host applications. While COM objects have been fundamental to Windows programming for many years, applications designed for the common language runtime (CLR) offer many advantages.  
   
+<<<<<<< HEAD
  [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] applications will eventually replace those developed with COM. Until then, you may have to use or create COM objects by using [!INCLUDE[vsprvs](~/includes/vsprvs-md.md)]. Interoperability with COM, or *COM interop*, enables you to use existing COM objects while transitioning to the [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] at your own pace.  
+=======
+ [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] applications will eventually replace those developed with COM. Until then, you may have to use or create COM objects by using Visual Studio. Interoperability with COM, or *COM interop*, enables you to use existing COM objects while transitioning to the [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] at your own pace.  
+>>>>>>> upstream/master
   
  By using the [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] to create COM components, you can use registration-free COM interop. This lets you control which DLL version is enabled when more than one version is installed on a computer, and lets end users use XCOPY or FTP to copy your application to an appropriate directory on their computer where it can be run. For more information, see [Registration-Free COM Interop](http://msdn.microsoft.com/library/90f308b9-82dc-414a-bce1-77e0155e56bd).  
   
@@ -45,7 +56,11 @@ The Component Object Model (COM) lets an object expose its functionality to othe
  For more information about assemblies and assembly manifests, see [Assemblies and the Global Assembly Cache](../../../visual-basic/programming-guide/concepts/assemblies-gac/index.md).  
   
 ### Importing and Exporting Type Libraries  
+<<<<<<< HEAD
  [!INCLUDE[vsprvs](~/includes/vsprvs-md.md)] contains a utility, Tlbimp, that lets you import information from a type library into a [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] application. You can generate type libraries from assemblies by using the Tlbexp utility.  
+=======
+ Visual Studio contains a utility, Tlbimp, that lets you import information from a type library into a [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] application. You can generate type libraries from assemblies by using the Tlbexp utility.  
+>>>>>>> upstream/master
   
  For information about Tlbimp and Tlbexp, see [Tlbimp.exe (Type Library Importer)](../../../framework/tools/tlbimp-exe-type-library-importer.md) and [Tlbexp.exe (Type Library Exporter)](http://msdn.microsoft.com/library/a487d61b-d166-467b-a7ca-d8b52fbff42d).  
   

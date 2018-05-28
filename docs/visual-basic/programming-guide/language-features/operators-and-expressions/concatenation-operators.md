@@ -1,5 +1,6 @@
 ---
 title: "Concatenation Operators in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "& operator [Visual Basic], concatenation"
   - "concatenation operators [Visual Basic]"
@@ -16,9 +20,12 @@ helpviewer_keywords:
   - "+ operator [Visual Basic], concatenation"
   - "concatenation operators [Visual Basic]"
 ms.assetid: e59908c3-89e0-41ae-933d-3e8826c16a04
+<<<<<<< HEAD
 caps.latest.revision: 18
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Concatenation Operators in Visual Basic
 Concatenation operators join multiple strings into a single string. There are two concatenation operators, `+` and `&`. Both carry out the basic concatenation operation, as the following example shows.  

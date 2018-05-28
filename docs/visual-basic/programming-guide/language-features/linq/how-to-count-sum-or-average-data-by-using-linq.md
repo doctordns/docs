@@ -1,5 +1,6 @@
 ---
 title: "How to: Count, Sum, or Average Data by Using LINQ (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "average operator [LINQ in Visual Basic]"
   - "aggregate operator [LINQ in Visual Basic]"
@@ -22,9 +26,12 @@ helpviewer_keywords:
   - "query samples [Visual Basic]"
   - "count operator [LINQ in Visual Basic]"
 ms.assetid: 51ca1f59-7770-4884-8b76-113002e54fc0
+<<<<<<< HEAD
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Count, Sum, or Average Data by Using LINQ (Visual Basic)
 Language-Integrated Query (LINQ) makes it easy to access database information and execute queries.  

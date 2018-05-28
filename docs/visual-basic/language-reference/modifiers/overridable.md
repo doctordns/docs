@@ -1,11 +1,14 @@
 ---
 title: "Overridable (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "Overridable"
   - "vb.Overridable"
@@ -21,9 +24,12 @@ helpviewer_keywords:
   - "Overridable keyword [Visual Basic]"
   - "properties [Visual Basic], overriding"
 ms.assetid: 612581e7-8a4c-4a5d-beff-3402fffa6f35
+<<<<<<< HEAD
 caps.latest.revision: 17
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Overridable (Visual Basic)
 Specifies that a property or procedure can be overridden by an identically named property or procedure in a derived class.  

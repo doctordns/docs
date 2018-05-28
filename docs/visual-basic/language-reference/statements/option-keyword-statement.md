@@ -1,20 +1,26 @@
 ---
 title: "Option &lt;keyword&gt; Statement"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.option"
 helpviewer_keywords: 
   - "Option keyword [Visual Basic]"
 ms.assetid: 6b2f41c4-2403-43b6-8a14-94a3775e5b47
+<<<<<<< HEAD
 caps.latest.revision: 12
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Option &lt;keyword&gt; Statement
 Introduces a statement that specifies a compiler option that applies to the entire source file.  

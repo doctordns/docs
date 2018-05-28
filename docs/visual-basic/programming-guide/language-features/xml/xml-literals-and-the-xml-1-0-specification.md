@@ -1,5 +1,6 @@
 ---
 title: "XML Literals and the XML 1.0 Specification (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -18,6 +19,15 @@ ms.author: dotnetcontent
 ---
 # XML Literals and the XML 1.0 Specification (Visual Basic)
 The XML literal syntax in [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] supports most of the Extensible Markup Language (XML) 1.0 specification. For details about the XML 1.0 specification, see [Extensible Markup Language (XML) 1.0](http://go.microsoft.com/fwlink/?LinkId=73927) on the W3C Web site.  
+=======
+ms.date: 07/20/2015
+helpviewer_keywords: 
+  - "XML literals [Visual Basic], XML 1.0 specification"
+ms.assetid: 46f046e5-293c-41a3-b893-4e5f6e32e78a
+---
+# XML Literals and the XML 1.0 Specification (Visual Basic)
+The XML literal syntax in Visual Basic supports most of the Extensible Markup Language (XML) 1.0 specification. For details about the XML 1.0 specification, see [Extensible Markup Language (XML) 1.0](http://go.microsoft.com/fwlink/?LinkId=73927) on the W3C Web site.  
+>>>>>>> upstream/master
   
 ## What Visual Basic Does Not Support  
   

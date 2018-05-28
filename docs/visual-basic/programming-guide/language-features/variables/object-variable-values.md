@@ -1,5 +1,6 @@
 ---
 title: "Object Variable Values (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -9,21 +10,31 @@ ms.technology:
   - "devlang-visual-basic"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "object variables [Visual Basic], values"
   - "values [Visual Basic], of object variables"
   - "data types [Visual Basic], object variable"
   - "variables [Visual Basic], object"
 ms.assetid: 31555704-58a3-49f1-9a0a-6421f605664f
+<<<<<<< HEAD
 caps.latest.revision: 18
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Object Variable Values (Visual Basic)
 A variable of the [Object Data Type](../../../../visual-basic/language-reference/data-types/object-data-type.md) can refer to data of any type. The value you store in an `Object` variable is kept elsewhere in memory, while the variable itself holds a pointer to the data.  
   
 ## Object Classifier Functions  
+<<<<<<< HEAD
  [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] supplies functions that return information about what an `Object` variable refers to, as shown in the following table.  
+=======
+ Visual Basic supplies functions that return information about what an `Object` variable refers to, as shown in the following table.  
+>>>>>>> upstream/master
   
 |Function|Returns True if the Object variable refers to|  
 |--------------|---------------------------------------------------|  

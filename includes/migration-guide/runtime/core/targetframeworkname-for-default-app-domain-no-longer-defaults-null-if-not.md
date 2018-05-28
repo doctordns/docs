@@ -8,5 +8,8 @@
 |Version|4.6|
 |Type|Runtime|
 |Affected APIs|<ul><li><xref:System.AppDomainSetup.TargetFrameworkName?displayProperty=nameWithType></li></ul>|
+<<<<<<< HEAD
 |Analyzers|<ul><li>CD0075B</li><li>CD0075A</li></ul>|
+=======
+>>>>>>> upstream/master
 

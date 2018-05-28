@@ -1,5 +1,6 @@
 ---
 title: "How to: Create Strings Using a StringBuilder in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,13 +9,19 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "StringBuilder class"
   - "strings [Visual Basic], using StringBuilder"
 ms.assetid: 9c042880-aa16-432e-9ccb-cd00abda9ae3
+<<<<<<< HEAD
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Create Strings Using a StringBuilder in Visual Basic
 This example constructs a long string from many smaller strings using the <xref:System.Text.StringBuilder> class. The <xref:System.Text.StringBuilder> class is more efficient than the `&=` operator for concatenating many strings.  
@@ -30,4 +37,8 @@ This example constructs a long string from many smaller strings using the <xref:
  [Strings](../../../../visual-basic/programming-guide/language-features/strings/index.md)  
  [Creating New Strings](../../../../standard/base-types/creating-new.md)  
  [Manipulating Strings](../../../../standard/base-types/manipulating-strings.md)  
+<<<<<<< HEAD
  [Strings Sample](http://msdn.microsoft.com/library/be9e82a3-dc95-4aaa-9396-61b66e467e02)
+=======
+ [Strings Sample](https://msdn.microsoft.com/library/be9e82a3-dc95-4aaa-9396-61b66e467e02(v=vs.100))
+>>>>>>> upstream/master

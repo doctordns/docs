@@ -1,5 +1,6 @@
 ---
 title: "How to: Retrieve a Collection of Attributes (LINQ to XML) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: a07e9645-b45b-403b-b698-f652f904c7d2
+>>>>>>> upstream/master
 ---
 # How to: Retrieve a Collection of Attributes (LINQ to XML) (Visual Basic)
 This topic introduces the <xref:System.Xml.Linq.XElement.Attributes%2A> method. This method retrieves the attributes of an element.  

@@ -1,11 +1,15 @@
 ---
 title: "Passing Arguments by Position and by Name (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 02/01/2018
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 02/01/2018
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "arguments [Visual Basic], passing by name"
   - "procedures [Visual Basic], arguments"

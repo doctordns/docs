@@ -1,18 +1,24 @@
 ---
 title: "My.Computer.Clipboard Object"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "Clipboard"
   - "My.Computer.Clipboard object"
 ms.assetid: 05d4ede9-1f9a-4495-87f0-77350b8d2e5d
+<<<<<<< HEAD
 caps.latest.revision: 29
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # My.Computer.Clipboard Object
 Provides methods for manipulating the Clipboard.  

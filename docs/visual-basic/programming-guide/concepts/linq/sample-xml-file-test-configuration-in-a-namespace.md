@@ -1,5 +1,6 @@
 ---
 title: "Sample XML File: Test Configuration in a Namespace3"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: aff02614-30ee-45e1-bc0f-d64b193d20b8
 caps.latest.revision: 5
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: aff02614-30ee-45e1-bc0f-d64b193d20b8
+>>>>>>> upstream/master
 ---
 # Sample XML File: Test Configuration in a Namespace
 The following XML file is used in various examples in the [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] documentation. This is a test configuration file. The XML is in a namespace.  

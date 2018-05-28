@@ -1,6 +1,7 @@
 ---
 title: "TextFieldParser does not support delimiters that contain endline characters"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 0701f3b6-635b-468e-b908-867df00dd5db
 caps.latest.revision: 7
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrTextFieldParser_EndCharsInDelimiter"
+ms.assetid: 0701f3b6-635b-468e-b908-867df00dd5db
+>>>>>>> upstream/master
 ---
 # TextFieldParser does not support delimiters that contain endline characters
 A delimiter that contains an endline character has been supplied, but the `TextFieldParser` does not support delimiters that contain endline characters.  

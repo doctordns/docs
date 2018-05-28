@@ -1,5 +1,6 @@
 ---
 title: "How to: Invoke a Delegate Method (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -12,6 +13,10 @@ ms.assetid: b56866ae-abf9-4a5a-a855-486359455e9c
 caps.latest.revision: 10
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: b56866ae-abf9-4a5a-a855-486359455e9c
+>>>>>>> upstream/master
 ---
 # How to: Invoke a Delegate Method (Visual Basic)
 This example shows how to associate a method with a delegate and then invoke that method through the delegate.  

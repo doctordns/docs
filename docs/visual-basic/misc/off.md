@@ -1,19 +1,25 @@
 ---
 title: "Off (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "Off"
   - "vb.Off"
 helpviewer_keywords: 
   - "Off keyword [Visual Basic]"
 ms.assetid: e0b5aa68-bde1-4cdd-b9e4-152798ae1b8b
+<<<<<<< HEAD
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Off (Visual Basic)
 Turns a compiler option off.  

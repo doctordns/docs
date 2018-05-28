@@ -1,5 +1,6 @@
 ---
 title: "How to: Find Preceding Siblings (XPath-LINQ to XML) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 59055718-d0a7-4db3-8901-18dd33587703
+>>>>>>> upstream/master
 ---
 # How to: Find Preceding Siblings (XPath-LINQ to XML) (Visual Basic)
 This topic compares the XPath `preceding-sibling` axis to the [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] child <xref:System.Xml.Linq.XNode.ElementsBeforeSelf%2A?displayProperty=nameWithType> axis.  

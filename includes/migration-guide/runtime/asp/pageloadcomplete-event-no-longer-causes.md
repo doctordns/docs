@@ -7,5 +7,8 @@
 |Scope|Edge|
 |Version|4.5|
 |Type|Runtime|
+<<<<<<< HEAD
 |Analyzers|<ul><li>CD0060</li></ul>|
+=======
+>>>>>>> upstream/master
 

@@ -1,5 +1,6 @@
 ---
 title: "Creating the Source Office Open XML Document (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 61ccd6fb-0c47-4075-afdf-5b5021330f21
+>>>>>>> upstream/master
 ---
 # Creating the Source Office Open XML Document (Visual Basic)
 This topic shows how to create the Office Open XML WordprocessingML document that the other examples in this tutorial use. If you follow these instructions, your output will match the output provided in each example.  

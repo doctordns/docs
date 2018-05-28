@@ -1,5 +1,6 @@
 ---
 title: "Troubleshooting Inherited Event Handlers in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "troubleshooting events [Visual Basic]"
   - "inherited events [Visual Basic]"
@@ -15,9 +19,12 @@ helpviewer_keywords:
   - "event handling, troubleshooting"
   - "event handlers, troubleshooting"
 ms.assetid: e1c8759f-5370-4308-8476-8c48b73509bf
+<<<<<<< HEAD
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Troubleshooting Inherited Event Handlers in Visual Basic
 This topic lists common issues that arise with event handlers in inherited components.  

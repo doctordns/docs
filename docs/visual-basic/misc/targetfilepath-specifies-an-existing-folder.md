@@ -1,6 +1,7 @@
 ---
 title: "TargetFilePath specifies an existing folder"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: 2334f49e-d080-4ee2-b036-f95c7f76c3ec
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 2334f49e-d080-4ee2-b036-f95c7f76c3ec
+>>>>>>> upstream/master
 ---
 # TargetFilePath specifies an existing folder
 The parameter `TargetFilePath` specifies an existing directory but must specify the new directory's name.  

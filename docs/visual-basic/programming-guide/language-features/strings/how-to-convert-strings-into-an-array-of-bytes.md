@@ -1,5 +1,6 @@
 ---
 title: "How to: Convert Strings into an Array of Bytes in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "string conversion [Visual Basic], arrays"
   - "arrays [Visual Basic], converting strings to"
@@ -15,9 +19,12 @@ helpviewer_keywords:
   - "examples [Visual Basic], string conversion"
   - "arrays [Visual Basic], byte arrays"
 ms.assetid: f477d35c-a3fc-4a30-b1d4-cd0d353aae1d
+<<<<<<< HEAD
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Convert Strings into an Array of Bytes in Visual Basic
 This topic shows how to convert a string into an array of bytes.  

@@ -1,6 +1,7 @@
 ---
 title: "Cannot save file to TEMP"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 1055fc15-9641-43b2-a40c-a0a9fbbb34b2
 caps.latest.revision: 7
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrID735"
+ms.assetid: 1055fc15-9641-43b2-a40c-a0a9fbbb34b2
+>>>>>>> upstream/master
 ---
 # Cannot save file to TEMP
 Either a component cannot find a directory named TEMP, or the drive or partition containing the TEMP directory lacks sufficient space to save information.  

@@ -1,5 +1,6 @@
 ---
 title: "How to: Create a Property (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,15 +9,21 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "procedures [Visual Basic], defining"
   - "Visual Basic code, procedures"
   - "Visual Basic code, properties"
   - "properties [Visual Basic]"
 ms.assetid: 4d229712-6be8-4c5c-bac5-06995ce9185a
+<<<<<<< HEAD
 caps.latest.revision: 15
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Create a Property (Visual Basic)
 You enclose a property definition between a `Property` statement and an `End Property` statement. Within this definition you define a `Get` procedure, a `Set` procedure, or both. All the property's code lies within these procedures.  

@@ -1,6 +1,7 @@
 ---
 title: "NumberOfChars must be greater than zero"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 3eea4bbf-cd49-4d19-adfb-0e2adf087065
 caps.latest.revision: 7
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrTextFieldParser_NumberOfCharsMustBePositive"
+ms.assetid: 3eea4bbf-cd49-4d19-adfb-0e2adf087065
+>>>>>>> upstream/master
 ---
 # NumberOfChars must be greater than zero
 When using the `PeekChars` method of the `TextFieldParser` object, you must supply a `NumberOfChars` value that is greater than `0`.  

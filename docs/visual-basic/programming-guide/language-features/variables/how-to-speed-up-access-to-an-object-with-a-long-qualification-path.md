@@ -1,5 +1,6 @@
 ---
 title: "How to: Speed Up Access to an Object with a Long Qualification Path (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -9,6 +10,9 @@ ms.technology:
   - "devlang-visual-basic"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "variables [Visual Basic], accessing"
   - "variables [Visual Basic], object"
@@ -16,9 +20,12 @@ helpviewer_keywords:
   - "With block"
   - "object variables [Visual Basic], accessing"
 ms.assetid: 3eb7657f-c9fe-4e05-8bc3-4bb14d5ae585
+<<<<<<< HEAD
 caps.latest.revision: 13
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Speed Up Access to an Object with a Long Qualification Path (Visual Basic)
 If you frequently access an object that requires a qualification path of several methods and properties, you can speed up your code by not repeating the qualification path.  

@@ -1,5 +1,6 @@
 ---
 title: "LINQ to XML Overview (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 502661e0-bc5d-438d-94c2-7efb63bb6fbd
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 502661e0-bc5d-438d-94c2-7efb63bb6fbd
+>>>>>>> upstream/master
 ---
 # LINQ to XML Overview (Visual Basic)
 XML has been widely adopted as a way to format data in many contexts. For example, you can find XML on the Web, in configuration files, in Microsoft Office Word files, and in databases.  
@@ -88,7 +93,11 @@ Dim contacts = _
 </Contacts>  
 ```  
   
+<<<<<<< HEAD
  The [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] compiler translates XML literals into [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] method calls.  
+=======
+ The Visual Basic compiler translates XML literals into [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] method calls.  
+>>>>>>> upstream/master
   
  For more information, see [Creating XML Trees (Visual Basic)](../../../../visual-basic/programming-guide/concepts/linq/creating-xml-trees.md).  
   

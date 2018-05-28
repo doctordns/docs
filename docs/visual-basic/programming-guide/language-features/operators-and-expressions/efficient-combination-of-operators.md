@@ -1,5 +1,6 @@
 ---
 title: "Efficient Combination of Operators (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "expressions [Visual Basic], parentheses"
   - "operators [Visual Basic], associativity"
@@ -20,9 +24,12 @@ helpviewer_keywords:
   - "parentheses [Visual Basic], complex expressions"
   - "numeric expressions"
 ms.assetid: bd22340e-b5be-458b-8772-3916c02309a4
+<<<<<<< HEAD
 caps.latest.revision: 12
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Efficient Combination of Operators (Visual Basic)
 Complex expressions can contain many different operators. The following example illustrates this.  

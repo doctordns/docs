@@ -1,6 +1,7 @@
 ---
 title: "Internal error in the Microsoft Visual Basic runtime"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -14,6 +15,14 @@ ms.author: dotnetcontent
 ---
 # Internal error in the Microsoft Visual Basic runtime
 An internal error has occurred in the Microsoft [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] runtime.  
+=======
+f1_keywords: 
+  - "vbrInternalError"
+ms.assetid: 1a106880-dec8-4e75-a935-de3ec2096b25
+---
+# Internal error in the Microsoft Visual Basic runtime
+An internal error has occurred in the Microsoft Visual Basic runtime.  
+>>>>>>> upstream/master
   
 ## To correct this error  
   

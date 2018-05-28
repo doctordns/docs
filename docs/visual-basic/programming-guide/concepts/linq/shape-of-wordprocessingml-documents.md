@@ -1,5 +1,6 @@
 ---
 title: "Shape of WordprocessingML Documents (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 2dfb446b-5a07-4c00-9ab3-a74ba734ff3a
+>>>>>>> upstream/master
 ---
 # Shape of WordprocessingML Documents (Visual Basic)
 This topic introduces the XML shape of a WordprocessingML document.  

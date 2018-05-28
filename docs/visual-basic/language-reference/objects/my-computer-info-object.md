@@ -1,6 +1,7 @@
 ---
 title: "My.Computer.Info Object"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
@@ -12,6 +13,11 @@ ms.assetid: 2eb2aa5f-303d-426c-918d-989c8b7b08d0
 caps.latest.revision: 19
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+helpviewer_keywords: 
+  - "My.Computer.Info object"
+ms.assetid: 2eb2aa5f-303d-426c-918d-989c8b7b08d0
+>>>>>>> upstream/master
 ---
 # My.Computer.Info Object
 Provides properties for getting information about the computer's memory, loaded assemblies, name, and operating system.  

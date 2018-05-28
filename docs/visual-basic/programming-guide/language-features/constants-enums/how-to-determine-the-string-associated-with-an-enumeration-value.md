@@ -1,5 +1,6 @@
 ---
 title: "How to: Determine the String Associated with an Enumeration Value (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,14 +9,20 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "enumerations [Visual Basic]"
   - "strings [Visual Basic], enumeration values"
   - "values [Visual Basic], enumeration members"
 ms.assetid: 9253e7c8-579c-49a2-8f26-392b20ea99eb
+<<<<<<< HEAD
 caps.latest.revision: 12
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Determine the String Associated with an Enumeration Value (Visual Basic)
 The <xref:System.Enum.GetValues%2A> and <xref:System.Enum.GetNames%2A> methods allow you to determine the strings and values associated with enumeration members.  

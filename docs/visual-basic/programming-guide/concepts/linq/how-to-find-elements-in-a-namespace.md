@@ -1,5 +1,6 @@
 ---
 title: "How to: Find Elements in a Namespace (XPath-LINQ to XML) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: c7cb3b77-3424-4b54-9efa-4dc715948e41
+>>>>>>> upstream/master
 ---
 # How to: Find Elements in a Namespace (XPath-LINQ to XML) (Visual Basic)
 XPath expressions can find nodes in a particular namespace. XPath expressions use namespace prefixes for specifying namespaces. To parse an XPath expression that contains namespace prefixes, you must pass an object to the XPath methods that implements <xref:System.Xml.IXmlNamespaceResolver>. This example uses <xref:System.Xml.XmlNamespaceManager>.  

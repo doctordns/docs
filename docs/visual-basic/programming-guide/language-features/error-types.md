@@ -1,5 +1,6 @@
 ---
 title: "Error Types (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "exceptions, types"
   - "errors [Visual Basic], types"
@@ -17,6 +21,7 @@ helpviewer_keywords:
   - "run-time errors [Visual Basic], types of errors"
   - "syntax errors [Visual Basic], Visual Basic"
 ms.assetid: 3048aabf-8c97-4e13-9150-853769cb5f6f
+<<<<<<< HEAD
 caps.latest.revision: 13
 author: dotnet-bot
 ms.author: dotnetcontent
@@ -26,6 +31,14 @@ In [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)], errors (also called *exceptions*
   
 ## Syntax Errors  
  *Syntax errors* are those that appear while you write code. [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] checks your code as you type it in the **Code Editor** window and alerts you if you make a mistake, such as misspelling a word or using a language element improperly. Syntax errors are the most common type of errors. You can fix them easily in the coding environment as soon as they occur.  
+=======
+---
+# Error Types (Visual Basic)
+In Visual Basic, errors (also called *exceptions*) fall into one of three categories: syntax errors, run-time errors, and logic errors.  
+  
+## Syntax Errors  
+ *Syntax errors* are those that appear while you write code. Visual Basic checks your code as you type it in the **Code Editor** window and alerts you if you make a mistake, such as misspelling a word or using a language element improperly. Syntax errors are the most common type of errors. You can fix them easily in the coding environment as soon as they occur.  
+>>>>>>> upstream/master
   
 > [!NOTE]
 >  The `Option Explicit` statement is one means of avoiding syntax errors. It forces you to declare, in advance, all the variables to be used in the application. Therefore, when those variables are used in the code, any typographic errors are caught immediately and can be fixed.  

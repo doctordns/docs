@@ -1,12 +1,15 @@
 ---
 title: "Option Infer Statement"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.OptionInfer"
   - "vb.Infer"
@@ -17,9 +20,12 @@ helpviewer_keywords:
   - "declaring variables [Visual Basic], inferred"
   - "inferred variable declaration"
 ms.assetid: 4ad3e6e9-8f5b-4209-a248-de22ef6e4652
+<<<<<<< HEAD
 caps.latest.revision: 72
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Option Infer Statement
 Enables the use of local type inference in declaring variables.  
@@ -53,7 +59,11 @@ IntelliSense when Option Infer is on
 IntelliSense when Option Infer is off  
   
 > [!NOTE]
+<<<<<<< HEAD
 >  When a variable is declared as an `Object`, the run-time type can change while the program is running. [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] performs operations called *boxing* and *unboxing* to convert between an `Object` and a value type, which makes execution slower. For information about boxing and unboxing, see the [Visual Basic Language Specification](../../../visual-basic/reference/language-specification/index.md).
+=======
+>  When a variable is declared as an `Object`, the run-time type can change while the program is running. Visual Basic performs operations called *boxing* and *unboxing* to convert between an `Object` and a value type, which makes execution slower. For information about boxing and unboxing, see the [Visual Basic Language Specification](../../../visual-basic/reference/language-specification/index.md).
+>>>>>>> upstream/master
   
  Type inference applies at the procedure level, and does not apply outside a procedure in a class, structure, module, or interface.  
   

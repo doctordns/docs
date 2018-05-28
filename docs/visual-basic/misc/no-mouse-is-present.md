@@ -1,6 +1,7 @@
 ---
 title: "No mouse is present"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 4472fd57-4217-4463-9d3c-dc4a8fe88f1b
 caps.latest.revision: 10
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrMouse_NoMouseIsPresent"
+ms.assetid: 4472fd57-4217-4463-9d3c-dc4a8fe88f1b
+>>>>>>> upstream/master
 ---
 # No mouse is present
 One of the properties of the `My.Computer.Mouse` object was called, but the computer has no mouse or mouse port installed.  

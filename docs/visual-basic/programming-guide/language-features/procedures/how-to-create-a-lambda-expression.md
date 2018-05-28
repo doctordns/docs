@@ -1,5 +1,6 @@
 ---
 title: "How to: Create a Lambda Expression (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,13 +9,19 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "lambda expressions [Visual Basic]"
   - "expressions [Visual Basic], lambda"
 ms.assetid: 3279bd5c-80f7-410a-a7ba-f7085ed36aa5
+<<<<<<< HEAD
 caps.latest.revision: 27
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Create a Lambda Expression (Visual Basic)
 A *lambda expression* is a function or subroutine that does not have a name. A lambda expression can be used wherever a delegate type is valid.  

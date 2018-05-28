@@ -1,6 +1,7 @@
 ---
 title: "Argument &#39;Period&#39; must be less than or equal to argument &#39;Life&#39;"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: dc575d41-b376-4b05-bbbe-6de1e98385f1
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrFinancial_PeriodLELife"
+ms.assetid: dc575d41-b376-4b05-bbbe-6de1e98385f1
+>>>>>>> upstream/master
 ---
 # Argument &#39;Period&#39; must be less than or equal to argument &#39;Life&#39;
 The value of the `Period` argument, which specifies the period for which asset depreciation is calculated, is greater than the value of the `Life` argument.  

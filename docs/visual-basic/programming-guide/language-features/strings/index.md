@@ -1,5 +1,6 @@
 ---
 title: "Strings in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,10 +9,14 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "Visual Basic code, strings"
   - "strings [Visual Basic], Visual Basic"
 ms.assetid: 7e4c777c-ad69-46e2-8b9e-9be4033b1c96
+<<<<<<< HEAD
 caps.latest.revision: 13
 author: dotnet-bot
 ms.author: dotnetcontent
@@ -22,6 +27,15 @@ This section describes the basic concepts behind using strings in [!INCLUDE[vbpr
 ## In This Section  
  [Introduction to Strings in Visual Basic](../../../../visual-basic/programming-guide/language-features/strings/introduction-to-strings.md)  
  Lists topics that describe the basic concepts behind using strings in [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)].  
+=======
+---
+# Strings in Visual Basic
+This section describes the basic concepts behind using strings in Visual Basic.  
+  
+## In This Section  
+ [Introduction to Strings in Visual Basic](../../../../visual-basic/programming-guide/language-features/strings/introduction-to-strings.md)  
+ Lists topics that describe the basic concepts behind using strings in Visual Basic.  
+>>>>>>> upstream/master
   
  [How to: Create Strings Using a StringBuilder in Visual Basic](../../../../visual-basic/programming-guide/language-features/strings/how-to-create-strings-using-a-stringbuilder.md)  
  Demonstrates how to efficiently create a long string from many smaller strings.  

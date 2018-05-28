@@ -1,6 +1,7 @@
 ---
 title: "Format not valid in resource file"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -14,6 +15,14 @@ ms.author: dotnetcontent
 ---
 # Format not valid in resource file
 A resource file in your project does not follow the standard format for a Windows resource file or there is a mismatch between the resource file and the [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] project.  
+=======
+f1_keywords: 
+  - "vbrID325"
+ms.assetid: e986ab45-e3ce-430e-8704-5882e5da1104
+---
+# Format not valid in resource file
+A resource file in your project does not follow the standard format for a Windows resource file or there is a mismatch between the resource file and the Visual Basic project.  
+>>>>>>> upstream/master
   
 ## To correct this error  
   

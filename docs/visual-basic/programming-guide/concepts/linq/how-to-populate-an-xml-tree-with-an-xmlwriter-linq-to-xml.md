@@ -1,5 +1,6 @@
 ---
 title: "How to: Populate an XML Tree with an XmlWriter (LINQ to XML) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 5792a0eb-94ee-440d-b601-58cca8c0ee0b
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 5792a0eb-94ee-440d-b601-58cca8c0ee0b
+>>>>>>> upstream/master
 ---
 # How to: Populate an XML Tree with an XmlWriter (LINQ to XML) (Visual Basic)
 One way to populate an XML tree is to use <xref:System.Xml.Linq.XContainer.CreateWriter%2A> to create an <xref:System.Xml.XmlWriter>, and then write to the <xref:System.Xml.XmlWriter>. The XML tree is populated with all nodes that are written to the <xref:System.Xml.XmlWriter>.  

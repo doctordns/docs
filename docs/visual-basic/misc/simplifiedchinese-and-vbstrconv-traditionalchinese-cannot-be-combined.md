@@ -1,6 +1,7 @@
 ---
 title: "SimplifiedChinese and VbStrConv.TraditionalChinese cannot be combined"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: d8e6a11b-f549-43b5-8337-0594340e1325
 caps.latest.revision: 10
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrArgument_StrConvSCandTC"
+ms.assetid: d8e6a11b-f549-43b5-8337-0594340e1325
+>>>>>>> upstream/master
 ---
 # SimplifiedChinese and VbStrConv.TraditionalChinese cannot be combined
 Your application is attempting to combine the `VbStrConv` enumeration members `SimplifiedChinese` and `TraditionalChinese`, which are mutually exclusive.  

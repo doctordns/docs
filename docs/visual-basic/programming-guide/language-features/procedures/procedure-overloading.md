@@ -1,5 +1,6 @@
 ---
 title: "Procedure Overloading (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "signatures"
   - "Overloads keyword [Visual Basic]"
@@ -24,9 +28,12 @@ helpviewer_keywords:
   - "procedure overloading"
   - "procedures [Visual Basic], parameter lists"
 ms.assetid: fbc7fb18-e3b2-48b6-b554-64c00ed09d2a
+<<<<<<< HEAD
 caps.latest.revision: 24
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Procedure Overloading (Visual Basic)
 *Overloading* a procedure means defining it in multiple versions, using the same name but different parameter lists. The purpose of overloading is to define several closely related versions of a procedure without having to differentiate them by name. You do this by varying the parameter list.  

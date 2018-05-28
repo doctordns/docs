@@ -1,5 +1,6 @@
 ---
 title: "Sample XML File: Test Configuration (LINQ to XML)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 2e0e19f2-83e4-42ad-958a-6b3e34c9bf17
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 2e0e19f2-83e4-42ad-958a-6b3e34c9bf17
+>>>>>>> upstream/master
 ---
 # Sample XML File: Test Configuration (LINQ to XML)
 The following XML file is used in various examples in the [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] documentation. This is a test configuration file.  

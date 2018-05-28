@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "/optionstrict"
 ms.date: 07/20/2015
 ms.prod: .net
@@ -9,38 +10,66 @@ ms.technology:
 ms.topic: "article"
 f1_keywords: 
   - "/optionstrict"
+=======
+title: "-optionstrict"
+ms.date: 07/20/2015
+f1_keywords: 
+  - "-optionstrict"
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "-optionstrict compiler option [Visual Basic]"
   - "optionstrict compiler option [Visual Basic]"
   - "/optionstrict compiler option [Visual Basic]"
 ms.assetid: c7b10086-0fa4-49db-b3c8-4ae0db5957da
+<<<<<<< HEAD
 caps.latest.revision: 17
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # /optionstrict
+=======
+---
+# -optionstrict
+>>>>>>> upstream/master
 Enforces strict type semantics to restrict implicit type conversions.  
   
 ## Syntax  
   
 ```  
+<<<<<<< HEAD
 /optionstrict[+ | -]  
 /optionstrict[:custom]  
+=======
+-optionstrict[+ | -]  
+-optionstrict[:custom]  
+>>>>>>> upstream/master
 ```  
   
 ## Arguments  
  `+` &#124; `-`  
+<<<<<<< HEAD
  Optional. The `/optionstrict+` option restricts implicit type conversion. The default for this option is `/optionstrict-`. The `/optionstrict+` option is the same as `/optionstrict`. You can use both for permissive type semantics.  
+=======
+ Optional. The `-optionstrict+` option restricts implicit type conversion. The default for this option is `-optionstrict-`. The `-optionstrict+` option is the same as `-optionstrict`. You can use both for permissive type semantics.  
+>>>>>>> upstream/master
   
  `custom`  
  Required. Warn when strict language semantics are not respected.  
   
 ## Remarks  
+<<<<<<< HEAD
  When `/optionstrict+` is in effect, only widening type conversions can be made implicitly. Implicit narrowing type conversions, such as assigning a `Decimal` type object to an integer type object, are reported as errors.  
   
  To generate warnings for implicit narrowing type conversions, use `/optionstrict:custom`. Use `/nowarn:numberlist` to ignore particular warnings and `/warnaserror:numberlist` to treat particular warnings as errors.  
   
 ### To set /optionstrict in the Visual Studio IDE  
+=======
+ When `-optionstrict+` is in effect, only widening type conversions can be made implicitly. Implicit narrowing type conversions, such as assigning a `Decimal` type object to an integer type object, are reported as errors.  
+  
+ To generate warnings for implicit narrowing type conversions, use `-optionstrict:custom`. Use `-nowarn:numberlist` to ignore particular warnings and `-warnaserror:numberlist` to treat particular warnings as errors.  
+  
+### To set -optionstrict in the Visual Studio IDE  
+>>>>>>> upstream/master
   
 1.  Have a project selected in **Solution Explorer**. On the **Project** menu, click **Properties.**   
   
@@ -48,24 +77,41 @@ Enforces strict type semantics to restrict implicit type conversions.
   
 3.  Modify the value in the **Option Strict** box.  
   
+<<<<<<< HEAD
 ### To set /optionstrict programmatically  
+=======
+### To set -optionstrict programmatically  
+>>>>>>> upstream/master
   
 -   See [Option Strict Statement](../../../visual-basic/language-reference/statements/option-strict-statement.md).  
   
 ## Example  
  The following code compiles `Test.vb` using strict type semantics.  
   
+<<<<<<< HEAD
 ```  
 vbc /optionstrict+ test.vb  
+=======
+```console
+vbc -optionstrict+ test.vb  
+>>>>>>> upstream/master
 ```  
   
 ## See Also  
  [Visual Basic Command-Line Compiler](../../../visual-basic/reference/command-line-compiler/index.md)  
+<<<<<<< HEAD
  [/optioncompare](../../../visual-basic/reference/command-line-compiler/optioncompare.md)  
  [/optionexplicit](../../../visual-basic/reference/command-line-compiler/optionexplicit.md)  
  [/optioninfer](../../../visual-basic/reference/command-line-compiler/optioninfer.md)  
  [/nowarn](../../../visual-basic/reference/command-line-compiler/nowarn.md)  
  [/warnaserror (Visual Basic)](../../../visual-basic/reference/command-line-compiler/warnaserror.md)  
+=======
+ [-optioncompare](../../../visual-basic/reference/command-line-compiler/optioncompare.md)  
+ [-optionexplicit](../../../visual-basic/reference/command-line-compiler/optionexplicit.md)  
+ [-optioninfer](../../../visual-basic/reference/command-line-compiler/optioninfer.md)  
+ [-nowarn](../../../visual-basic/reference/command-line-compiler/nowarn.md)  
+ [-warnaserror (Visual Basic)](../../../visual-basic/reference/command-line-compiler/warnaserror.md)  
+>>>>>>> upstream/master
  [Sample Compilation Command Lines](../../../visual-basic/reference/command-line-compiler/sample-compilation-command-lines.md)  
  [Option Strict Statement](../../../visual-basic/language-reference/statements/option-strict-statement.md)  
  [Visual Basic Defaults, Projects, Options Dialog Box](/visualstudio/ide/reference/visual-basic-defaults-projects-options-dialog-box)

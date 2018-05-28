@@ -1,5 +1,6 @@
 ---
 title: "How to: Pass Procedures to Another Procedure in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,18 +9,28 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "AddressOf operator [Visual Basic]"
   - "delegates [Visual Basic], passing procedures"
 ms.assetid: 5adbba15-5a1d-413f-ab3e-3ff6cc0a4669
+<<<<<<< HEAD
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Pass Procedures to Another Procedure in Visual Basic
 This example shows how to use delegates to pass a procedure to another procedure.  
   
+<<<<<<< HEAD
  A delegate is a type that you can use like any other type in [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)]. The `AddressOf` operator returns a delegate object when applied to a procedure name.  
+=======
+ A delegate is a type that you can use like any other type in Visual Basic. The `AddressOf` operator returns a delegate object when applied to a procedure name.  
+>>>>>>> upstream/master
   
  This example has a procedure with a delegate parameter that can take a reference to another procedure, obtained with the `AddressOf` operator.  
   

@@ -3,7 +3,11 @@
 |   |   |
 |---|---|
 |Details|Launching an app from Visual Studio 2013 that uses EntityFramework 6.0 can be very slow.|
+<<<<<<< HEAD
 |Suggestion|This issue is fixed in EntityFramework 6.0.2. Please update EntityFramework to avoid the performance issue.|
+=======
+|Suggestion|This issue is fixed in EntityFramework 6.0.2. Update EntityFramework to avoid the performance issue.|
+>>>>>>> upstream/master
 |Scope|Edge|
 |Version|4.5|
 |Type|Runtime|

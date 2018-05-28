@@ -1,6 +1,7 @@
 ---
 title: "Unable to ping because a network connection is not available"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 8d2bac12-bc6a-42ae-b28b-80b026dfabce
 caps.latest.revision: 7
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrNetwork_NetworkNotAvailable"
+ms.assetid: 8d2bac12-bc6a-42ae-b28b-80b026dfabce
+>>>>>>> upstream/master
 ---
 # Unable to ping because a network connection is not available
 The operation cannot be performed because no network connection is available.  

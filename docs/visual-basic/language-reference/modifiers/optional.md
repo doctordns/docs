@@ -1,11 +1,14 @@
 ---
 title: "Optional (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.Optional"
   - "vb.optional"
@@ -13,9 +16,12 @@ helpviewer_keywords:
   - "Optional keyword [Visual Basic], contexts"
   - "Optional keyword [Visual Basic]"
 ms.assetid: 4571ce88-a539-4115-b230-54eb277c6aa7
+<<<<<<< HEAD
 caps.latest.revision: 14
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Optional (Visual Basic)
 Specifies that a procedure argument can be omitted when the procedure is called.  

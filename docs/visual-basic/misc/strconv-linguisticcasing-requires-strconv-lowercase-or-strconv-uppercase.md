@@ -1,6 +1,7 @@
 ---
 title: "&#39;StrConv.LinguisticCasing&#39; requires &#39;StrConv.LowerCase&#39; or &#39;StrConv.UpperCase&#39;"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 99cdb11d-9488-460b-84fb-a27f43da8be4
 caps.latest.revision: 7
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrLinguisticRequirements"
+ms.assetid: 99cdb11d-9488-460b-84fb-a27f43da8be4
+>>>>>>> upstream/master
 ---
 # &#39;StrConv.LinguisticCasing&#39; requires &#39;StrConv.LowerCase&#39; or &#39;StrConv.UpperCase&#39;
 You have attempted to use `StrConv.LinguisticCasing`, which is only valid in combination with `StrConv.LowerCase` or `StrConv.UpperCase`.  

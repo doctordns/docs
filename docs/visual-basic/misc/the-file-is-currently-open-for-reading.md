@@ -1,6 +1,7 @@
 ---
 title: "The file is currently open for reading"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: 7f662a68-021a-4432-947a-6bde48061257
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 7f662a68-021a-4432-947a-6bde48061257
+>>>>>>> upstream/master
 ---
 # The file is currently open for reading
 An attempt has been made to access a file that is currently open for reading.  

@@ -1,5 +1,6 @@
 ---
 title: "Lambda Expressions (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.LambdaFunction"
 helpviewer_keywords: 
@@ -16,9 +20,12 @@ helpviewer_keywords:
   - "expressions [Visual Basic], lambda"
   - "inline functions [Visual Basic]"
 ms.assetid: 137064b0-3928-4bfa-ba71-c3f9cbd951e2
+<<<<<<< HEAD
 caps.latest.revision: 52
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Lambda Expressions (Visual Basic)
 A *lambda expression* is a function or subroutine without a name that can be used wherever a delegate is valid. Lambda expressions can be functions or subroutines and can be single-line or multi-line. You can pass values from the current scope to a lambda expression.  

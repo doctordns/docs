@@ -1,12 +1,15 @@
 ---
 title: "Stop Statement (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.Stop"
 helpviewer_keywords: 
@@ -18,9 +21,12 @@ helpviewer_keywords:
   - "processes, interrupting"
   - "execution [Visual Basic], stopping"
 ms.assetid: c9a9fde0-d649-4662-9bef-bd0146ebc2a7
+<<<<<<< HEAD
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Stop Statement (Visual Basic)
 Suspends execution.  

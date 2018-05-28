@@ -1,5 +1,6 @@
 ---
 title: "Walkthrough: Calling Windows APIs (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "DLLs, calling"
   - "Windows API, walkthroughs"
@@ -18,18 +22,27 @@ helpviewer_keywords:
   - "DllImport attribute, calling Windows API"
   - "Declare statement [Visual Basic], declaring DLL functions"
 ms.assetid: 9280ca96-7a93-47a3-8d01-6d01be0657cb
+<<<<<<< HEAD
 caps.latest.revision: 20
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Walkthrough: Calling Windows APIs (Visual Basic)
 Windows APIs are dynamic-link libraries (DLLs) that are part of the Windows operating system. You use them to perform tasks when it is difficult to write equivalent procedures of your own. For example, Windows provides a function named `FlashWindowEx` that lets you make the title bar for an application alternate between light and dark shades.  
   
  The advantage of using Windows APIs in your code is that they can save development time because they contain dozens of useful functions that are already written and waiting to be used. The disadvantage is that Windows APIs can be difficult to work with and unforgiving when things go wrong.  
   
+<<<<<<< HEAD
  Windows APIs represent a special category of interoperability. Windows APIs do not use managed code, do not have built-in type libraries, and use data types that are different than those used with Visual Studio. Because of these differences, and because Windows APIs are not COM objects, interoperability with Windows APIs and the [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] is performed using platform invoke, or PInvoke. Platform invoke is a service that enables managed code to call unmanaged functions implemented in DLLs. For more information, see [Consuming Unmanaged DLL Functions](../../../framework/interop/consuming-unmanaged-dll-functions.md). You can use PInvoke in [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] by using either the `Declare` statement or applying the `DllImport` attribute to an empty procedure.  
   
  Windows API calls were an important part of [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] programming in the past, but are seldom necessary with Visual Basic .NET. Whenever possible, you should use managed code from the [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] to perform tasks, instead of Windows API calls. This walkthrough provides information for those situations in which using Windows APIs is necessary.  
+=======
+ Windows APIs represent a special category of interoperability. Windows APIs do not use managed code, do not have built-in type libraries, and use data types that are different than those used with Visual Studio. Because of these differences, and because Windows APIs are not COM objects, interoperability with Windows APIs and the [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] is performed using platform invoke, or PInvoke. Platform invoke is a service that enables managed code to call unmanaged functions implemented in DLLs. For more information, see [Consuming Unmanaged DLL Functions](../../../framework/interop/consuming-unmanaged-dll-functions.md). You can use PInvoke in Visual Basic by using either the `Declare` statement or applying the `DllImport` attribute to an empty procedure.  
+  
+ Windows API calls were an important part of Visual Basic programming in the past, but are seldom necessary with Visual Basic .NET. Whenever possible, you should use managed code from the [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] to perform tasks, instead of Windows API calls. This walkthrough provides information for those situations in which using Windows APIs is necessary.  
+>>>>>>> upstream/master
   
 [!INCLUDE[note_settings_general](~/includes/note-settings-general-md.md)]  
   
@@ -45,7 +58,11 @@ Windows APIs are dynamic-link libraries (DLLs) that are part of the Windows oper
   
 2.  Open a new Windows Application project by clicking **New** on the **File** menu, and then clicking **Project**. The **New Project** dialog box appears.  
   
+<<<<<<< HEAD
 3.  Select **Windows Application** from the list of [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] project templates. The new project is displayed.  
+=======
+3.  Select **Windows Application** from the list of Visual Basic project templates. The new project is displayed.  
+>>>>>>> upstream/master
   
 4.  Add the following `Declare` function either to the class or module in which you want to use the DLL:  
   
@@ -62,6 +79,7 @@ Windows APIs are dynamic-link libraries (DLLs) that are part of the Windows oper
   
  Specify the `Lib` keyword, followed by the name and location of the DLL that contains the function you are calling. You do not need to specify the path for files located in the Windows system directories.  
   
+<<<<<<< HEAD
  Use the `Alias` keyword if the name of the function you are calling is not a valid [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] procedure name, or conflicts with the name of other items in your application. `Alias` indicates the true name of the function being called.  
   
 #### Argument and Data Type Declarations  
@@ -69,6 +87,15 @@ Windows APIs are dynamic-link libraries (DLLs) that are part of the Windows oper
   
 > [!NOTE]
 >  Previous versions of [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] allowed you to declare parameters `As Any`, meaning that data of any data type could be used. [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] requires that you use a specific data type for all `Declare` statements.  
+=======
+ Use the `Alias` keyword if the name of the function you are calling is not a valid Visual Basic procedure name, or conflicts with the name of other items in your application. `Alias` indicates the true name of the function being called.  
+  
+#### Argument and Data Type Declarations  
+ Declare the arguments and their data types. This part can be challenging because the data types that Windows uses do not correspond to Visual Studio data types. Visual Basic does a lot of the work for you by converting arguments to compatible data types, a process called *marshaling*. You can explicitly control how arguments are marshaled by using the <xref:System.Runtime.InteropServices.MarshalAsAttribute> attribute defined in the <xref:System.Runtime.InteropServices> namespace.  
+  
+> [!NOTE]
+>  Previous versions of Visual Basic allowed you to declare parameters `As Any`, meaning that data of any data type could be used. Visual Basic requires that you use a specific data type for all `Declare` statements.  
+>>>>>>> upstream/master
   
 #### Windows API Constants  
  Some arguments are combinations of constants. For example, the `MessageBox` API shown in this walkthrough accepts an integer argument called `Typ` that controls how the message box is displayed. You can determine the numeric value of these constants by examining the `#define` statements in the file WinUser.h. The numeric values are generally shown in hexadecimal, so you may want to use a calculator to add them and convert to decimal. For example, if you want to combine the constants for the exclamation style `MB_ICONEXCLAMATION` 0x00000030 and the Yes/No style `MB_YESNO` 0x00000004, you can add the numbers and get a result of 0x00000034, or 52 decimal. Although you can use the decimal result directly, it is better to declare these values as constants in your application and combine them using the `Or` operator.  
@@ -96,7 +123,11 @@ Windows APIs are dynamic-link libraries (DLLs) that are part of the Windows oper
 3.  Run the project by pressing F5. The message box is displayed with both **Yes** and **No** response buttons. Click either one.  
   
 #### Data Marshaling  
+<<<<<<< HEAD
  [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] automatically converts the data types of parameters and return values for Windows API calls, but you can use the `MarshalAs` attribute to explicitly specify unmanaged data types that an API expects. For more information about interop marshaling, see [Interop Marshaling](../../../framework/interop/interop-marshaling.md).  
+=======
+ Visual Basic automatically converts the data types of parameters and return values for Windows API calls, but you can use the `MarshalAs` attribute to explicitly specify unmanaged data types that an API expects. For more information about interop marshaling, see [Interop Marshaling](../../../framework/interop/interop-marshaling.md).  
+>>>>>>> upstream/master
   
 ###### To use Declare and MarshalAs in an API call  
   
@@ -119,7 +150,11 @@ Windows APIs are dynamic-link libraries (DLLs) that are part of the Windows oper
   
 1.  Open a new Windows Application project by clicking **New** on the **File** menu, and then clicking **Project**. The **New Project** dialog box appears.  
   
+<<<<<<< HEAD
 2.  Select **Windows Application** from the list of [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] project templates. The new project is displayed.  
+=======
+2.  Select **Windows Application** from the list of Visual Basic project templates. The new project is displayed.  
+>>>>>>> upstream/master
   
 3.  Add a button named `Button2` to the startup form.  
   

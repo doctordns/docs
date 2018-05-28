@@ -1,5 +1,6 @@
 ---
 title: "Sub Procedures (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "Sub procedures [Visual Basic], about Sub procedures"
   - "statement blocks"
@@ -18,12 +22,18 @@ helpviewer_keywords:
   - "procedures [Visual Basic], Sub"
   - "syntax [Visual Basic], Sub procedures"
 ms.assetid: 6a0a4958-ed0a-4d3d-8d31-0772c82bda58
+<<<<<<< HEAD
 caps.latest.revision: 21
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # Sub Procedures (Visual Basic)
 A `Sub` procedure is a series of [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] statements enclosed by the `Sub` and `End Sub` statements. The `Sub` procedure performs a task and then returns control to the calling code, but it does not return a value to the calling code.  
+=======
+---
+# Sub Procedures (Visual Basic)
+A `Sub` procedure is a series of Visual Basic statements enclosed by the `Sub` and `End Sub` statements. The `Sub` procedure performs a task and then returns control to the calling code, but it does not return a value to the calling code.  
+>>>>>>> upstream/master
   
  Each time the procedure is called, its statements are executed, starting with the first executable statement after the `Sub` statement and ending with the first `End Sub`, `Exit Sub`, or `Return` statement encountered.  
   

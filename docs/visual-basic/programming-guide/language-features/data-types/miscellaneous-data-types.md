@@ -1,5 +1,6 @@
 ---
 title: "Miscellaneous Data Types (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,10 +9,14 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "Object data type [Visual Basic], data types"
   - "data types [Visual Basic], choosing"
 ms.assetid: 64c71a12-9057-4dbf-baca-7379c4aada69
+<<<<<<< HEAD
 caps.latest.revision: 22
 author: dotnet-bot
 ms.author: dotnetcontent
@@ -20,6 +25,13 @@ ms.author: dotnetcontent
 [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] supplies several data types that are not oriented toward numbers or characters. Instead, they deal with specialized data such as yes/no values, date/time values, and object addresses.  
   
  For a table showing a side-by-side comparison of the [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] data types, see [Data Types](../../../../visual-basic/language-reference/data-types/data-type-summary.md).  
+=======
+---
+# Miscellaneous Data Types (Visual Basic)
+Visual Basic supplies several data types that are not oriented toward numbers or characters. Instead, they deal with specialized data such as yes/no values, date/time values, and object addresses.  
+  
+ For a table showing a side-by-side comparison of the Visual Basic data types, see [Data Types](../../../../visual-basic/language-reference/data-types/data-type-summary.md).  
+>>>>>>> upstream/master
   
 ## Boolean Type  
  The [Boolean Data Type](../../../../visual-basic/language-reference/data-types/boolean-data-type.md) is an unsigned value that is interpreted as either `True` or `False`. Its data width depends on the implementing platform. If a variable can contain only two-state values such as true/false, yes/no, or on/off, declare it as `Boolean`.  

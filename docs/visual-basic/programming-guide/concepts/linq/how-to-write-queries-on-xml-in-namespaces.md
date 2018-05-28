@@ -1,5 +1,6 @@
 ---
 title: "How to: Write Queries on XML in Namespaces (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 7d4131b5-3288-414f-b77c-b2edc2a1f465
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 7d4131b5-3288-414f-b77c-b2edc2a1f465
+>>>>>>> upstream/master
 ---
 # How to: Write Queries on XML in Namespaces (Visual Basic)
 To write a query on XML that is in a namespace, you must use <xref:System.Xml.Linq.XName> objects that have the correct namespace.  

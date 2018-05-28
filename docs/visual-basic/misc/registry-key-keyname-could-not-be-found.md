@@ -1,6 +1,7 @@
 ---
 title: "Registry key &#39;&lt;keyname&gt;&#39; could not be found"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: ca4eb74f-8303-48fc-9ea8-d792fa4c810b
 caps.latest.revision: 6
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: ca4eb74f-8303-48fc-9ea8-d792fa4c810b
+>>>>>>> upstream/master
 ---
 # Registry key &#39;&lt;keyname&gt;&#39; could not be found
 A registry key cannot be found.  

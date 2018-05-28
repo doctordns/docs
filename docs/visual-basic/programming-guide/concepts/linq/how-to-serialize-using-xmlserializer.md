@@ -1,5 +1,6 @@
 ---
 title: "How to: Serialize Using XmlSerializer (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: cace24eb-0f43-4016-8e4b-199e5ef73a1c
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: cace24eb-0f43-4016-8e4b-199e5ef73a1c
+>>>>>>> upstream/master
 ---
 # How to: Serialize Using XmlSerializer (Visual Basic)
 This topic shows an example that serializes and deserializes using <xref:System.Xml.Serialization.XmlSerializer>.  

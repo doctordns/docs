@@ -1,12 +1,15 @@
 ---
 title: "Operator Statement"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.operator"
 helpviewer_keywords: 
@@ -23,9 +26,12 @@ helpviewer_keywords:
   - "Operator statement [Visual Basic]"
   - "CType function [Visual Basic], Operator statement"
 ms.assetid: b12ec4af-1ad7-4a17-865b-c5ee96320ae5
+<<<<<<< HEAD
 caps.latest.revision: 28
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Operator Statement
 Declares the operator symbol, operands, and code that define an operator procedure on a class or structure.  

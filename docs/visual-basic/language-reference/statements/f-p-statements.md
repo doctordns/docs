@@ -1,6 +1,7 @@
 ---
 title: "F-P Statements"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
@@ -14,6 +15,12 @@ ms.author: dotnetcontent
 ---
 # F-P Statements
 The following table contains a listing of [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] language statements.  
+=======
+ms.assetid: cdce7ab0-c52e-4d33-a29b-bf32cdacc79f
+---
+# F-P Statements
+The following table contains a listing of Visual Basic language statements.  
+>>>>>>> upstream/master
   
 |||||  
 |---|---|---|---|  

@@ -1,5 +1,6 @@
 ---
 title: "How to: Catch Parsing Errors (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 22e9068e-ea58-447b-816e-cd1852c11787
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 22e9068e-ea58-447b-816e-cd1852c11787
+>>>>>>> upstream/master
 ---
 # How to: Catch Parsing Errors (Visual Basic)
 This topic shows how to detect badly formed or invalid XML.  

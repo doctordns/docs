@@ -1,6 +1,7 @@
 ---
 title: "Invalid pattern string"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: ec1aecdb-5339-4a93-be71-eec56b1d7438
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: ec1aecdb-5339-4a93-be71-eec56b1d7438
+>>>>>>> upstream/master
 ---
 # Invalid pattern string
 The pattern string specified in the `Like` operation of a search is invalid.  

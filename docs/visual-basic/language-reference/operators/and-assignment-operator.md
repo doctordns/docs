@@ -1,12 +1,15 @@
 ---
 title: "&amp;= Operator (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.&="
 helpviewer_keywords: 
@@ -16,9 +19,12 @@ helpviewer_keywords:
   - "&= operator [Visual Basic]"
   - "compound assignment statements [Visual Basic]"
 ms.assetid: 0cf262fc-1a05-419a-a503-60013f111c8a
+<<<<<<< HEAD
 caps.latest.revision: 15
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # &amp;= Operator (Visual Basic)
 Concatenates a `String` expression to a `String` variable or property and assigns the result to the variable or property.  

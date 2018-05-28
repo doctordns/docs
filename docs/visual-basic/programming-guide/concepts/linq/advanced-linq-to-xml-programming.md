@@ -1,5 +1,6 @@
 ---
 title: "Advanced LINQ to XML Programming (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 36018532-a55c-4538-8a27-98f475ea3415
+>>>>>>> upstream/master
 ---
 # Advanced LINQ to XML Programming (Visual Basic)
 This section provides information that will only be applicable to advanced developers in certain [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] scenarios.  

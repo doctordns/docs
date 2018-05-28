@@ -1,5 +1,6 @@
 ---
 title: "Querying XML Trees (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 2e35c1ab-08c8-4378-9ca8-8ff344756eda
+>>>>>>> upstream/master
 ---
 # Querying XML Trees (Visual Basic)
 This section provides examples of [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] queries.  

@@ -1,12 +1,15 @@
 ---
 title: "TypeOf Operator (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "TypeOf"
   - "vb.TypeOf"
@@ -18,9 +21,12 @@ helpviewer_keywords:
   - "TypeOf operator [Visual Basic]"
   - "compatible data types [Visual Basic]"
 ms.assetid: 33f65296-659a-4b9a-9a29-c2a91cff68b2
+<<<<<<< HEAD
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # TypeOf Operator (Visual Basic)
 Compares an object reference variable to a data type.  

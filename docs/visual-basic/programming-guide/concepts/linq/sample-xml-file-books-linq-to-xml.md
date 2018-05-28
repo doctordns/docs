@@ -1,5 +1,6 @@
 ---
 title: "Sample XML File: Books (LINQ to XML)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 27ca5847-2289-40c0-8331-ede67ec59d1c
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 27ca5847-2289-40c0-8331-ede67ec59d1c
+>>>>>>> upstream/master
 ---
 # Sample XML File: Books (LINQ to XML)
 The following XML file is used in various examples in the [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] documentation. The file contains information about books.  

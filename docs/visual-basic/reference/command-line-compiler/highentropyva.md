@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "/highentropyva (Visual Basic)"
 ms.date: 07/20/2015
 ms.prod: .net
@@ -7,26 +8,45 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+title: "-highentropyva (Visual Basic)"
+ms.date: 03/10/2018
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "highentropyva compiler option (Visual Basic)"
   - "/highentropyva compiler option (Visual Basic)"
 ms.assetid: ff25f20a-6ca2-467b-9e52-5cf439f5028e
+<<<<<<< HEAD
 caps.latest.revision: 12
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # /highentropyva (Visual Basic)
+=======
+author: rpetrusha
+ms.author: ronpet
+---
+# -highentropyva (Visual Basic)
+>>>>>>> upstream/master
 Indicates whether a 64-bit executable or an executable that's marked by the [/platform:anycpu](../../../visual-basic/reference/command-line-compiler/platform.md) compiler option supports high entropy Address Space Layout Randomization (ASLR).  
   
 ## Syntax  
   
 ```  
+<<<<<<< HEAD
 /highentropyva[+ | -]  
+=======
+-highentropyva[+ | -]  
+>>>>>>> upstream/master
 ```  
   
 ## Arguments  
  `+` &#124; `-`  
+<<<<<<< HEAD
  Optional. The option is off by default or if you specify `/highentropyva-`. The option is on if you specify `/highentropyva` or `/highentropyva+`.  
+=======
+ Optional. The option is off by default or if you specify `-highentropyva-`. The option is on if you specify `-highentropyva` or `-highentropyva+`.  
+>>>>>>> upstream/master
   
 ## Remarks  
  If you specify this option, compatible versions of the Windows kernel can use higher degrees of entropy when the kernel randomizes the address space layout of a process as part of ASLR. If the kernel uses higher degrees of entropy, a larger number of addresses can be allocated to memory regions such as stacks and heaps. As a result, it is more difficult to guess the location of a particular memory region.  

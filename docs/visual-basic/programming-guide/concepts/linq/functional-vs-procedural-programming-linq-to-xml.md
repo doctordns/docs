@@ -1,5 +1,6 @@
 ---
 title: "Functional vs. Procedural Programming (LINQ to XML) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: ea1015a5-d4c8-4d79-8e1e-ba17a40a4f39
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: ea1015a5-d4c8-4d79-8e1e-ba17a40a4f39
+>>>>>>> upstream/master
 ---
 # Functional vs. Procedural Programming (LINQ to XML) (Visual Basic)
 There are various types of XML applications:  

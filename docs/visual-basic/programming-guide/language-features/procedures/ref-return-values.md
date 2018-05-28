@@ -1,5 +1,6 @@
 ---
 title: "Ref Return Values (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 04/28/2017
 ms.prod: .net
@@ -9,6 +10,9 @@ ms.technology:
   - "devlang-visual-basic"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
+=======
+ms.date: 04/28/2017
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "variables [Visual Basic]"
   - "ref return values [Visual Basic]"
@@ -19,7 +23,11 @@ ms.author: ronpet
 ---
 # Support for reference return values (Visual Basic)
 
+<<<<<<< HEAD
 Starting with C# 7, the C# language supports *reference return values*. One way to understand reference return values is that they are the opposite of arguments that are passed by reference to a method. When an argument passed by reference is modified, the changes are reflected in value of the variable on the caller. When an method provides a reference return value to a caller, modifications made to the reference return value by the caller are reflected in the called method's data.
+=======
+Starting with C# 7.0, the C# language supports *reference return values*. One way to understand reference return values is that they are the opposite of arguments that are passed by reference to a method. When an argument passed by reference is modified, the changes are reflected in value of the variable on the caller. When an method provides a reference return value to a caller, modifications made to the reference return value by the caller are reflected in the called method's data.
+>>>>>>> upstream/master
 
 Visual Basic does not allow you to author methods with reference return values, but it does allow you to consume reference return values. In other words, you can call a method with a reference return value and modify that return value, and changes to the reference return value are reflected in the called method's data.
 

@@ -1,5 +1,6 @@
 ---
 title: "Style Part of a WordprocessingML Document2"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 292cc094-9483-4192-ac3b-a5dc51fbac12
+>>>>>>> upstream/master
 ---
 # Style Part of a WordprocessingML Document
 This topic shows an example of the style part of the Office Open XML WordprocessingML document.  

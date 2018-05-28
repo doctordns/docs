@@ -1,5 +1,6 @@
 ---
 title: "How to: Chain Axis Method Calls (LINQ to XML) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: e4e22942-39bd-460f-b3c0-9f09e53d3aa9
+>>>>>>> upstream/master
 ---
 # How to: Chain Axis Method Calls (LINQ to XML) (Visual Basic)
 A common pattern that you will use in your code is to call an axis method, then call one of the extension method axes.  

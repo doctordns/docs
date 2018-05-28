@@ -1,5 +1,6 @@
 ---
 title: "How to: Load XML from a File, String, or Stream (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -9,13 +10,19 @@ ms.technology:
   - "devlang-visual-basic"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "XML [Visual Basic], loading"
   - "LINQ to XML [Visual Basic], loading XML from files"
 ms.assetid: 2b02dcec-4cca-4575-b4ad-89ceb87b984c
+<<<<<<< HEAD
 caps.latest.revision: 13
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Load XML from a File, String, or Stream (Visual Basic)
 You can create [XML Literals](../../../../visual-basic/language-reference/xml-literals/index.md) and populate them with the contents from an external source such as a file, a string, or a stream by using several methods. These methods are shown in the following examples.  

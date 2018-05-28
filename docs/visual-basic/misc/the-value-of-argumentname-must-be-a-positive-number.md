@@ -1,6 +1,7 @@
 ---
 title: "The value of &lt;argumentname&gt; must be a positive number"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 597c412c-499e-49d2-b656-af2d90c292a5
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrApplicationLog_NegativeNumber"
+ms.assetid: 597c412c-499e-49d2-b656-af2d90c292a5
+>>>>>>> upstream/master
 ---
 # The value of &lt;argumentname&gt; must be a positive number
 The value of the <xref:Microsoft.VisualBasic.Logging.FileLogTraceListener.ReserveDiskSpace%2A> property must be greater than zero.  

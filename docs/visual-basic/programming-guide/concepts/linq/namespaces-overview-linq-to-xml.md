@@ -1,5 +1,6 @@
 ---
 title: "Namespaces Overview (LINQ to XML)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: b8eb31fa-4b26-4acf-8050-6e705687f458
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: b8eb31fa-4b26-4acf-8050-6e705687f458
+>>>>>>> upstream/master
 ---
 # Namespaces Overview (LINQ to XML)
 This topic introduces namespaces, the <xref:System.Xml.Linq.XName> class, and the <xref:System.Xml.Linq.XNamespace> class.  

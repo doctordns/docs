@@ -1,5 +1,6 @@
 ---
 title: "Projection Operations (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: b8d38e6d-21cf-4619-8dbb-94476f4badc7
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: b8d38e6d-21cf-4619-8dbb-94476f4badc7
+>>>>>>> upstream/master
 ---
 # Projection Operations (Visual Basic)
 Projection refers to the operation of transforming an object into a new form that often consists only of those properties that will be subsequently used. By using projection, you can construct a new type that is built from each object. You can project a property and perform a mathematical function on it. You can also project the original object without changing it.  

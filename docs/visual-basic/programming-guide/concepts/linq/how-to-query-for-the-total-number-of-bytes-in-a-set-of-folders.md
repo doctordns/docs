@@ -1,5 +1,6 @@
 ---
 title: "How to: Query for the Total Number of Bytes in a Set of Folders (LINQ) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: bfe85ed2-44dc-4ef1-aac7-241622b80a69
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: bfe85ed2-44dc-4ef1-aac7-241622b80a69
+>>>>>>> upstream/master
 ---
 # How to: Query for the Total Number of Bytes in a Set of Folders (LINQ) (Visual Basic)
 This example shows how to retrieve the total number of bytes used by all the files in a specified folder and all its subfolders.  

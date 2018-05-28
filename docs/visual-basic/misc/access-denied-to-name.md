@@ -1,6 +1,7 @@
 ---
 title: "Access denied to &#39;&lt;name&gt;&#39;"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: 196c7286-4833-41d9-bbcb-f64c17eb2a59
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 196c7286-4833-41d9-bbcb-f64c17eb2a59
+>>>>>>> upstream/master
 ---
 # Access denied to &#39;&lt;name&gt;&#39;
 A device, file, or disk is not accessible because your computer's security permissions are insufficient.  

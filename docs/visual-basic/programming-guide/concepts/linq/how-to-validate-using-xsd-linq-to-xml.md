@@ -1,5 +1,6 @@
 ---
 title: "How to: Validate Using XSD (LINQ to XML) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: a0fe88d4-4e77-49e7-90de-8953feeccc21
 caps.latest.revision: 4
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: a0fe88d4-4e77-49e7-90de-8953feeccc21
+>>>>>>> upstream/master
 ---
 # How to: Validate Using XSD (LINQ to XML) (Visual Basic)
 The <xref:System.Xml.Schema> namespace contains extension methods that make it easy to validate an XML tree against an XML Schema Definition Language (XSD) file. For more information, see the <xref:System.Xml.Schema.Extensions.Validate%2A> method documentation.  

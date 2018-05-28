@@ -1,5 +1,6 @@
 ---
 title: "Handling Reentrancy in Async Apps (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: ef3dc73d-13fb-4c5f-a686-6b84148bbffe
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: ef3dc73d-13fb-4c5f-a686-6b84148bbffe
+>>>>>>> upstream/master
 ---
 # Handling Reentrancy in Async Apps (Visual Basic)
 When you include asynchronous code in your app, you should consider and possibly prevent reentrancy, which refers to reentering an asynchronous operation before it has completed. If you don't identify and handle possibilities for reentrancy, it can cause unexpected results.  

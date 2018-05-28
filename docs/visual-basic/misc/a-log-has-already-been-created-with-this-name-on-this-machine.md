@@ -1,6 +1,7 @@
 ---
 title: "A log has already been created with this name on this machine"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: 3dd78d9f-890e-4409-bebb-048fdf34711b
 caps.latest.revision: 10
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 3dd78d9f-890e-4409-bebb-048fdf34711b
+>>>>>>> upstream/master
 ---
 # A log has already been created with this name on this machine
 An attempt has been made to create a log with a name that is already in use.  

@@ -1,5 +1,6 @@
 ---
 title: "Array Dimensions in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "dimensions, arrays"
   - "arrays [Visual Basic], dimensions"
@@ -16,9 +20,12 @@ helpviewer_keywords:
   - "rectangular arrays"
   - "ranking, arrays"
 ms.assetid: 385e911b-18c1-4e98-9924-c6d279101dd9
+<<<<<<< HEAD
 caps.latest.revision: 22
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Array Dimensions in Visual Basic
 A *dimension* is a direction in which you can vary the specification of an array's elements. An array that holds the sales total for each day of the month has one dimension (the day of the month). An array that holds the sales total by department for each day of the month has two dimensions (the department number and the day of the month). The number of dimensions an array has is called its *rank*.  

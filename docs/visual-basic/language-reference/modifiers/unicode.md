@@ -1,11 +1,14 @@
 ---
 title: "Unicode (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.Unicode"
 helpviewer_keywords: 
@@ -14,9 +17,12 @@ helpviewer_keywords:
   - "Unicode keyword [Visual Basic]"
   - "Unicode, marshaling strings"
 ms.assetid: 0021d5ff-3209-444e-8497-420f3e6ee075
+<<<<<<< HEAD
 caps.latest.revision: 14
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Unicode (Visual Basic)
 Specifies that Visual Basic should marshal all strings to Unicode values regardless of the name of the external procedure being declared.  

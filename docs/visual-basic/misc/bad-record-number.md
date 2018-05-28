@@ -1,6 +1,7 @@
 ---
 title: "Bad record number"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 1fcc33f8-822a-4de9-a6e3-228ddb5824a6
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrID63"
+ms.assetid: 1fcc33f8-822a-4de9-a6e3-228ddb5824a6
+>>>>>>> upstream/master
 ---
 # Bad record number
 The record number in `a FileGet`, `FilePut`, `FileGetObject`, or `FilePutObject` statement is less than or equal to zero.  

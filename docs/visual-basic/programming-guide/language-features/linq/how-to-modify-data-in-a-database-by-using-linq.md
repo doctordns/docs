@@ -1,5 +1,6 @@
 ---
 title: "How to: Modify Data in a Database by Using LINQ (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "inserting rows [LINQ to SQL]"
   - "deleting rows [LINQ to SQL]"
@@ -19,9 +23,12 @@ helpviewer_keywords:
   - "queries [LINQ in Visual Basic], data changes in database"
   - "queries [LINQ in Visual Basic], how-to topics"
 ms.assetid: cf52635f-0c1b-46c3-aff1-bdf181cf19b1
+<<<<<<< HEAD
 caps.latest.revision: 15
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Modify Data in a Database by Using LINQ (Visual Basic)
 Language-Integrated Query (LINQ) queries make it easy to access database information and modify values in the database.  

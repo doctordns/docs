@@ -1,5 +1,6 @@
 ---
 title: "How to: Create a Procedure that Returns a Value (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,14 +9,20 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "procedures [Visual Basic], defining"
   - "Visual Basic code, procedures"
   - "procedures [Visual Basic], returning a value"
 ms.assetid: 8ee19f95-a9ef-4033-963b-d224dca207c4
+<<<<<<< HEAD
 caps.latest.revision: 16
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Create a Procedure that Returns a Value (Visual Basic)
 You use a `Function` procedure to return a value to the calling code.  

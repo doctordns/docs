@@ -1,12 +1,15 @@
 ---
 title: "Of Clause (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "Of"
   - "vb.Of"
@@ -23,9 +26,12 @@ helpviewer_keywords:
   - "type parameters"
   - "data type arguments"
 ms.assetid: 0db8f65c-65af-4089-ab7f-6fcfecb60444
+<<<<<<< HEAD
 caps.latest.revision: 17
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Of Clause (Visual Basic)
 Introduces an `Of` clause, which identifies a *type parameter* on a *generic* class, structure, interface, delegate, or procedure. For information on generic types, see [Generic Types in Visual Basic](../../../visual-basic/programming-guide/language-features/data-types/generic-types.md).  

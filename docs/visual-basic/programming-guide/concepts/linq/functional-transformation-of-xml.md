@@ -1,5 +1,6 @@
 ---
 title: "Functional Transformation of XML (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: fdbe5b91-f457-4b4e-a11b-def4bdd77bab
+>>>>>>> upstream/master
 ---
 # Functional Transformation of XML (Visual Basic)
 This topic discusses the pure functional transformation approach to modifying XML documents, and contrasts it with a procedural approach.  

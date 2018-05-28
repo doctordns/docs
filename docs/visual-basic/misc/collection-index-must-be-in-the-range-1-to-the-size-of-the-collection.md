@@ -1,6 +1,7 @@
 ---
 title: "Collection index must be in the range 1 to the size of the collection"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: feee4d55-0754-40fe-9ce9-288ef543f569
 caps.latest.revision: 5
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrArgument_CollectionIndex"
+ms.assetid: feee4d55-0754-40fe-9ce9-288ef543f569
+>>>>>>> upstream/master
 ---
 # Collection index must be in the range 1 to the size of the collection
 The supplied index value falls outside the valid range, which is 1 to the size of the collection.  

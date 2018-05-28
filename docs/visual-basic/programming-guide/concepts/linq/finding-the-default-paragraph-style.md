@@ -1,5 +1,6 @@
 ---
 title: "Finding the Default Paragraph Style (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 9d094a4a-ec8c-41b0-b7ab-a3deb2a01d45
+>>>>>>> upstream/master
 ---
 # Finding the Default Paragraph Style (Visual Basic)
 The first task in the Manipulating Information in a WordprocessingML Document tutorial is to find the default style of paragraphs in the document.  

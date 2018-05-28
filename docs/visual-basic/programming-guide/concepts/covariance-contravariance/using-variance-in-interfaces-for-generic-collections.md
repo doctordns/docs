@@ -1,5 +1,6 @@
 ---
 title: "Using Variance in Interfaces for Generic Collections (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: c867fcea-7462-4995-b9c5-542feec74036
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: c867fcea-7462-4995-b9c5-542feec74036
+>>>>>>> upstream/master
 ---
 # Using Variance in Interfaces for Generic Collections (Visual Basic)
 A covariant interface allows its methods to return more derived types than those specified in the interface. A contravariant interface allows its methods to accept parameters of less derived types than those specified in the interface.  

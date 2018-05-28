@@ -1,5 +1,6 @@
 ---
 title: "Sorting Data (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 6f81065c-0c89-4bf3-a6d8-442273f8810e
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 6f81065c-0c89-4bf3-a6d8-442273f8810e
+>>>>>>> upstream/master
 ---
 # Sorting Data (Visual Basic)
 A sorting operation orders the elements of a sequence based on one or more attributes. The first sort criterion performs a primary sort on the elements. By specifying a second sort criterion, you can sort the elements within each primary sort group.  

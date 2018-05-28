@@ -1,6 +1,7 @@
 ---
 title: "Cannot calculate number of periods using the arguments provided"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: a96fed1c-73e6-4a2b-9906-0190bc3d4c3c
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrFinancial_CannotCalculateNPer"
+ms.assetid: a96fed1c-73e6-4a2b-9906-0190bc3d4c3c
+>>>>>>> upstream/master
 ---
 # Cannot calculate number of periods using the arguments provided
 A call to the `NPer` function does not contain all of the required arguments.  

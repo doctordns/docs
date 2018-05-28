@@ -1,11 +1,14 @@
 ---
 title: "My.Resources Object"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "My.Resources"
   - "My.Resources.MyResources.ResourceManager"
@@ -13,9 +16,12 @@ f1_keywords:
 helpviewer_keywords: 
   - "My.Resources object"
 ms.assetid: 34c3f2dc-7b87-432c-9d5f-17ea666bb266
+<<<<<<< HEAD
 caps.latest.revision: 22
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # My.Resources Object
 Provides properties and classes for accessing the application's resources.  

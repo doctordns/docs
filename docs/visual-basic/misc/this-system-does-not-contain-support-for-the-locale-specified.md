@@ -1,6 +1,7 @@
 ---
 title: "This system does not contain support for the Locale specified"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 59bfa215-556b-4bfa-8f25-b090ea83298d
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrArgument_LocalNotSupported"
+ms.assetid: 59bfa215-556b-4bfa-8f25-b090ea83298d
+>>>>>>> upstream/master
 ---
 # This system does not contain support for the Locale specified
 You are attempting to use the `VbStrConv` enumeration, but your system does not support the specified locale.  

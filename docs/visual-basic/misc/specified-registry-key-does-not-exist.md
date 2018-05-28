@@ -1,6 +1,7 @@
 ---
 title: "Specified registry key does not exist"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: 837e925a-aac5-4745-8eaa-d08bebbcbcd3
 caps.latest.revision: 10
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 837e925a-aac5-4745-8eaa-d08bebbcbcd3
+>>>>>>> upstream/master
 ---
 # Specified registry key does not exist
 The registry key that has been specified does not exist.  

@@ -1,6 +1,7 @@
 ---
 title: "Cannot convert start value of type &#39;&lt;type1&gt;&#39; and step value of type &#39;&lt;type2&gt;&#39; to a common type"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: ce400fe1-5edd-4aee-94d8-530be03cfd9a
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrForLoop_CommonType2"
+ms.assetid: ce400fe1-5edd-4aee-94d8-530be03cfd9a
+>>>>>>> upstream/master
 ---
 # Cannot convert start value of type &#39;&lt;type1&gt;&#39; and step value of type &#39;&lt;type2&gt;&#39; to a common type
 The specified `For...Next` control values have different types, and therefore are not valid because they cannot be converted to a common type.  

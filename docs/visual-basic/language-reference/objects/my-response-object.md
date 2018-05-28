@@ -1,20 +1,26 @@
 ---
 title: "My.Response Object"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "My.MyWebExtension.Response"
   - "My.Response"
 helpviewer_keywords: 
   - "My.Response object"
 ms.assetid: 626359bc-3165-40b4-bfaf-2c610e26eb5b
+<<<<<<< HEAD
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # My.Response Object
 Gets the <xref:System.Web.HttpResponse> object associated with the <xref:System.Web.UI.Page>. This object allows you to send HTTP response data to a client and contains information about that response.  

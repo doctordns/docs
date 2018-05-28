@@ -1,6 +1,7 @@
 ---
 title: "A-E Statements"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
@@ -14,6 +15,12 @@ ms.author: dotnetcontent
 ---
 # A-E Statements
 The following table contains a listing of [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] language statements.  
+=======
+ms.assetid: af97c2bf-dddb-48a8-8eb6-798cd219430b
+---
+# A-E Statements
+The following table contains a listing of Visual Basic language statements.  
+>>>>>>> upstream/master
   
 |||||  
 |---|---|---|---|  

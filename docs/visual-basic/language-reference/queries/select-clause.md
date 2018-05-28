@@ -1,12 +1,15 @@
 ---
 title: "Select Clause (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.QuerySelect"
 helpviewer_keywords: 
@@ -14,9 +17,12 @@ helpviewer_keywords:
   - "Select clause [Visual Basic]"
   - "queries [Visual Basic], Select"
 ms.assetid: 27a3f61c-5960-4692-9b91-4d0c4b6178fe
+<<<<<<< HEAD
 caps.latest.revision: 21
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Select Clause (Visual Basic)
 Defines the result of a query.  

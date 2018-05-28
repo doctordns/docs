@@ -1,5 +1,6 @@
 ---
 title: "How to: Determine Whether Two Objects Are Related (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -9,14 +10,20 @@ ms.technology:
   - "devlang-visual-basic"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "inheritance [Visual Basic], Visual Basic objects"
   - "objects [Visual Basic], inheritance"
   - "object variables [Visual Basic], determining relation"
 ms.assetid: da002e3f-6616-4bad-a229-f842d06652bb
+<<<<<<< HEAD
 caps.latest.revision: 7
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Determine Whether Two Objects Are Related (Visual Basic)
 You can compare two objects to determine the relationship, if any, between the classes from which they are created. The <xref:System.Type.IsInstanceOfType%2A> method of the <xref:System.Type?displayProperty=nameWithType> class returns `True` if the specified class inherits from the current class, or if the current type is an interface supported by the specified class.  

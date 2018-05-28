@@ -1,5 +1,6 @@
 ---
 title: "How Culture Affects Strings in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,16 +9,25 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "locale [Visual Basic], effect on strings"
   - "strings [Visual Basic], locale dependence"
 ms.assetid: c4664444-ee0d-47bf-bef1-eaa3c54bdd7f
+<<<<<<< HEAD
 caps.latest.revision: 20
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # How Culture Affects Strings in Visual Basic
 This Help page discusses how [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] uses culture information to perform string conversions and comparisons.  
+=======
+---
+# How Culture Affects Strings in Visual Basic
+This Help page discusses how Visual Basic uses culture information to perform string conversions and comparisons.  
+>>>>>>> upstream/master
   
 ## When to Use Culture-Specific Strings  
  Typically, you should use culture-specific strings for all data presented to and read from users, and use culture-invariant strings for your application's internal data.  
@@ -27,7 +37,11 @@ This Help page discusses how [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] uses cu
  However, if the application uploads the date to a central server, it should format the string according to one specific culture, to prevent confusion between potentially different date formats.  
   
 ## Culture-Sensitive Functions  
+<<<<<<< HEAD
  All of the [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] string-conversion functions (except for the `Str` and `Val` functions) use the application's culture information to make sure that the conversions and comparisons are appropriate for the culture of the application's user.  
+=======
+ All of the Visual Basic string-conversion functions (except for the `Str` and `Val` functions) use the application's culture information to make sure that the conversions and comparisons are appropriate for the culture of the application's user.  
+>>>>>>> upstream/master
   
  The key to successfully using string-conversion functions in applications that run on computers with different culture settings is to understand which functions use a specific culture setting, and which use the current culture setting. Notice that the application's culture settings are, by default, inherited from the culture settings of the operating system. For more information, see <xref:Microsoft.VisualBasic.Strings.Asc%2A>, <xref:Microsoft.VisualBasic.Strings.AscW%2A>, <xref:Microsoft.VisualBasic.Strings.Chr%2A>, <xref:Microsoft.VisualBasic.Strings.ChrW%2A>, <xref:Microsoft.VisualBasic.Strings.Format%2A>, <xref:Microsoft.VisualBasic.Conversion.Hex%2A>, <xref:Microsoft.VisualBasic.Conversion.Oct%2A>, and [Type Conversion Functions](../../../../visual-basic/language-reference/functions/type-conversion-functions.md).  
   
@@ -60,7 +74,11 @@ This Help page discusses how [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] uses cu
   
 -   **Determining if two application-internal strings exactly match (typically for security purposes).** Use operations that disregard the current culture.  
   
+<<<<<<< HEAD
  You can perform both types of comparisons with the [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] <xref:Microsoft.VisualBasic.Strings.StrComp%2A> function. Specify the optional `Compare` argument to control the type of comparison: `Text` for most input and output `Binary` for determining exact matches.  
+=======
+ You can perform both types of comparisons with the Visual Basic <xref:Microsoft.VisualBasic.Strings.StrComp%2A> function. Specify the optional `Compare` argument to control the type of comparison: `Text` for most input and output `Binary` for determining exact matches.  
+>>>>>>> upstream/master
   
  The `StrComp` function returns an integer that indicates the relationship between the two compared strings based on the sorting order. A positive value for the result indicates that the first string is greater than the second string. A negative result indicates the first string is smaller, and zero indicates equality between the strings.  
   

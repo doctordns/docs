@@ -1,5 +1,6 @@
 ---
 title: "How to: Serialize Using DataContractSerializer (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: ecaea518-8a0f-4249-b4e5-9b3fb0cdd8ad
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: ecaea518-8a0f-4249-b4e5-9b3fb0cdd8ad
+>>>>>>> upstream/master
 ---
 # How to: Serialize Using DataContractSerializer (Visual Basic)
 This topic shows an example that serializes and deserializes using <xref:System.Runtime.Serialization.DataContractSerializer>.  

@@ -1,6 +1,7 @@
 ---
 title: "Argument &#39;Life&#39; cannot be zero"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: c402da97-a2b2-4219-a83a-0cebbfdffef2
 caps.latest.revision: 14
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrFinancial_LifeNEZero"
+ms.assetid: c402da97-a2b2-4219-a83a-0cebbfdffef2
+>>>>>>> upstream/master
 ---
 # Argument &#39;Life&#39; cannot be zero
 An argument for `Life`, which must be a `Double` that specifies the length of useful life of the asset, is not valid.  

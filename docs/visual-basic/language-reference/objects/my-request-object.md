@@ -1,20 +1,26 @@
 ---
 title: "My.Request Object"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "My.MyWebExtension.Request"
   - "My.Request"
 helpviewer_keywords: 
   - "My.Request object"
 ms.assetid: 93d5f0e2-6b60-4a2c-8652-d90216f6ad10
+<<<<<<< HEAD
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # My.Request Object
 Gets the <xref:System.Web.HttpRequest> object for the requested page.  

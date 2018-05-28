@@ -1,18 +1,24 @@
 ---
 title: "My.Application.Info Object"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "My.Application.Info object"
   - "My.Application.AssemblyInfo object"
 ms.assetid: 2f4782ed-3da2-4d88-b341-0c6f480fb7bb
+<<<<<<< HEAD
 caps.latest.revision: 22
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # My.Application.Info Object
 Provides properties for getting the information about the application, such as the version number, description, loaded assemblies, and so on.  

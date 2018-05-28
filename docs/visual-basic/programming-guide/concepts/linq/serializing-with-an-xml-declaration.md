@@ -1,5 +1,6 @@
 ---
 title: "Serializing with an XML Declaration (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 8726f79e-2bb0-4ba0-969d-197cca591647
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 8726f79e-2bb0-4ba0-969d-197cca591647
+>>>>>>> upstream/master
 ---
 # Serializing with an XML Declaration (Visual Basic)
 This topic describes how to control whether serialization generates an XML declaration.  

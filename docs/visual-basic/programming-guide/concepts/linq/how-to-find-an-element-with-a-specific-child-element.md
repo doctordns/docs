@@ -1,5 +1,6 @@
 ---
 title: "How to: Find an Element with a Specific Child Element (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: b0d0a463-6a85-46c3-8453-ad25b0ecf93c
+>>>>>>> upstream/master
 ---
 # How to: Find an Element with a Specific Child Element (Visual Basic)
 This topic shows how to find a particular element that has a child element with a specific value.  

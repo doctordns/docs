@@ -1,6 +1,7 @@
 ---
 title: "Feature not yet implemented"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 487361ea-7158-479f-ad25-9e7c9b5ea3a6
 caps.latest.revision: 10
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrID32768"
+ms.assetid: 487361ea-7158-479f-ad25-9e7c9b5ea3a6
+>>>>>>> upstream/master
 ---
 # Feature not yet implemented
 You have tried to access a feature that is currently not implemented in Visual Basic.  

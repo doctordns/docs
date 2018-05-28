@@ -1,12 +1,15 @@
 ---
 title: "Resume Statement"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.Resume"
   - "vb.ResumeNext"
@@ -21,9 +24,12 @@ helpviewer_keywords:
   - "execution"
   - "Resume statement [Visual Basic]"
 ms.assetid: e24d058b-1a5c-4274-acb9-7d295d3ea537
+<<<<<<< HEAD
 caps.latest.revision: 16
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Resume Statement
 Resumes execution after an error-handling routine is finished.  

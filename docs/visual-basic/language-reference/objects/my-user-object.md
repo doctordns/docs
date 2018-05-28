@@ -1,18 +1,24 @@
 ---
 title: "My.User Object"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "My.User property"
   - "My.User object"
 ms.assetid: caa7462e-2149-4bdb-8850-802b80b93cbf
+<<<<<<< HEAD
 caps.latest.revision: 16
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # My.User Object
 Provides access to information about the current user.  

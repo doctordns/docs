@@ -1,5 +1,6 @@
 ---
 title: "How to: Dispose of a System Resource (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "Using statement [Visual Basic], disposing of system resources"
   - "Visual Basic code, control flow"
@@ -17,9 +21,12 @@ helpviewer_keywords:
   - "Using statement [Visual Basic], Using...End Using"
   - "Using block"
 ms.assetid: 8be2b239-8090-419b-8e7e-bcaa75b0ecc8
+<<<<<<< HEAD
 caps.latest.revision: 15
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Dispose of a System Resource (Visual Basic)
 You can use a `Using` block to guarantee that the system disposes of a resource when your code exits the block. This is useful if you are using a system resource that consumes a large amount of memory, or that other components also want to use.  

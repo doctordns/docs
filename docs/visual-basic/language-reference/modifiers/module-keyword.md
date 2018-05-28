@@ -1,11 +1,14 @@
 ---
 title: "Module &lt;keyword&gt; (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.ModuleAttribute"
 helpviewer_keywords: 
@@ -13,9 +16,12 @@ helpviewer_keywords:
   - "Module modifier"
   - "attribute blocks, Module keyword"
 ms.assetid: d971b940-05ab-4d56-8485-e3b8a661906b
+<<<<<<< HEAD
 caps.latest.revision: 13
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Module &lt;keyword&gt; (Visual Basic)
 Specifies that an attribute at the beginning of a source file applies to the current assembly module.  

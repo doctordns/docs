@@ -1,5 +1,6 @@
 ---
 title: "How to: Read Object Data from an XML File (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 1e1423bf-74a4-4dde-a3bb-ae1bfc0a68ed
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 1e1423bf-74a4-4dde-a3bb-ae1bfc0a68ed
+>>>>>>> upstream/master
 ---
 # How to: Read Object Data from an XML File (Visual Basic)
 This example reads object data that was previously written to an XML file using the <xref:System.Xml.Serialization.XmlSerializer> class.  

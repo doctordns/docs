@@ -1,12 +1,15 @@
 ---
 title: "Implements Clause (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.ImplementsClause"
 helpviewer_keywords: 
@@ -23,9 +26,12 @@ helpviewer_keywords:
   - "members [Visual Basic], Implements keyword"
   - "reimplementation"
 ms.assetid: 5252cdf9-964d-4fc6-af0f-0449b7126b5a
+<<<<<<< HEAD
 caps.latest.revision: 15
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Implements Clause (Visual Basic)
 Indicates that a class or structure member is providing the implementation for a member defined in an interface.  

@@ -1,6 +1,7 @@
 ---
 title: "Argument &#39;&lt;argumentname&gt;&#39; must be in the range of -32768 to 65535"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: d1ab6767-8334-4d7c-bb99-c837a793ed69
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrArgument_RangeTwoBytes1"
+ms.assetid: d1ab6767-8334-4d7c-bb99-c837a793ed69
+>>>>>>> upstream/master
 ---
 # Argument &#39;&lt;argumentname&gt;&#39; must be in the range of -32768 to 65535
 An argument's value falls outside the allowable range of -32,768 to 65,535.  

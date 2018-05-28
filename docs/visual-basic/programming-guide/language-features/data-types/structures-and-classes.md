@@ -1,5 +1,6 @@
 ---
 title: "Structures and Classes (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "classes [Visual Basic], vs. structures"
   - "structures [Visual Basic]"
@@ -16,12 +20,18 @@ helpviewer_keywords:
   - "structures [Visual Basic], structure variables"
   - "structure variables [Visual Basic]"
 ms.assetid: a221e74a-ffcf-4bdc-a0f6-a088a9bf26cc
+<<<<<<< HEAD
 caps.latest.revision: 21
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # Structures and Classes (Visual Basic)
 [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] unifies the syntax for structures and classes, with the result that both entities support most of the same features. However, there are also important differences between structures and classes.  
+=======
+---
+# Structures and Classes (Visual Basic)
+Visual Basic unifies the syntax for structures and classes, with the result that both entities support most of the same features. However, there are also important differences between structures and classes.  
+>>>>>>> upstream/master
   
  Classes have the advantage of being reference types — passing a reference is more efficient than passing a structure variable with all its data. On the other hand, structures do not require allocation of memory on the global heap.  
   

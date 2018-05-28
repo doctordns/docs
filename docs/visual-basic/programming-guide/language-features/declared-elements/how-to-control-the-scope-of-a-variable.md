@@ -1,5 +1,6 @@
 ---
 title: "How to: Control the Scope of a Variable (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "variables [Visual Basic], scope"
   - "declared elements [Visual Basic], scope"
@@ -19,9 +23,12 @@ helpviewer_keywords:
   - "declared elements [Visual Basic], visibility"
   - "visibility [Visual Basic], variables"
 ms.assetid: 44b7f62a-cb5c-4d50-bce9-60ae68f87072
+<<<<<<< HEAD
 caps.latest.revision: 12
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Control the Scope of a Variable (Visual Basic)
 Normally, a variable is in *scope*, or visible for reference, throughout the region in which you declare it. In some cases, the variable's *access level* can influence its scope.  

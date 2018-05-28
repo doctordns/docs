@@ -1,5 +1,6 @@
 ---
 title: "How to: Use Annotations to Transform LINQ to XML Trees in an XSLT Style (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 08e91fa2-dac2-4463-9ef1-87b1ac3fa890
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 08e91fa2-dac2-4463-9ef1-87b1ac3fa890
+>>>>>>> upstream/master
 ---
 # How to: Use Annotations to Transform LINQ to XML Trees in an XSLT Style (Visual Basic)
 Annotations can be used to facilitate transforms of an XML tree.  

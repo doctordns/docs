@@ -8,5 +8,8 @@
 |Version|4.5|
 |Type|Runtime|
 |Affected APIs|<ul><li><xref:System.Net.PeerToPeer.Collaboration?displayProperty=nameWithType></li></ul>|
+<<<<<<< HEAD
 |Analyzers|<ul><li>CD0011</li></ul>|
+=======
+>>>>>>> upstream/master
 

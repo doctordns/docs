@@ -1,5 +1,6 @@
 ---
 title: "How to: Call a Stored Procedure by Using LINQ (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,15 +9,21 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "queries [LINQ in Visual Basic], stored procedure calls"
   - "stored procedures sample [Visual Basic]"
   - "stored procedures [LINQ to SQL]"
   - "queries [LINQ in Visual Basic], how-to topics"
 ms.assetid: 6436d384-d1e0-40aa-8afd-451007477260
+<<<<<<< HEAD
 caps.latest.revision: 12
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Call a Stored Procedure by Using LINQ (Visual Basic)
 Language-Integrated Query (LINQ) makes it easy to access database information, including database objects such as stored procedures.  

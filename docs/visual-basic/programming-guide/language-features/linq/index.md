@@ -1,5 +1,6 @@
 ---
 title: "LINQ in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,12 @@ ms.assetid: ddba5545-ff6e-46c3-8967-5c4280db5aca
 caps.latest.revision: 13
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+helpviewer_keywords: 
+  - "what's new [Visual Basic]"
+ms.assetid: ddba5545-ff6e-46c3-8967-5c4280db5aca
+>>>>>>> upstream/master
 ---
 # LINQ in Visual Basic
 This section contains overviews, examples, and background information that will help you understand and use Visual Basic and [!INCLUDE[vbteclinqext](~/includes/vbteclinqext-md.md)].  

@@ -1,5 +1,6 @@
 ---
 title: "&lt;returns&gt; (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,13 +9,19 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "returns XML tag"
   - "<returns> XML tag"
 ms.assetid: a03a6469-d907-425d-882f-083187950e7e
+<<<<<<< HEAD
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # &lt;returns&gt; (Visual Basic)
 Specifies the return value of the property or function.  

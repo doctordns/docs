@@ -1,5 +1,6 @@
 ---
 title: "How to: Transform the Shape of an XML Tree (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 84b60854-48b2-452c-87f2-77d53e1d653a
+>>>>>>> upstream/master
 ---
 # How to: Transform the Shape of an XML Tree (Visual Basic)
 The *shape* of an XML document refers to its element names, attribute names, and the characteristics of its hierarchy.  

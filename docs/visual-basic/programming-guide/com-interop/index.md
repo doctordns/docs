@@ -1,5 +1,6 @@
 ---
 title: "COM Interop (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,16 +9,25 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "Visual Basic code, COM interop"
   - "COM interop [Visual Basic], in Visual Basic"
 ms.assetid: 3ffd1bdf-1b8d-47f5-87eb-75b659f64294
+<<<<<<< HEAD
 caps.latest.revision: 14
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # COM Interop (Visual Basic)
 The Component Object Model (COM) allows an object to expose its functionality to other components and to host applications. Most of today's software includes COM objects. Although .NET assemblies are the best choice for new applications, you may at times need to employ COM objects. This section covers some of the issues associated with creating and using COM objects with [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)].  
+=======
+---
+# COM Interop (Visual Basic)
+The Component Object Model (COM) allows an object to expose its functionality to other components and to host applications. Most of today's software includes COM objects. Although .NET assemblies are the best choice for new applications, you may at times need to employ COM objects. This section covers some of the issues associated with creating and using COM objects with Visual Basic.  
+>>>>>>> upstream/master
   
 ## In This Section  
  [Introduction to COM Interop](../../../visual-basic/programming-guide/com-interop/introduction-to-com-interop.md)  
@@ -27,7 +37,11 @@ The Component Object Model (COM) allows an object to expose its functionality to
  Covers how to add references to COM objects that have type libraries.  
   
  [How to: Work with ActiveX Controls](../../../visual-basic/programming-guide/com-interop/how-to-work-with-activex-controls.md)  
+<<<<<<< HEAD
  Demonstrates how to use existing ActiveX controls to add features to the [!INCLUDE[vsprvs](~/includes/vsprvs-md.md)] Toolbox.  
+=======
+ Demonstrates how to use existing ActiveX controls to add features to the Visual Studio Toolbox.  
+>>>>>>> upstream/master
   
  [Walkthrough: Calling Windows APIs](../../../visual-basic/programming-guide/com-interop/walkthrough-calling-windows-apis.md)  
  Steps you through the process of calling the APIs that are part of the Windows operating system.  

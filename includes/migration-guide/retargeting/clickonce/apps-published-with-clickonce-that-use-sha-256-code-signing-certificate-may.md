@@ -7,5 +7,8 @@
 |Scope|Edge|
 |Version|4.5|
 |Type|Retargeting|
+<<<<<<< HEAD
 |Analyzers|<ul><li>CD0063</li></ul>|
+=======
+>>>>>>> upstream/master
 

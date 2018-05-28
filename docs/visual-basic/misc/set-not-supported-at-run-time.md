@@ -1,6 +1,7 @@
 ---
 title: "Set not supported at run time"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: cb7285d3-778f-423d-a2be-88573be8ad48
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrID382"
+ms.assetid: cb7285d3-778f-423d-a2be-88573be8ad48
+>>>>>>> upstream/master
 ---
 # Set not supported at run time
 You tried to set or change a property whose value can only be set at design time.  

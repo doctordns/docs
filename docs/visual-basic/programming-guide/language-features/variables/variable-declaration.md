@@ -1,5 +1,6 @@
 ---
 title: "Variable Declaration in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -9,6 +10,9 @@ ms.technology:
   - "devlang-visual-basic"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "variables [Visual Basic], declaring"
   - "member variables [Visual Basic], declarations"
@@ -25,9 +29,12 @@ helpviewer_keywords:
   - "local variables [Visual Basic], declarations"
   - "scope [Visual Basic], variables"
 ms.assetid: d8f10226-92b1-480f-9f53-df377b2d7e15
+<<<<<<< HEAD
 caps.latest.revision: 31
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Variable Declaration in Visual Basic
 You declare a variable to specify its name and characteristics. The declaration statement for variables is the [Dim Statement](../../../../visual-basic/language-reference/statements/dim-statement.md). Its location and contents determine the variable's characteristics.  
@@ -37,7 +44,11 @@ You declare a variable to specify its name and characteristics. The declaration 
 ## Declaration Levels  
   
 ### Local and Member Variables  
+<<<<<<< HEAD
  A *local variable* is one that is declared within a procedure. A *member variable* is a member of a [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] type; it is declared at module level, inside a class, structure, or module, but not within any procedure internal to that class, structure, or module.  
+=======
+ A *local variable* is one that is declared within a procedure. A *member variable* is a member of a Visual Basic type; it is declared at module level, inside a class, structure, or module, but not within any procedure internal to that class, structure, or module.  
+>>>>>>> upstream/master
   
 ### Shared and Instance Variables  
  In a class or structure, the category of a member variable depends on whether or not it is shared. If it is declared with the [Shared](../../../../visual-basic/language-reference/modifiers/shared.md) keyword, it is a *shared variable*, and it exists in a single copy shared among all instances of the class or structure.  

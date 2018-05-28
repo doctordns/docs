@@ -1,6 +1,7 @@
 ---
 title: "Connection to type library or object library for remote process has been lost"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 9e3544e2-cfc9-463a-8c0c-ed82e5e6462f
 caps.latest.revision: 10
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrID442"
+ms.assetid: 9e3544e2-cfc9-463a-8c0c-ed82e5e6462f
+>>>>>>> upstream/master
 ---
 # Connection to type library or object library for remote process has been lost
 You lost your connection to the remote process's object library or type library.  

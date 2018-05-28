@@ -1,12 +1,15 @@
 ---
 title: "Order By Clause (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.QueryOrderBy"
   - "vb.QueryAscending"
@@ -16,9 +19,12 @@ helpviewer_keywords:
   - "Order By clause [Visual Basic]"
   - "Order By statement [Visual Basic]"
 ms.assetid: fa911282-6b81-44c7-acfa-46b5bb93df75
+<<<<<<< HEAD
 caps.latest.revision: 16
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Order By Clause (Visual Basic)
 Specifies the sort order for a query result.  

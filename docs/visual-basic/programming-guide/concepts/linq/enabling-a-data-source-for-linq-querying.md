@@ -1,5 +1,6 @@
 ---
 title: "Enabling a Data Source for LINQ Querying2"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: c412f0cf-ff0e-4993-ab3d-1b49e23f00f8
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: c412f0cf-ff0e-4993-ab3d-1b49e23f00f8
+>>>>>>> upstream/master
 ---
 # Enabling a Data Source for LINQ Querying
 There are various ways to extend [!INCLUDE[vbteclinq](~/includes/vbteclinq-md.md)] to enable any data source to be queried in the [!INCLUDE[vbteclinq](~/includes/vbteclinq-md.md)] pattern. The data source might be a data structure, a Web service, a file system, or a database, to name some. The [!INCLUDE[vbteclinq](~/includes/vbteclinq-md.md)] pattern makes it easy for clients to query a data source for which [!INCLUDE[vbteclinq](~/includes/vbteclinq-md.md)] querying is enabled, because the syntax and pattern of the query does not change. The ways in which [!INCLUDE[vbteclinq](~/includes/vbteclinq-md.md)] can be extended to these data sources include the following:  

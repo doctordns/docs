@@ -1,5 +1,6 @@
 ---
 title: "How to: Calculate Numeric Values (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "operator precedence"
   - "operators [Visual Basic]"
@@ -18,9 +22,12 @@ helpviewer_keywords:
   - "Visual Basic code, expressions"
   - "numeric expressions"
 ms.assetid: ba6bf43d-bd96-49b8-b1de-4a7797551372
+<<<<<<< HEAD
 caps.latest.revision: 13
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Calculate Numeric Values (Visual Basic)
 You can calculate numeric values through the use of numeric expressions. A *numeric expression* is an expression that contains literals, constants, and variables representing numeric values, and operators that act on those values.  
@@ -41,7 +48,11 @@ You can calculate numeric values through the use of numeric expressions. A *nume
   
      The first three lines show a literal, a constant, and a variable. Each one forms a valid numeric expression by itself. The final line shows a combination of a variable with two literals.  
   
+<<<<<<< HEAD
      Note that a numeric expression does not form a complete [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] statement by itself. You must use the expression as part of a complete statement.  
+=======
+     Note that a numeric expression does not form a complete Visual Basic statement by itself. You must use the expression as part of a complete statement.  
+>>>>>>> upstream/master
   
 #### To store a numeric value  
   

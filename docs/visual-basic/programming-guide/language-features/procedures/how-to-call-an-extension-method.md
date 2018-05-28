@@ -1,5 +1,6 @@
 ---
 title: "How to: Call an Extension Method (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,13 +9,19 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "calling extension methods [Visual Basic]"
   - "extension methods [Visual Basic]"
 ms.assetid: df07750f-40f4-4c07-a79e-1113a27cfbea
+<<<<<<< HEAD
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Call an Extension Method (Visual Basic)
 Extension methods enable you to add methods to an existing class. After an extension method is declared and brought into scope, you can call it like an instance method of the type that it extends. For more information about how to write an extension method, see [How to: Write an Extension Method](./how-to-write-an-extension-method.md).  

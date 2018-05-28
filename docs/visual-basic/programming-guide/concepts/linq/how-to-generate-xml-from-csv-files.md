@@ -1,5 +1,6 @@
 ---
 title: "How to: Generate XML from CSV Files (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: fe4dbc87-7b0d-40bf-88c3-5d706ee89a4d
+>>>>>>> upstream/master
 ---
 # How to: Generate XML from CSV Files (Visual Basic)
 This example shows how to use [!INCLUDE[vbteclinqext](~/includes/vbteclinqext-md.md)] and [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] to generate an XML file from a comma-separated value (CSV) file.  

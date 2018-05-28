@@ -1,5 +1,6 @@
 ---
 title: "Considerations in Overloading Procedures (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "signatures [Visual Basic], ParamArray arguments"
   - "ParamArray keyword [Visual Basic], parameter arrays"
@@ -32,9 +36,12 @@ helpviewer_keywords:
   - "restrictions [Visual Basic], overloading procedures"
   - "procedures [Visual Basic], parameter lists"
 ms.assetid: a2001248-10d0-42c5-b0ce-eeedc987319f
+<<<<<<< HEAD
 caps.latest.revision: 26
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Considerations in Overloading Procedures (Visual Basic)
 When you overload a procedure, you must use a different *signature* for each overloaded version. This usually means each version must specify a different parameter list. For more information, see "Different Signature" in [Procedure Overloading](./procedure-overloading.md).  
@@ -46,7 +53,11 @@ When you overload a procedure, you must use a different *signature* for each ove
 ## Alternatives to Overloaded Versions  
  You sometimes have alternatives to overloaded versions, particularly when the presence of arguments is optional or their number is variable.  
   
+<<<<<<< HEAD
  Keep in mind that optional arguments are not necessarily supported by all languages, and parameter arrays are limited to [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)]. If you are writing a procedure that is likely to be called from code written in any of several different languages, overloaded versions offer the greatest flexibility.  
+=======
+ Keep in mind that optional arguments are not necessarily supported by all languages, and parameter arrays are limited to Visual Basic. If you are writing a procedure that is likely to be called from code written in any of several different languages, overloaded versions offer the greatest flexibility.  
+>>>>>>> upstream/master
   
 ### Overloads and Optional Arguments  
  When the calling code can optionally supply or omit one or more arguments, you can define multiple overloaded versions or use optional parameters.  

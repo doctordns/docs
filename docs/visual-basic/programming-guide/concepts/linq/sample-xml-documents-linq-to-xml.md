@@ -1,5 +1,6 @@
 ---
 title: "Sample XML Documents (LINQ to XML)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: a734cc4e-d95d-4631-91a2-81618c8ad894
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: a734cc4e-d95d-4631-91a2-81618c8ad894
+>>>>>>> upstream/master
 ---
 # Sample XML Documents (LINQ to XML)
 The following example files are used in the code samples and code snippets throughout the [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] documentation.  

@@ -1,12 +1,15 @@
 ---
 title: "REM Statement (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.'"
   - "vb.Rem"
@@ -19,9 +22,12 @@ helpviewer_keywords:
   - "Visual Basic code, comments"
   - "' comment marker character [Visual Basic]"
 ms.assetid: 34126d7f-e0f9-476d-91e6-b31b398615dc
+<<<<<<< HEAD
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # REM Statement (Visual Basic)
 Used to include explanatory remarks in the source code of a program.  

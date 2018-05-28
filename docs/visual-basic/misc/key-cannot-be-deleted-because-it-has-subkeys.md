@@ -1,6 +1,7 @@
 ---
 title: "Key cannot be deleted because it has subkeys"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: 71d7f28f-42ef-4eb7-a39e-512c40b79977
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 71d7f28f-42ef-4eb7-a39e-512c40b79977
+>>>>>>> upstream/master
 ---
 # Key cannot be deleted because it has subkeys
 The key cannot be deleted because it has subkeys.  

@@ -1,5 +1,6 @@
 ---
 title: "Getting Started with LINQ in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -9,6 +10,9 @@ ms.technology:
   - "devlang-visual-basic"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "queries [LINQ in Visual Basic], about LINQ in Visual Basic queries"
   - "queries [LINQ in Visual Basic]"
@@ -16,9 +20,12 @@ helpviewer_keywords:
   - "LINQ [Visual Basic]"
   - "LINQ, Visual Basic"
 ms.assetid: 53c66373-ff43-431f-b4bb-f98362830279
+<<<<<<< HEAD
 caps.latest.revision: 23
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Getting Started with LINQ in Visual Basic
 This section contains overviews, examples, and background information that will help you understand and use Visual Basic and Language-Integrated Query (LINQ).  

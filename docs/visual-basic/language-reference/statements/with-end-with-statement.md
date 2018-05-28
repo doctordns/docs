@@ -1,12 +1,15 @@
 ---
 title: "With...End With Statement (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.With"
 helpviewer_keywords: 
@@ -21,9 +24,12 @@ helpviewer_keywords:
   - "With block"
   - "End keyword [Visual Basic], With...End With statements"
 ms.assetid: 340d5fbb-4f43-48ec-a024-80843c137817
+<<<<<<< HEAD
 caps.latest.revision: 34
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # With...End With Statement (Visual Basic)
 Executes a series of statements that repeatedly refer to a single object or structure so that the statements can use a simplified syntax when accessing members of the object or structure.  When using a structure, you can only read the values of members or invoke methods, and you get an error if you try to assign values to members of a structure used in a `With...End With` statement.  

@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "/moduleassemblyname"
 ms.date: 07/20/2015
 ms.prod: .net
@@ -7,22 +8,37 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+title: "-moduleassemblyname"
+ms.date: 03/13/2018
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "moduleassemblyname compiler option [Visual Basic]"
   - "/moduleassemblyname compiler option [Visual Basic]"
   - "-moduleassemblyname compiler option [Visual Basic]"
 ms.assetid: 013a57b6-f425-4dd3-b333-512d72c42f55
+<<<<<<< HEAD
 caps.latest.revision: 16
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # /moduleassemblyname
+=======
+author: rpetrusha
+ms.author: ronpet
+---
+# -moduleassemblyname
+>>>>>>> upstream/master
 Specifies the name of the assembly that this module will be a part of.  
   
 ## Syntax  
   
 ```  
+<<<<<<< HEAD
 /moduleassemblyname:assembly_name  
+=======
+-moduleassemblyname:assembly_name  
+>>>>>>> upstream/master
 ```  
   
 ## Arguments  
@@ -32,9 +48,15 @@ Specifies the name of the assembly that this module will be a part of.
 |`assembly_name`|The name of the assembly that this module will be a part of.|  
   
 ## Remarks  
+<<<<<<< HEAD
  The compiler processes the `/moduleassemblyname` option only if the `/target:module` option has been specified. This causes the compiler to create a module. The module created by the compiler is valid only for the assembly specified with the `/moduleassemblyname` option. If you place the module in a different assembly, run-time errors will occur.  
   
  The `/moduleassemblyname` option is needed only when the following are true:  
+=======
+ The compiler processes the `-moduleassemblyname` option only if the `-target:module` option has been specified. This causes the compiler to create a module. The module created by the compiler is valid only for the assembly specified with the `-moduleassemblyname` option. If you place the module in a different assembly, run-time errors will occur.  
+  
+ The `-moduleassemblyname` option is needed only when the following are true:  
+>>>>>>> upstream/master
   
 -   A data type in the module needs access to a `Friend` type in a referenced assembly.  
   
@@ -43,15 +65,26 @@ Specifies the name of the assembly that this module will be a part of.
  For more information about creating a module, see [/target (Visual Basic)](../../../visual-basic/reference/command-line-compiler/target.md). For more information about friend assemblies, see [Friend Assemblies](http://msdn.microsoft.com/library/df0c70ea-2c2a-4bdc-9526-df951ad2d055).  
   
 > [!NOTE]
+<<<<<<< HEAD
 >  The `/moduleassemblyname` option is not available from within the Visual Studio development environment; it is available only when you compile from a command prompt.  
+=======
+>  The `-moduleassemblyname` option is not available from within the Visual Studio development environment; it is available only when you compile from a command prompt.  
+>>>>>>> upstream/master
   
 ## See Also  
  [How to: Build a Multifile Assembly](../../../framework/app-domains/how-to-build-a-multifile-assembly.md)  
  [Visual Basic Command-Line Compiler](../../../visual-basic/reference/command-line-compiler/index.md)  
+<<<<<<< HEAD
  [/target (Visual Basic)](../../../visual-basic/reference/command-line-compiler/target.md)  
  [/main](../../../visual-basic/reference/command-line-compiler/main.md)  
  [/reference (Visual Basic)](../../../visual-basic/reference/command-line-compiler/reference.md)  
  [/addmodule](../../../visual-basic/reference/command-line-compiler/addmodule.md)  
+=======
+ [-target (Visual Basic)](../../../visual-basic/reference/command-line-compiler/target.md)  
+ [-main](../../../visual-basic/reference/command-line-compiler/main.md)  
+ [-reference (Visual Basic)](../../../visual-basic/reference/command-line-compiler/reference.md)  
+ [-addmodule](../../../visual-basic/reference/command-line-compiler/addmodule.md)  
+>>>>>>> upstream/master
  [Assemblies and the Global Assembly Cache](../../../visual-basic/programming-guide/concepts/assemblies-gac/index.md)  
  [Sample Compilation Command Lines](../../../visual-basic/reference/command-line-compiler/sample-compilation-command-lines.md)  
  [Friend Assemblies](http://msdn.microsoft.com/library/df0c70ea-2c2a-4bdc-9526-df951ad2d055)

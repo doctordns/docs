@@ -1,5 +1,6 @@
 ---
 title: "Array Conversions (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "arrays [Visual Basic], converting type"
   - "type conversion [Visual Basic], arrays"
@@ -19,9 +23,12 @@ helpviewer_keywords:
   - "conversions [Visual Basic], array types"
   - "object arrays"
 ms.assetid: fceff7d2-a1b7-44c7-b9aa-8bd831d8a444
+<<<<<<< HEAD
 caps.latest.revision: 14
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Array Conversions (Visual Basic)
 You can convert an array type to a different array type provided you meet the following conditions:  

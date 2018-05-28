@@ -1,5 +1,6 @@
 ---
 title: "Object Variable Declaration (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -9,6 +10,9 @@ ms.technology:
   - "devlang-visual-basic"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "early binding [Visual Basic]"
   - "declarations [Visual Basic], class"
@@ -20,9 +24,12 @@ helpviewer_keywords:
   - "declaring classes [Visual Basic]"
   - "late binding [Visual Basic]"
 ms.assetid: 2a5a41a3-1aa8-4236-b1f0-2382af7bf715
+<<<<<<< HEAD
 caps.latest.revision: 33
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Object Variable Declaration (Visual Basic)
 You use a normal declaration statement to declare an object variable. For the data type, you specify either `Object` (that is, the [Object Data Type](../../../../visual-basic/language-reference/data-types/object-data-type.md)) or a more specific class from which the object is to be created.  

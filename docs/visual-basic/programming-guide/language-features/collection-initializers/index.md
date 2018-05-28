@@ -1,5 +1,6 @@
 ---
 title: "Collection Initializers (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,14 +9,20 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.CollectionInitializer"
 helpviewer_keywords: 
   - "collection initializers [Visual Basic]"
 ms.assetid: a9290329-77b0-4fdf-ae75-8fc17287f469
+<<<<<<< HEAD
 caps.latest.revision: 23
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Collection Initializers (Visual Basic)
 *Collection initializers* provide a shortened syntax that enables you to create a collection and populate it with an initial set of values. Collection initializers are useful when you are creating a collection from a set of known values, for example, a list of menu options or categories, an initial set of numeric values, a static list of strings such as day or month names, or geographic locations such as a list of states that is used for validation.  

@@ -1,6 +1,7 @@
 ---
 title: "Operators (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
@@ -13,6 +14,11 @@ ms.assetid: 3d3421df-fcc5-4888-9249-d78f16774ce6
 caps.latest.revision: 10
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+helpviewer_keywords: 
+  - "operators [Visual Basic]"
+ms.assetid: 3d3421df-fcc5-4888-9249-d78f16774ce6
+>>>>>>> upstream/master
 ---
 # Operators (Visual Basic)
 ## In This Section  

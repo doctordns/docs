@@ -1,5 +1,6 @@
 ---
 title: "Validating Strings in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -9,18 +10,27 @@ ms.technology:
   - "devlang-visual-basic"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "Visual Basic, strings"
   - "Visual Basic code, strings"
   - "strings [Visual Basic], validating"
   - "validation [Visual Basic], strings"
 ms.assetid: 9a1acf9b-7e2c-40cb-bba4-656ee2bc2ed0
+<<<<<<< HEAD
 caps.latest.revision: 15
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # Validating Strings in Visual Basic
 This section discusses how to validate strings in [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)].  
+=======
+---
+# Validating Strings in Visual Basic
+This section discusses how to validate strings in Visual Basic.  
+>>>>>>> upstream/master
   
 ## In This Section  
  [How to: Validate File Names and Paths in Visual Basic](../../../../visual-basic/programming-guide/language-features/strings/how-to-validate-file-names-and-paths.md)  

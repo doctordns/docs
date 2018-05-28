@@ -1,5 +1,6 @@
 ---
 title: "Projections and Transformations (LINQ to XML) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 297de224-b625-44cf-8c00-186b6189aa0e
+>>>>>>> upstream/master
 ---
 # Projections and Transformations (LINQ to XML) (Visual Basic)
 This section provides examples of [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] projections and transformations.  

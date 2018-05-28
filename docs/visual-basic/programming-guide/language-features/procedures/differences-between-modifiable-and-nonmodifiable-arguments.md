@@ -1,5 +1,6 @@
 ---
 title: "Differences Between Modifiable and Nonmodifiable Arguments (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "procedures [Visual Basic], arguments"
   - "procedure arguments"
@@ -15,9 +19,12 @@ helpviewer_keywords:
   - "Visual Basic code, procedures"
   - "arguments [Visual Basic], modifiable"
 ms.assetid: 87b2df69-e1f7-4657-9caf-b3f48d693428
+<<<<<<< HEAD
 caps.latest.revision: 16
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Differences Between Modifiable and Nonmodifiable Arguments (Visual Basic)
 When you call a procedure, you typically pass one or more arguments to it. Each argument corresponds to an underlying programming element. Both the underlying elements and the arguments themselves can be either modifiable or nonmodifiable.  

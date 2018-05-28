@@ -1,5 +1,6 @@
 ---
 title: "Retrieving the Paragraphs and Their Styles (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: d9ed2238-d38e-4ad4-b88b-db7859df9bde
+>>>>>>> upstream/master
 ---
 # Retrieving the Paragraphs and Their Styles (Visual Basic)
 In this example, we write a query that retrieves the paragraph nodes from a WordprocessingML document. It also identifies the style of each paragraph.  

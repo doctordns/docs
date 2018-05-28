@@ -1,12 +1,15 @@
 ---
 title: "As Clause (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.as"
 helpviewer_keywords: 
@@ -14,9 +17,12 @@ helpviewer_keywords:
   - "As keyword [Visual Basic], statement syntax"
   - "As keyword [Visual Basic]"
 ms.assetid: b4281ec8-2be5-49f7-aae8-ae0a96265b0d
+<<<<<<< HEAD
 caps.latest.revision: 19
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # As Clause (Visual Basic)
 Introduces an `As` clause, which identifies a data type in a declaration statement or a constraint list on a generic type parameter.  

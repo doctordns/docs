@@ -1,5 +1,6 @@
 ---
 title: "Projecting XML in a Different Shape (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 2da7ec97-34f7-443d-9a48-b162ac58236b
+>>>>>>> upstream/master
 ---
 # Projecting XML in a Different Shape (Visual Basic)
 This topic shows an example of projecting XML that is in a different shape than the source XML.  

@@ -1,12 +1,15 @@
 ---
 title: "^= Operator (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.^="
 helpviewer_keywords: 
@@ -15,9 +18,12 @@ helpviewer_keywords:
   - "^= operator [Visual Basic]"
   - "compound assignment statements [Visual Basic]"
 ms.assetid: 397da132-2d96-4a85-a7bc-f7c730a608c9
+<<<<<<< HEAD
 caps.latest.revision: 17
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # ^= Operator (Visual Basic)
 Raises the value of a variable or property to the power of an expression and assigns the result back to the variable or property.  

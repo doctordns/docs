@@ -1,6 +1,7 @@
 ---
 title: "Using Variance for Func and Action Generic Delegates (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -10,6 +11,9 @@ ms.assetid: 36c3012f-b39c-493b-b90f-079b5912ac1b
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 36c3012f-b39c-493b-b90f-079b5912ac1b
+>>>>>>> upstream/master
 ---
 # Using Variance for Func and Action Generic Delegates (Visual Basic)
 These examples demonstrate how to use covariance and contravariance in the `Func` and `Action` generic delegates to enable reuse of methods and provide more flexibility in your code.  

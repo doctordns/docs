@@ -1,5 +1,6 @@
 ---
 title: "How to: Find an Attribute of the Parent (XPath-LINQ to XML) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 9d2572fd-27d4-426c-b079-16854cb9ec7d
+>>>>>>> upstream/master
 ---
 # How to: Find an Attribute of the Parent (XPath-LINQ to XML) (Visual Basic)
 This topic shows how to navigate to the parent element and find an attribute of it.  

@@ -1,5 +1,6 @@
 ---
 title: "Thread Synchronization (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 04f485d1-8333-4510-9e72-c334e7427e7e
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 04f485d1-8333-4510-9e72-c334e7427e7e
+>>>>>>> upstream/master
 ---
 # Thread Synchronization (Visual Basic)
 The following sections describe features and classes that can be used to synchronize access to resources in multithreaded applications.  

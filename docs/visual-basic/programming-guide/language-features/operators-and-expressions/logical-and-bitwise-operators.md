@@ -1,5 +1,6 @@
 ---
 title: "Logical and Bitwise Operators in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "short-circuiting"
   - "Boolean expressions"
@@ -28,9 +32,12 @@ helpviewer_keywords:
   - "OrElse operator [Visual Basic]"
   - "logical operators [Visual Basic], unary"
 ms.assetid: ca474e13-567d-4b1d-a18b-301433705e57
+<<<<<<< HEAD
 caps.latest.revision: 22
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Logical and Bitwise Operators in Visual Basic
 Logical operators compare `Boolean` expressions and return a `Boolean` result. The `And`, `Or`, `AndAlso`, `OrElse`, and `Xor` operators are *binary* because they take two operands, while the `Not` operator is *unary* because it takes a single operand. Some of these operators can also perform bitwise logical operations on integral values.  

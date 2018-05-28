@@ -1,5 +1,6 @@
 ---
 title: "Auto-Implemented Properties (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.AutoProperty"
   - "vb.AutoImplementedProperty"
@@ -16,9 +20,12 @@ helpviewer_keywords:
   - "properties [Visual Basic], auto-implemented"
   - "auto-implemented properties [Visual Basic]"
 ms.assetid: 5c669f0b-cf95-4b4e-ae84-9cc55212ca87
+<<<<<<< HEAD
 caps.latest.revision: 20
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Auto-Implemented Properties (Visual Basic)
 *Auto-implemented properties* enable you to quickly specify a property of a class without having to write code to `Get` and `Set` the property. When you write code for an auto-implemented property, the Visual Basic compiler automatically creates a private field to store the property variable in addition to creating the associated `Get` and `Set` procedures.  

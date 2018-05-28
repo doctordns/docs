@@ -1,12 +1,15 @@
 ---
 title: "If Operator (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.IfOperator"
   - "IfOperator"
@@ -17,9 +20,12 @@ helpviewer_keywords:
   - "conditional operator [Visual Basic]"
   - "If Operator [Visual Basic]"
 ms.assetid: dd56c9df-7cd4-442c-9ba6-20c70ee44c8f
+<<<<<<< HEAD
 caps.latest.revision: 19
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # If Operator (Visual Basic)
 Uses short-circuit evaluation to conditionally return one of two values. The `If` operator can be called with three arguments or with two arguments.  

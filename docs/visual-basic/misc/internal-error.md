@@ -1,6 +1,7 @@
 ---
 title: "Internal error (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -14,6 +15,14 @@ ms.author: dotnetcontent
 ---
 # Internal error (Visual Basic)
 An internal malfunction has occurred in [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)].  
+=======
+f1_keywords: 
+  - "vbrID51"
+ms.assetid: 21266dbb-f4a1-4c5d-a646-27909cf53248
+---
+# Internal error (Visual Basic)
+An internal malfunction has occurred in Visual Basic.  
+>>>>>>> upstream/master
   
 ## To correct this error  
   

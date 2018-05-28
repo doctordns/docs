@@ -1,6 +1,7 @@
 ---
 title: "Property &lt;propertyname&gt; cannot be set to Nothing"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 074014b4-5070-4c2f-9496-cbbbe9393dd6
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrGeneral_PropertyNothing"
+ms.assetid: 074014b4-5070-4c2f-9496-cbbbe9393dd6
+>>>>>>> upstream/master
 ---
 # Property &lt;propertyname&gt; cannot be set to Nothing
 The property requires a value other than `Nothing`. This may be a result of incorrectly calculating the value.  

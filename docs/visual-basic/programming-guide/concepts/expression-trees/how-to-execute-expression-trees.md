@@ -1,5 +1,6 @@
 ---
 title: "How to: Execute Expression Trees (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 9dfb5ab3-f48f-417e-975f-f8f6f1cdc18d
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 9dfb5ab3-f48f-417e-975f-f8f6f1cdc18d
+>>>>>>> upstream/master
 ---
 # How to: Execute Expression Trees (Visual Basic)
 This topic shows you how to execute an expression tree. Executing an expression tree may return a value, or it may just perform an action such as calling a method.  

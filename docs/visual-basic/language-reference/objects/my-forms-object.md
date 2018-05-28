@@ -1,20 +1,26 @@
 ---
 title: "My.Forms Object"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "My.Forms"
   - "My.MyProject.Forms"
 helpviewer_keywords: 
   - "My.Forms object"
 ms.assetid: f6bff4e6-6769-4294-956b-037aa6106d2a
+<<<<<<< HEAD
 caps.latest.revision: 22
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # My.Forms Object
 Provides properties for accessing an instance of each Windows form declared in the current project.  

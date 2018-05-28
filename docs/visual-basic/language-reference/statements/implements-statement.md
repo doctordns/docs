@@ -1,12 +1,15 @@
 ---
 title: "Implements Statement"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.Implements"
   - "Implements"
@@ -15,9 +18,12 @@ helpviewer_keywords:
   - "Implements statement [Visual Basic]"
   - "interface implementation [Visual Basic], Implements statement"
 ms.assetid: 1fafb83f-f55a-4215-8ea9-681e8622613d
+<<<<<<< HEAD
 caps.latest.revision: 17
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Implements Statement
 Specifies one or more interfaces, or interface members, that must be implemented in the class or structure definition in which it appears.  

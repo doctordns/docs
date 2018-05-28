@@ -1,5 +1,6 @@
 ---
 title: "How to: Retrieve the Shallow Value of an Element (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 4
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 730a6670-fb8c-41fc-8a1b-eb97a837e432
+>>>>>>> upstream/master
 ---
 # How to: Retrieve the Shallow Value of an Element (Visual Basic)
 This topic shows how to get the shallow value of an element. The shallow value is the value of the specific element only, as opposed to the deep value, which includes the values of all descendent elements concatenated into a single string.  

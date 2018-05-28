@@ -1,11 +1,14 @@
 ---
 title: "Widening (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.widening"
 helpviewer_keywords: 
@@ -15,9 +18,12 @@ helpviewer_keywords:
   - "Widening keyword [Visual Basic]"
   - "data type conversion [Visual Basic]"
 ms.assetid: 646ae263-94d3-40a2-b0cc-64f619292f56
+<<<<<<< HEAD
 caps.latest.revision: 15
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Widening (Visual Basic)
 Indicates that a conversion operator (`CType`) converts a class or structure to a type that can hold all possible values of the original class or structure.  

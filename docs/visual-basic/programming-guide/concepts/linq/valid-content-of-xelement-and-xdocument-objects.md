@@ -1,5 +1,6 @@
 ---
 title: "Valid Content of XElement and XDocument Objects2"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 400bb692-478a-40b6-ac1b-4ccbb4cbbd02
 caps.latest.revision: 4
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 400bb692-478a-40b6-ac1b-4ccbb4cbbd02
+>>>>>>> upstream/master
 ---
 # Valid Content of XElement and XDocument Objects
 This topic describes the valid arguments that can be passed to constructors and methods that you use to add content to elements and documents.  

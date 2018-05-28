@@ -1,5 +1,6 @@
 ---
 title: "/debug (Visual Basic)"
+<<<<<<< HEAD
 ms.date: 07/20/2015
 ms.prod: .net
 ms.reviewer: ""
@@ -7,25 +8,41 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 03/10/2018
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "debug compiler switches"
   - "/debug compiler option [Visual Basic]"
   - "-debug compiler option [Visual Basic]"
   - "debug compiler option [Visual Basic]"
 ms.assetid: c2b0bea5-1d5e-499f-9bd5-4f6c6b715ea2
+<<<<<<< HEAD
 caps.latest.revision: 18
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # /debug (Visual Basic)
+=======
+author: rpetrusha
+ms.author: ronpet
+---
+# -debug (Visual Basic)
+>>>>>>> upstream/master
 Causes the compiler to generate debugging information and place it in the output file(s).  
   
 ## Syntax  
   
 ```  
+<<<<<<< HEAD
 /debug[+ | -]  
 ' -or-  
 /debug:[full | pdbonly]  
+=======
+-debug[+ | -]  
+' -or-  
+-debug:[full | pdbonly]  
+>>>>>>> upstream/master
 ```  
   
 ## Arguments  
@@ -42,7 +59,11 @@ Causes the compiler to generate debugging information and place it in the output
   
  For information on how to configure the debug performance of an application, see [Making an Image Easier to Debug](../../../framework/debug-trace-profile/making-an-image-easier-to-debug.md).  
   
+<<<<<<< HEAD
 |To set /debug in the Visual Studio integrated development environment|  
+=======
+|To set -debug in the Visual Studio integrated development environment|  
+>>>>>>> upstream/master
 |---|  
 |1.  With a project selected in **Solution Explorer**, on the **Project** menu, click **Properties**. <br />2.  Click the **Compile** tab.<br />3.  Click **Advanced Compile Options**.<br />4.  Modify the value in the **Generate Debug Info** box.|  
   
@@ -50,7 +71,11 @@ Causes the compiler to generate debugging information and place it in the output
  The following example puts debugging information in output file `App.exe`.  
   
 ```  
+<<<<<<< HEAD
 vbc /debug /out:app.exe test.vb  
+=======
+vbc -debug -out:app.exe test.vb  
+>>>>>>> upstream/master
 ```  
   
 ## See Also  

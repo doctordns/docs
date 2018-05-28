@@ -1,6 +1,7 @@
 ---
 title: "File specified in FileName is not a valid XML file"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: c4c30bf3-e0ad-4bc8-89e0-2c3e49e9793b
 caps.latest.revision: 12
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: c4c30bf3-e0ad-4bc8-89e0-2c3e49e9793b
+>>>>>>> upstream/master
 ---
 # File specified in FileName is not a valid XML file
 The file name that you supplied is not a valid XML file. To specify the allowed structure and content of an XML document, you can use a Document Type Definition (DTD), a Microsoft XML-Data Reduced (XDR) schema, or an XML Schema definition language (XSD) schema. XSD schemas are the preferred way to specify XML grammars in the [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)].  

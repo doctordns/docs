@@ -1,5 +1,6 @@
 ---
 title: "Dim Statement (Visual Basic)"
+<<<<<<< HEAD
 ms.date: 07/20/2015
 ms.prod: .net
 ms.reviewer: ""
@@ -7,6 +8,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 05/12/2018
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.Dim"
   - "Dim"
@@ -35,9 +39,12 @@ helpviewer_keywords:
   - "Dim statement [Visual Basic], syntax"
   - "variables [Visual Basic], member and local"
 ms.assetid: fae3eca1-f0b2-4400-994b-7aa58a848448
+<<<<<<< HEAD
 caps.latest.revision: 72
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Dim Statement (Visual Basic)
 Declares and allocates storage space for one or more variables.  
@@ -67,8 +74,15 @@ Dim [ WithEvents ] variablelist
   
     -   [Private](../../../visual-basic/language-reference/modifiers/private.md)  
   
+<<<<<<< HEAD
     -   `Protected Friend`  
   
+=======
+    -   [Protected Friend](../../language-reference/modifiers/protected-friend.md)
+    
+    - [Private Protected](../../language-reference/modifiers/private-protected.md)
+
+>>>>>>> upstream/master
      See [Access levels in Visual Basic](../../../visual-basic/programming-guide/language-features/declared-elements/access-levels.md).  
   
 -   `Shared`  
@@ -257,7 +271,11 @@ Dim twoDimensions(,) As Integer = {{0, 1, 2}, {10, 11, 12}}
 |Yes|No|`Dim qty As Integer`|The variable is initialized to the default value for the data type. See the table later in this section.|  
 |Yes|Yes|`Dim qty  As Integer = 5`|If the data type of the initializer is not convertible to the specified data type, a compile-time error occurs.|  
   
+<<<<<<< HEAD
  If you specify a data type but do not specify an initializer, [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] initializes the variable to the default value for its data type. The following table shows the default initialization values.  
+=======
+ If you specify a data type but do not specify an initializer, Visual Basic initializes the variable to the default value for its data type. The following table shows the default initialization values.  
+>>>>>>> upstream/master
   
 |Data type|Default value|  
 |---|---|  

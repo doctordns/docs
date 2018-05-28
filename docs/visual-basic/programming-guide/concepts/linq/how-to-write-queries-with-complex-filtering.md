@@ -1,5 +1,6 @@
 ---
 title: "How to: Write Queries with Complex Filtering (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: bf286ffc-7990-4b00-a4eb-ee3d70129950
+>>>>>>> upstream/master
 ---
 # How to: Write Queries with Complex Filtering (Visual Basic)
 Sometimes you want to write LINQ to XML queries with complex filters. For example, you might have to find all elements that have a child element with a particular name and value. This topic gives an example of writing a query with complex filtering.  

@@ -1,12 +1,15 @@
 ---
 title: "Get Statement"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.Get"
 helpviewer_keywords: 
@@ -17,9 +20,12 @@ helpviewer_keywords:
   - "Get keyword [Visual Basic]"
   - "property procedures [Visual Basic], Get statements"
 ms.assetid: 56b05cdc-bd64-4dfd-bb12-824eacec6f94
+<<<<<<< HEAD
 caps.latest.revision: 19
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Get Statement
 Declares a `Get` property procedure used to retrieve the value of a property.  

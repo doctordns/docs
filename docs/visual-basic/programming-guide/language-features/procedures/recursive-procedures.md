@@ -1,5 +1,6 @@
 ---
 title: "Recursive Procedures (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "Visual Basic code, procedures"
   - "procedures [Visual Basic], that call themselves"
@@ -17,12 +21,18 @@ helpviewer_keywords:
   - "functions [Visual Basic], calling recursively"
   - "recursion"
 ms.assetid: ba1d3962-b4c3-48d3-875e-96fdb4198327
+<<<<<<< HEAD
 caps.latest.revision: 13
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # Recursive Procedures (Visual Basic)
 A *recursive* procedure is one that calls itself. In general, this is not the most effective way to write [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] code.  
+=======
+---
+# Recursive Procedures (Visual Basic)
+A *recursive* procedure is one that calls itself. In general, this is not the most effective way to write Visual Basic code.  
+>>>>>>> upstream/master
   
  The following procedure uses recursion to calculate the factorial of its original argument.  
   

@@ -1,5 +1,6 @@
 ---
 title: "How to: Declare A Constant (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.constant"
 helpviewer_keywords: 
@@ -30,9 +34,12 @@ helpviewer_keywords:
   - "module-level constants and variables"
   - "Object data type [Visual Basic], declaring constants"
 ms.assetid: f901b4fa-481f-4621-822e-427060577ad1
+<<<<<<< HEAD
 caps.latest.revision: 20
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Declare A Constant (Visual Basic)
 You use the `Const` statement to declare a constant and set its value. By declaring a constant, you assign a meaningful name to a value. Once a constant is declared, it cannot be modified or assigned a new value.  

@@ -1,6 +1,7 @@
 ---
 title: "Get not supported at run time"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: b527c5a8-3f24-42e9-871f-e6305c9f514b
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrID393"
+ms.assetid: b527c5a8-3f24-42e9-871f-e6305c9f514b
+>>>>>>> upstream/master
 ---
 # Get not supported at run time
 You tried to read a property at run time that is only accessible at design time.  

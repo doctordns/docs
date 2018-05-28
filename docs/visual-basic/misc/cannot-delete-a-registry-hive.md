@@ -1,6 +1,7 @@
 ---
 title: "Cannot delete a registry hive"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: 53ed771c-83f8-4657-a70d-5f9252cd448e
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 53ed771c-83f8-4657-a70d-5f9252cd448e
+>>>>>>> upstream/master
 ---
 # Cannot delete a registry hive
 An attempt has been made to delete a registry hive. Hives are top-level registry keys, such as `HKEY_CURRENT_USER` and `HKEY_LOCAL_MACHINE`, and cannot be deleted.  

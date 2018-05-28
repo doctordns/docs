@@ -1,12 +1,15 @@
 ---
 title: "On Error Statement (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.OnError"
 helpviewer_keywords: 
@@ -28,9 +31,12 @@ helpviewer_keywords:
   - "run-time errors [Visual Basic], handling"
   - "On Error statement [Visual Basic]"
 ms.assetid: ff947930-fb84-40cf-bd66-1ea219561d5c
+<<<<<<< HEAD
 caps.latest.revision: 22
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # On Error Statement (Visual Basic)
 Enables an error-handling routine and specifies the location of the routine within a procedure; can also be used to disable an error-handling routine.  

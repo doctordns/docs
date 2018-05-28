@@ -1,5 +1,6 @@
 ---
 title: "Sample XML File: Customers and Orders in a Namespace1"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 9fe81dbb-e51f-4e80-a49b-e34ac0b1f980
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 9fe81dbb-e51f-4e80-a49b-e34ac0b1f980
+>>>>>>> upstream/master
 ---
 # Sample XML File: Customers and Orders in a Namespace
 The following XML file is used in various examples in the [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] documentation. This file contains customers and orders. The XML is in a namespace.  

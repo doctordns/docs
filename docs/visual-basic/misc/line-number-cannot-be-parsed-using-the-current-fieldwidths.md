@@ -1,6 +1,7 @@
 ---
 title: "Line &lt;number&gt; cannot be parsed using the current FieldWidths"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 84e14245-dfdf-4b62-8b84-e83a31608899
 caps.latest.revision: 7
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrTextFieldParser_MalFormedFixedWidthLine"
+ms.assetid: 84e14245-dfdf-4b62-8b84-e83a31608899
+>>>>>>> upstream/master
 ---
 # Line &lt;number&gt; cannot be parsed using the current FieldWidths
 The specified line cannot be parsed because its fields have widths other than those specified.  

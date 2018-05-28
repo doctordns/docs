@@ -1,5 +1,6 @@
 ---
 title: "Element Operations (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 5fcb0631-dce5-45ff-8abb-353cae21e14f
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 5fcb0631-dce5-45ff-8abb-353cae21e14f
+>>>>>>> upstream/master
 ---
 # Element Operations (Visual Basic)
 Element operations return a single, specific element from a sequence.  

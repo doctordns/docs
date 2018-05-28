@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "/libpath"
 ms.date: 07/20/2015
 ms.prod: .net
@@ -7,22 +8,37 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+title: "-libpath"
+ms.date: 03/10/2018
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "libpath compiler option [Visual Basic]"
   - "/libpath compiler option [Visual Basic]"
   - "-libpath compiler option [Visual Basic]"
 ms.assetid: 5f1c26c9-3455-4e89-bdf3-b12d6c2e655b
+<<<<<<< HEAD
 caps.latest.revision: 16
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # /libpath
+=======
+author: rpetrusha
+ms.author: ronpet
+---
+# -libpath
+>>>>>>> upstream/master
 Specifies the location of referenced assemblies.  
   
 ## Syntax  
   
 ```  
+<<<<<<< HEAD
 /libpath:dirList  
+=======
+-libpath:dirList  
+>>>>>>> upstream/master
 ```  
   
 ## Arguments  
@@ -32,7 +48,11 @@ Specifies the location of referenced assemblies.
 |`dirList`|Required. Semicolon-delimited list of directories for the compiler to look in if a referenced assembly is not found in either the current working directory (the directory from which you are invoking the compiler) or the common language runtime's system directory. If the directory name contains a space, enclose the name in quotation marks (" ").|  
   
 ## Remarks  
+<<<<<<< HEAD
  The `/libpath` option specifies the location of assemblies referenced by the [/reference](../../../visual-basic/reference/command-line-compiler/reference.md) option.  
+=======
+ The `-libpath` option specifies the location of assemblies referenced by the [-reference](../../../visual-basic/reference/command-line-compiler/reference.md) option.  
+>>>>>>> upstream/master
   
  The compiler searches for assembly references that are not fully qualified in the following order:  
   
@@ -44,9 +64,15 @@ Specifies the location of referenced assemblies.
   
 4.  Directories specified by the LIB environment variable.  
   
+<<<<<<< HEAD
  The `/libpath` option is additive; specifying it more than once appends to any prior values.  
   
  Use `/reference` to specify an assembly reference.  
+=======
+ The `-libpath` option is additive; specifying it more than once appends to any prior values.  
+  
+ Use `-reference` to specify an assembly reference.  
+>>>>>>> upstream/master
   
 |To set /libpath in the Visual Studio integrated development environment|  
 |---|  
@@ -55,8 +81,13 @@ Specifies the location of referenced assemblies.
 ## Example  
  The following code compiles `T2.vb` to create an .exe file. The compiler looks in the working directory, in the root directory of the C: drive, and in the New Assemblies directory of the C: drive for assembly references.  
   
+<<<<<<< HEAD
 ```  
 vbc /libpath:c:\;"c:\New Assemblies" /reference:t2.dll t2.vb  
+=======
+```console  
+vbc -libpath:c:\;"c:\New Assemblies" -reference:t2.dll t2.vb  
+>>>>>>> upstream/master
 ```  
   
 ## See Also  

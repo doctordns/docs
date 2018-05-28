@@ -1,6 +1,7 @@
 ---
 title: "Specified registry path does not start with a valid hive name"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: afb1a03b-4516-450b-aab1-827a93f9e99d
 caps.latest.revision: 10
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: afb1a03b-4516-450b-aab1-827a93f9e99d
+>>>>>>> upstream/master
 ---
 # Specified registry path does not start with a valid hive name
 The specified registry path does not begin with a valid hive name. Valid hive names are:  

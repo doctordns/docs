@@ -1,12 +1,15 @@
 ---
 title: "Like Operator (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "Like"
   - "vb.Like"
@@ -28,9 +31,12 @@ helpviewer_keywords:
   - "data [Visual Basic], string comparisons"
   - "string comparison [Visual Basic], Like operators"
 ms.assetid: 966283ec-80e2-4294-baa8-c75baff804f9
+<<<<<<< HEAD
 caps.latest.revision: 18
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Like Operator (Visual Basic)
 Compares a string against a pattern.  

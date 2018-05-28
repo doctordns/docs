@@ -1,21 +1,27 @@
 ---
 title: "Assignment Operators (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "assignment operators [Visual Basic], Visual Basic"
   - "operators [Visual Basic], assignment"
   - "= assignment statements [Visual Basic]"
   - "assignment operators [Visual Basic]"
 ms.assetid: 43b7e40c-b7af-45f6-b100-198a90f2561e
+<<<<<<< HEAD
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Assignment Operators (Visual Basic)
 The following are the assignment operators defined in Visual Basic.  

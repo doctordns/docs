@@ -1,5 +1,6 @@
 ---
 title: "How to: Validate Strings That Represent Dates or Times (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,13 +9,19 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "strings [Visual Basic], validating"
   - "String data type [Visual Basic], validation"
 ms.assetid: ae7d4b29-3436-4032-bdbf-4650eb1c8e19
+<<<<<<< HEAD
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Validate Strings That Represent Dates or Times (Visual Basic)
 The following code example sets a `Boolean` value that indicates whether a string represents a valid date or time.  

@@ -1,6 +1,7 @@
 ---
 title: "File I/O with type &#39;&lt;typename&gt;&#39; is not valid"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: b6c527e3-b75a-4c1a-b6f1-ee9f7460b5f0
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrArgument_UnsupportedIOType1"
+ms.assetid: b6c527e3-b75a-4c1a-b6f1-ee9f7460b5f0
+>>>>>>> upstream/master
 ---
 # File I/O with type &#39;&lt;typename&gt;&#39; is not valid
 You are attempting to write an unsupported type to a file.  

@@ -1,6 +1,7 @@
 ---
 title: "&lt;address&gt; is not a valid remote file address"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: 2c312242-6c42-4754-a1f5-7e801a542604
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 2c312242-6c42-4754-a1f5-7e801a542604
+>>>>>>> upstream/master
 ---
 # &lt;address&gt; is not a valid remote file address
 \<address> is not a valid remote file address. A valid address should include a protocol, a path and a filename.  

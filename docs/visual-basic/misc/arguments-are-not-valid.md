@@ -1,6 +1,7 @@
 ---
 title: "Arguments are not valid"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: dc0be8ab-b2b7-40b7-8c94-7ac9eadb5e94
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrArgument_InvalidValue"
+ms.assetid: dc0be8ab-b2b7-40b7-8c94-7ac9eadb5e94
+>>>>>>> upstream/master
 ---
 # Arguments are not valid
 Arguments that are not valid are being passed to a function or subroutine.  

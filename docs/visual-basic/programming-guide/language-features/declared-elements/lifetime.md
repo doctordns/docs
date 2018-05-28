@@ -1,5 +1,6 @@
 ---
 title: "Lifetime in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "static variables [Visual Basic], lifetime"
   - "static variables [Visual Basic], Visual Basic"
@@ -17,9 +21,12 @@ helpviewer_keywords:
   - "lifetime [Visual Basic], Visual Basic"
   - "lifetime [Visual Basic]"
 ms.assetid: bd91e390-690a-469a-9946-8dca70bc14e7
+<<<<<<< HEAD
 caps.latest.revision: 14
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Lifetime in Visual Basic
 The *lifetime* of a declared element is the period of time during which it is available for use. Variables are the only elements that have lifetime. For this purpose, the compiler treats procedure parameters and function returns as special cases of variables. The lifetime of a variable represents the period of time during which it can hold a value. Its value can change over its lifetime, but it always holds some value.  
@@ -37,7 +44,11 @@ The *lifetime* of a declared element is the period of time during which it is av
  Variables declared within a block inside a procedure (such as a `For` loop) are initialized on entry to the procedure. These initializations take effect whether or not your code ever executes the block.  
   
 ## End of Lifetime  
+<<<<<<< HEAD
  When a procedure terminates, the values of its local variables are not preserved, and [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] reclaims their memory. The next time you call the procedure, all its local variables are created afresh and reinitialized.  
+=======
+ When a procedure terminates, the values of its local variables are not preserved, and Visual Basic reclaims their memory. The next time you call the procedure, all its local variables are created afresh and reinitialized.  
+>>>>>>> upstream/master
   
  When an instance of a class or structure terminates, its nonshared variables lose their memory and their values. Each new instance of the class or structure creates and reinitializes its nonshared variables. However, `Shared` variables are preserved until your application stops running.  
   
@@ -51,7 +62,11 @@ The *lifetime* of a declared element is the period of time during which it is av
 |In an instance of a class, not `Shared` (procedure is an instance member)|The first time the procedure is called on the specific instance|When the instance is released for garbage collection (GC)|  
   
 ## Static Variables of the Same Name  
+<<<<<<< HEAD
  You can declare static variables with the same name in more than one procedure. If you do this, the [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] compiler considers each such variable to be a separate element. The initialization of one of these variables does not affect the values of the others. The same applies if you define a procedure with a set of overloads and declare a static variable with the same name in each overload.  
+=======
+ You can declare static variables with the same name in more than one procedure. If you do this, the Visual Basic compiler considers each such variable to be a separate element. The initialization of one of these variables does not affect the values of the others. The same applies if you define a procedure with a set of overloads and declare a static variable with the same name in each overload.  
+>>>>>>> upstream/master
   
 ## Containing Elements for Static Variables  
  You can declare a static local variable within a class, that is, inside a procedure in that class. However, you cannot declare a static local variable within a structure, either as a structure member or as a local variable of a procedure within that structure.  

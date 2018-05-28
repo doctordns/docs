@@ -1,5 +1,6 @@
 ---
 title: "Tuples in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 04/23/2017
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 04/23/2017
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "tuples [Visual Basic]"
 ms.assetid: 3e66cd1b-3432-4e1d-8c37-5ebacae8f53f
@@ -59,6 +63,10 @@ To enable interred tuple element names, you must define the version of the Visua
 <PropertyGroup> 
   <LangVersion>15.3</LangVersion> 
 </PropertyGroup> 
+<<<<<<< HEAD
+=======
+```
+>>>>>>> upstream/master
 
 The version number can be any version of the Visual Basic compiler starting with 15.3. Rather than hard-coding a specific compiler version, you can also specify "Latest" as the value of `LangVersion` to compile with the most recent version of the Visual Basic compiler installed on your system.
 
@@ -74,7 +82,11 @@ When field name inference fails, Visual Basic does not generate a compiler error
 
 A Visual Basic tuple is a value type that is an instance of one of the a **System.ValueTuple** generic types. For example, the `holiday` tuple defined in the previous example is an instance of the <xref:System.ValueTuple%603> structure. It is designed to be a lightweight container for data. Since the tuple aims to make it easy to create an object with multiple data items, it lacks some of the features that a custom structure might have. These include:
 
+<<<<<<< HEAD
 - Customer members. You cannot define your own properties, methods, or events for a tuple.
+=======
+- Custom members. You cannot define your own properties, methods, or events for a tuple.
+>>>>>>> upstream/master
 
 - Validation. You cannot validate the data assigned to fields.
 

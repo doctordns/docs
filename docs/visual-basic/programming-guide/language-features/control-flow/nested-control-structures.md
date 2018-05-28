@@ -1,5 +1,6 @@
 ---
 title: "Nested Control Structures (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "Visual Basic code, control flow"
   - "control structures [Visual Basic], nested"
@@ -17,15 +21,22 @@ helpviewer_keywords:
   - "structures [Visual Basic], nested control"
   - "nested control statements [Visual Basic]"
 ms.assetid: cf60b061-65d9-44a8-81f2-b0bdccd23a05
+<<<<<<< HEAD
 caps.latest.revision: 20
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Nested Control Structures (Visual Basic)
 You can place control statements inside other control statements, for example an `If...Then...Else` block within a `For...Next` loop. A control statement placed inside another control statement is said to be *nested*.  
   
 ## Nesting Levels  
+<<<<<<< HEAD
  Control structures in [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] can be nested to as many levels as you want. It is common practice to make nested structures more readable by indenting the body of each one. The integrated development environment (IDE) editor automatically does this.  
+=======
+ Control structures in Visual Basic can be nested to as many levels as you want. It is common practice to make nested structures more readable by indenting the body of each one. The integrated development environment (IDE) editor automatically does this.  
+>>>>>>> upstream/master
   
  In the following example, the procedure `sumRows` adds together the positive elements of each row of the matrix.  
   
@@ -74,7 +85,11 @@ Next ctl
  ![Graphic diagram of invalid nesting](../../../../visual-basic/programming-guide/language-features/control-flow/media/nestexampleinvalid.gif "NestExampleInvalid")  
 Invalid nesting of For and With structures  
   
+<<<<<<< HEAD
  The [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] compiler detects such overlapping control structures and signals a compile-time error.  
+=======
+ The Visual Basic compiler detects such overlapping control structures and signals a compile-time error.  
+>>>>>>> upstream/master
   
 ## See Also  
  [Control Flow](../../../../visual-basic/programming-guide/language-features/control-flow/index.md)  

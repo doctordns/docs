@@ -1,5 +1,6 @@
 ---
 title: "LINQ to XML vs. Other XML Technologies2"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 72ce3a82-ffc6-488c-98e7-b9b40f3591ec
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 72ce3a82-ffc6-488c-98e7-b9b40f3591ec
+>>>>>>> upstream/master
 ---
 # LINQ to XML vs. Other XML Technologies
 This topic compares [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] to the following XML technologies: <xref:System.Xml.XmlReader>, XSLT, MSXML, and XmlLite. This information can help you decide which technology to use.  
@@ -46,7 +51,11 @@ This topic compares [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] to the
 ## LINQ to XML vs. MSXML  
  MSXML is the COM-based technology for processing XML that is included with Microsoft Windows. MSXML provides a native implementation of the DOM with support for XPath and XSLT. It also contains the SAX2 non-caching, event-based parser.  
   
+<<<<<<< HEAD
  MSXML performs well, is secure by default in most scenarios, and can be accessed in Internet Explorer for performing client-side XML processing in AJAX-style applications. MSXML can be used from any programming language that supports COM, including C++, JavaScript, and [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] 6.0.  
+=======
+ MSXML performs well, is secure by default in most scenarios, and can be accessed in Internet Explorer for performing client-side XML processing in AJAX-style applications. MSXML can be used from any programming language that supports COM, including C++, JavaScript, and Visual Basic 6.0.  
+>>>>>>> upstream/master
   
  MSXML is not recommended for use in managed code based on the common language runtime (CLR).  
   

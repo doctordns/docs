@@ -1,5 +1,6 @@
 ---
 title: "How to: Determine Whether Two Objects Are Identical (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -9,11 +10,15 @@ ms.technology:
   - "devlang-visual-basic"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "testing [Visual Basic], objects"
   - "objects [Visual Basic], comparing"
   - "object variables [Visual Basic], determining identity"
 ms.assetid: 7829f817-0d1f-4749-a707-de0b95e0cf5c
+<<<<<<< HEAD
 caps.latest.revision: 19
 author: dotnet-bot
 ms.author: dotnetcontent
@@ -22,6 +27,13 @@ ms.author: dotnetcontent
 In [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)], two variable references are considered identical if their pointers are the same, that is, if both variables point to the same class instance in memory. For example, in a Windows Forms application, you might want to make a comparison to determine whether the current instance (`Me`) is the same as a particular instance, such as `Form2`.  
   
  [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] provides two operators to compare pointers. The [Is Operator](../../../../visual-basic/language-reference/operators/is-operator.md) returns `True` if the objects are identical, and the [IsNot Operator](../../../../visual-basic/language-reference/operators/isnot-operator.md) returns `True` if they are not.  
+=======
+---
+# How to: Determine Whether Two Objects Are Identical (Visual Basic)
+In Visual Basic, two variable references are considered identical if their pointers are the same, that is, if both variables point to the same class instance in memory. For example, in a Windows Forms application, you might want to make a comparison to determine whether the current instance (`Me`) is the same as a particular instance, such as `Form2`.  
+  
+ Visual Basic provides two operators to compare pointers. The [Is Operator](../../../../visual-basic/language-reference/operators/is-operator.md) returns `True` if the objects are identical, and the [IsNot Operator](../../../../visual-basic/language-reference/operators/isnot-operator.md) returns `True` if they are not.  
+>>>>>>> upstream/master
   
 ## Determining if Two Objects Are Identical  
   

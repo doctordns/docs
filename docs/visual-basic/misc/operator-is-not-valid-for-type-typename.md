@@ -1,6 +1,7 @@
 ---
 title: "Operator is not valid for type &#39;&lt;typename&gt;&#39;"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 9d5e01db-d3e7-446a-8d39-6600c73fea20
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrNoValidOperator_OneOperand"
+ms.assetid: 9d5e01db-d3e7-446a-8d39-6600c73fea20
+>>>>>>> upstream/master
 ---
 # Operator is not valid for type &#39;&lt;typename&gt;&#39;
 An operator is not appropriate for the types.  

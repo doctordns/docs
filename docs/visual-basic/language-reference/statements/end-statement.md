@@ -1,12 +1,15 @@
 ---
 title: "End Statement"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.End"
   - "End"
@@ -20,9 +23,12 @@ helpviewer_keywords:
   - "End statement [Visual Basic]"
   - "execution [Visual Basic], stopping"
 ms.assetid: 0e64467c-0f34-4aab-9ddd-43f8b9d55d90
+<<<<<<< HEAD
 caps.latest.revision: 19
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # End Statement
 Terminates execution immediately.  

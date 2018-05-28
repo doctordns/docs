@@ -1,5 +1,6 @@
 ---
 title: "Applicability of Functional Transformation (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 4
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 3b74e134-e19b-44bc-8d06-e26c48305040
+>>>>>>> upstream/master
 ---
 # Applicability of Functional Transformation (Visual Basic)
 Pure functional transformations are applicable in a wide variety of situations.  

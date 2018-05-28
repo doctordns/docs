@@ -1,6 +1,7 @@
 ---
 title: "My.Application.Log cannot determine the amount of free disk space"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 7f0ce827-6afc-4d59-ac58-6729e1c01c4c
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrApplicationLog_FreeSpaceError"
+ms.assetid: 7f0ce827-6afc-4d59-ac58-6729e1c01c4c
+>>>>>>> upstream/master
 ---
 # My.Application.Log cannot determine the amount of free disk space
 The <xref:Microsoft.VisualBasic.Logging.FileLogTraceListener> class could not determine the amount of free disk space.  

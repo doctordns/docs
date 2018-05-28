@@ -1,5 +1,6 @@
 ---
 title: "How to: Hold More Than One Value in a Variable (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "classes [Visual Basic], composite data types"
   - "composite types [Visual Basic]"
@@ -18,9 +22,12 @@ helpviewer_keywords:
   - "arrays [Visual Basic], compilation errors"
   - "types [Visual Basic], composite"
 ms.assetid: 5fe0e558-aac2-4a40-b7f2-7cfea7336917
+<<<<<<< HEAD
 caps.latest.revision: 16
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Hold More Than One Value in a Variable (Visual Basic)
 A variable holds more than one value if you declare it to be of a *composite data type*.  

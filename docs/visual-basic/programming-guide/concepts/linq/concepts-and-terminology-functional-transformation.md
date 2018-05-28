@@ -1,5 +1,6 @@
 ---
 title: "Concepts and Terminology (Functional Transformation) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 24fd244d-ebae-4721-8858-89bb544aea0b
+>>>>>>> upstream/master
 ---
 # Concepts and Terminology (Functional Transformation) (Visual Basic)
 This topic introduces the concepts and terminology of pure functional transformations. The functional transformation approach to transforming data yields code that is often quicker to program, more expressive, and easier to debug and maintain than more traditional, imperative programming.  

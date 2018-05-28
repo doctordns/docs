@@ -1,19 +1,25 @@
 ---
 title: "&lt;c&gt; (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "c XML tag"
   - "<c> XML tag"
 ms.assetid: 36ad5d1b-11f7-4012-8932-41962ac327d1
+<<<<<<< HEAD
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # &lt;c&gt; (Visual Basic)
 Indicates that text within a description is code.  

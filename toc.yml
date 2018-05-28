@@ -476,6 +476,12 @@
         - name: Operators
           tocHref: /dotnet/csharp/language-reference/operators/
           topicHref: /dotnet/csharp/language-reference/operators/index
+<<<<<<< HEAD
+=======
+        - name: Special characters
+          tocHref: /dotnet/csharp/language-reference/tokens/
+          topicHref: /dotnet/csharp/language-reference/tokens/index
+>>>>>>> upstream/master
         - name: Preprocessor directives
           tocHref: /dotnet/csharp/language-reference/preprocessor-directives/
           topicHref: /dotnet/csharp/language-reference/preprocessor-directives/index
@@ -590,3 +596,16 @@
       - name: Reference
         tocHref: /dotnet/visual-basic/reference/
         topicHref: /dotnet/visual-basic/reference/index
+<<<<<<< HEAD
+=======
+    - name: ML.NET Guide
+      tocHref: /dotnet/machine-learning/
+      topicHref: /dotnet/machine-learning/index
+      items:
+      - name: Resources
+        tocHref: /dotnet/machine-learning/resources/
+        topicHref: /dotnet/machine-learning/resources/index
+      - name: Tutorials
+        tocHref: /dotnet/machine-learning/tutorials/
+        topicHref: /dotnet/machine-learning/tutorials/index
+>>>>>>> upstream/master

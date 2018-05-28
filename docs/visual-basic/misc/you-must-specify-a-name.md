@@ -1,6 +1,7 @@
 ---
 title: "You must specify a name"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: 9056bc12-951c-4b86-a44a-473d7c8d5f75
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 9056bc12-951c-4b86-a44a-473d7c8d5f75
+>>>>>>> upstream/master
 ---
 # You must specify a name
 When performing file operations such as renaming a file, you must specify the name.  

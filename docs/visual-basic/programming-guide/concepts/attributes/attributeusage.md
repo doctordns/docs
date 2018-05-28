@@ -1,5 +1,6 @@
 ---
 title: "AttributeUsage (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 48757216-c21d-4051-86d5-8a3e03c39d2c
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 48757216-c21d-4051-86d5-8a3e03c39d2c
+>>>>>>> upstream/master
 ---
 # AttributeUsage (Visual Basic)
 Determines how a custom attribute class can be used. `AttributeUsage` is an attribute that can be applied to custom attribute definitions to control how the new attribute can be applied. The default settings look like this when applied explicitly:  

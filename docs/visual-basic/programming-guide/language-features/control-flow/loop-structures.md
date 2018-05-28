@@ -1,5 +1,6 @@
 ---
 title: "Loop Structures (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "control flow [Visual Basic], loops"
   - "For keyword [Visual Basic], loop structures"
@@ -17,12 +21,18 @@ helpviewer_keywords:
   - "Do statement [Visual Basic], Do loops"
   - "conditional statements [Visual Basic], loop structures"
 ms.assetid: ecacb09b-a4c9-42be-98b2-a15d368b5db8
+<<<<<<< HEAD
 caps.latest.revision: 18
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # Loop Structures (Visual Basic)
 [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] loop structures allow you to run one or more lines of code repetitively. You can repeat the statements in a loop structure until a condition is `True`, until a condition is `False`, a specified number of times, or once for each element in a collection.  
+=======
+---
+# Loop Structures (Visual Basic)
+Visual Basic loop structures allow you to run one or more lines of code repetitively. You can repeat the statements in a loop structure until a condition is `True`, until a condition is `False`, a specified number of times, or once for each element in a collection.  
+>>>>>>> upstream/master
   
  The following illustration shows a loop structure that runs a set of statements until a condition becomes true.  
   

@@ -1,5 +1,6 @@
 ---
 title: "How to: Search Within a String (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,14 +9,20 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "strings [Visual Basic], finding"
   - "strings [Visual Basic], searching"
   - "examples [Visual Basic], strings"
 ms.assetid: ae4c79e0-08ea-489f-bdb2-5eb6d355f284
+<<<<<<< HEAD
 caps.latest.revision: 16
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Search Within a String (Visual Basic)
 This example calls the <xref:System.String.IndexOf%2A> method on a <xref:System.String> object to report the index of the first occurrence of a substring.  

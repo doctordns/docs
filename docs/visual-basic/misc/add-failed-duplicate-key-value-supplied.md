@@ -1,6 +1,7 @@
 ---
 title: "Add failed. Duplicate key value supplied"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 7b1d6e6c-a69d-4713-a19d-ae1534a60464
 caps.latest.revision: 7
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrCollection_DuplicateKey"
+ms.assetid: 7b1d6e6c-a69d-4713-a19d-ae1534a60464
+>>>>>>> upstream/master
 ---
 # Add failed. Duplicate key value supplied
 An `Add` operation failed because the key value is the same as another key value. Key values must be unique.  

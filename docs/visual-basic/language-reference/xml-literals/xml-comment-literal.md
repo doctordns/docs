@@ -1,12 +1,15 @@
 ---
 title: "XML Comment Literal (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.XmlLiteralComment"
 helpviewer_keywords: 
@@ -15,9 +18,12 @@ helpviewer_keywords:
   - "XML comment literal [Visual Basic]"
   - "XML literals [Visual Basic], comment"
 ms.assetid: 634c1cee-5e01-48d0-88d7-2dd55e4a9e52
+<<<<<<< HEAD
 caps.latest.revision: 19
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # XML Comment Literal (Visual Basic)
 A literal representing an <xref:System.Xml.Linq.XComment> object.  
@@ -49,9 +55,15 @@ A literal representing an <xref:System.Xml.Linq.XComment> object.
  You can assign an XML comment literal to a variable, or you can include it in an XML element literal.  
   
 > [!NOTE]
+<<<<<<< HEAD
 >  An XML literal can span multiple lines without using line continuation characters. This feature enables you to copy content from an XML document and paste it directly into a [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] program.  
   
  The [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] compiler converts the XML comment literal to a call to the <xref:System.Xml.Linq.XComment.%23ctor%2A> constructor.  
+=======
+>  An XML literal can span multiple lines without using line continuation characters. This feature enables you to copy content from an XML document and paste it directly into a Visual Basic program.  
+  
+ The Visual Basic compiler converts the XML comment literal to a call to the <xref:System.Xml.Linq.XComment.%23ctor%2A> constructor.  
+>>>>>>> upstream/master
   
 ## Example  
  The following example creates an XML comment that contains the text "This is a comment".  

@@ -1,6 +1,7 @@
 ---
 title: "Clauses (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
@@ -13,6 +14,11 @@ ms.assetid: 5e89f5f3-d129-4ed1-8857-30cd71cff95e
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+helpviewer_keywords: 
+  - "clauses [Visual Basic]"
+ms.assetid: 5e89f5f3-d129-4ed1-8857-30cd71cff95e
+>>>>>>> upstream/master
 ---
 # Clauses (Visual Basic)
 The topics in this section document Visual Basic run-time clauses.  

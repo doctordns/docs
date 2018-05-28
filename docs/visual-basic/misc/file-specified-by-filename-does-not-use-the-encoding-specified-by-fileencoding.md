@@ -1,6 +1,7 @@
 ---
 title: "File specified by FileName does not use the encoding specified by FileEncoding"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: 2129f8df-96cd-4c2e-a4ca-f08a49f07d3f
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 2129f8df-96cd-4c2e-a4ca-f08a49f07d3f
+>>>>>>> upstream/master
 ---
 # File specified by FileName does not use the encoding specified by FileEncoding
 An attempt has been made to read from a file, but the specified encoding is not used by the file.  

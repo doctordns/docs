@@ -1,12 +1,15 @@
 ---
 title: "&amp; Operator (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.&"
 helpviewer_keywords: 
@@ -16,9 +19,12 @@ helpviewer_keywords:
   - "concatenation operators [Visual Basic], syntax"
   - "strings [Visual Basic], concatenating"
 ms.assetid: fefc3d00-cbf1-475c-8c5e-6fb213b3f85a
+<<<<<<< HEAD
 caps.latest.revision: 12
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # &amp; Operator (Visual Basic)
 Generates a string concatenation of two expressions.  

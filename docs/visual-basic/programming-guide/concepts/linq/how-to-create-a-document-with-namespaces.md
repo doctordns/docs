@@ -1,5 +1,6 @@
 ---
 title: "How to: Create a Document with Namespaces (LINQ to XML) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: cc5b0d4d-360c-4ada-94fa-2d2916e989be
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: cc5b0d4d-360c-4ada-94fa-2d2916e989be
+>>>>>>> upstream/master
 ---
 # How to: Create a Document with Namespaces (LINQ to XML) (Visual Basic)
 This topic shows how to create a document with namespaces in Visual Basic.  

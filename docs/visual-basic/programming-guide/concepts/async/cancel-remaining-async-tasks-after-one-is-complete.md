@@ -1,5 +1,6 @@
 ---
 title: "Cancel Remaining Async Tasks after One Is Complete (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: c928b5a1-622f-4441-8baf-adca1dde197f
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: c928b5a1-622f-4441-8baf-adca1dde197f
+>>>>>>> upstream/master
 ---
 # Cancel Remaining Async Tasks after One Is Complete (Visual Basic)
 By using the <xref:System.Threading.Tasks.Task.WhenAny%2A?displayProperty=nameWithType> method together with a <xref:System.Threading.CancellationToken>, you can cancel all remaining tasks when one task is complete. The `WhenAny` method takes an argument that’s a collection of tasks. The method starts all the tasks and returns a single task. The single task is complete when any task in the collection is complete.  

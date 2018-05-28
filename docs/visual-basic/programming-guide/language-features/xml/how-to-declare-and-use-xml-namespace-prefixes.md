@@ -1,5 +1,6 @@
 ---
 title: "How to: Declare and Use XML Namespace Prefixes (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -9,13 +10,19 @@ ms.technology:
   - "devlang-visual-basic"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "LINQ to XML [Visual Basic], XML namespace prefixes"
   - "XML namespace prefixes [Visual Basic]"
 ms.assetid: 4292e1d9-eb8f-49d6-a3aa-f05a5fbe24d1
+<<<<<<< HEAD
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Declare and Use XML Namespace Prefixes (Visual Basic)
 This example shows how to import the XML namespace prefix `ns` and use it in an XML literal and XML axis properties.  

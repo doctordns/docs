@@ -1,6 +1,7 @@
 ---
 title: "Replacements too long"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 398ff5eb-b580-456f-8f24-b7a8318e1193
 caps.latest.revision: 7
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrID746"
+ms.assetid: 398ff5eb-b580-456f-8f24-b7a8318e1193
+>>>>>>> upstream/master
 ---
 # Replacements too long
 You specified a replacement that exceeds the permitted length.  

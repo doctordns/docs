@@ -1,5 +1,6 @@
 ---
 title: "Converting Between Strings and Other Data Types in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,15 +9,21 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "Visual Basic, strings"
   - "data types [Visual Basic], converting"
   - "conversions [Visual Basic], Visual Basic"
   - "string conversion [Visual Basic], Visual Basic"
 ms.assetid: 06085ed5-191d-4930-8fbc-da63930da400
+<<<<<<< HEAD
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Converting Between Strings and Other Data Types in Visual Basic
 This section describes how to convert strings into other data types.  

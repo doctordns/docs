@@ -1,5 +1,6 @@
 ---
 title: "How to: Work with Dictionaries Using LINQ to XML (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 6cb3f969-1986-414a-b850-87418712edea
+>>>>>>> upstream/master
 ---
 # How to: Work with Dictionaries Using LINQ to XML (Visual Basic)
 It is often convenient to convert varieties of data structures to XML, and XML back to other data structures. This topic shows a specific implementation of this general approach by converting a <xref:System.Collections.Generic.Dictionary%602> to XML and back.  

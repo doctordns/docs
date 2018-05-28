@@ -1,18 +1,24 @@
 ---
 title: "My.Computer.Ports Object"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "My.Computer.Ports object"
   - "Ports object"
 ms.assetid: 244ede4e-25b7-445b-9fd6-163550cce193
+<<<<<<< HEAD
 caps.latest.revision: 22
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # My.Computer.Ports Object
 Provides a property and a method for accessing the computer's serial ports.  

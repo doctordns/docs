@@ -8,5 +8,8 @@
 |Version|4.5|
 |Type|Runtime|
 |Affected APIs|<ul><li><xref:System.Windows.Data.CollectionView.Refresh?displayProperty=nameWithType></li></ul>|
+<<<<<<< HEAD
 |Analyzers|<ul><li>CD0104</li></ul>|
+=======
+>>>>>>> upstream/master
 

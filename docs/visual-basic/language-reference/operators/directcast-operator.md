@@ -1,21 +1,27 @@
 ---
 title: "DirectCast Operator (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.directCast"
   - "directCast"
 helpviewer_keywords: 
   - "DirectCast keyword [Visual Basic]"
 ms.assetid: 63e5a1d0-4d9e-4732-bf8f-e90c0c8784b8
+<<<<<<< HEAD
 caps.latest.revision: 23
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # DirectCast Operator (Visual Basic)
 Introduces a type conversion operation based on inheritance or implementation.  

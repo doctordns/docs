@@ -1,6 +1,7 @@
 ---
 title: "The folder cannot be created since a file already exists with the same path"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: 1085c60d-4d38-4d67-a149-d3923eef0cfd
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 1085c60d-4d38-4d67-a149-d3923eef0cfd
+>>>>>>> upstream/master
 ---
 # The folder cannot be created since a file already exists with the same path
 An attempt has been made to create a directory, but a file already exists with that path. This may be a result of incorrectly parsing paths, particularly when working with relative paths.  

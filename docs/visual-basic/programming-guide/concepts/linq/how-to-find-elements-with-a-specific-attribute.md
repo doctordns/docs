@@ -1,5 +1,6 @@
 ---
 title: "How to: Find Elements with a Specific Attribute (XPath-LINQ to XML) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 4bb38d2c-bc7c-4196-8909-aaf41fb86b28
+>>>>>>> upstream/master
 ---
 # How to: Find Elements with a Specific Attribute (XPath-LINQ to XML) (Visual Basic)
 Sometimes you want to find all elements that have a specific attribute. You are not concerned about the contents of the attribute. Instead, you want to select based on the existence of the attribute.  

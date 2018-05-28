@@ -1,10 +1,13 @@
 ---
 title: "Special Characters (Visual Basic Reference)"
 ms.date: 10/31/2017
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 author: "rpetrusha"
 ms.author: "ronpet"
 ---

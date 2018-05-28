@@ -1,6 +1,7 @@
 ---
 title: "Could not complete operation since target directory is under source directory"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 850d3a24-5d51-4ac8-a912-630efcd75278
 caps.latest.revision: 10
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrIO_CyclicOperation"
+ms.assetid: 850d3a24-5d51-4ac8-a912-630efcd75278
+>>>>>>> upstream/master
 ---
 # Could not complete operation since target directory is under source directory
 A cyclic operation has failed. Cyclic operations cycle and therefore cannot complete. For example, Object A may attempt to inherit from Object B, which in turn inherits from Object A.  

@@ -1,12 +1,15 @@
 ---
 title: "\\ Operator (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.\\"
   - "\\"
@@ -23,9 +26,12 @@ helpviewer_keywords:
   - "quotients, integer"
   - "truncation [Visual Basic], integer division"
 ms.assetid: 4b0ee347-950c-45c9-8e23-54bc85df208e
+<<<<<<< HEAD
 caps.latest.revision: 17
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # \ Operator (Visual Basic)
 Divides two numbers and returns an integer result.  

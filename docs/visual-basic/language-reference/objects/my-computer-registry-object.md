@@ -1,18 +1,24 @@
 ---
 title: "My.Computer.Registry Object"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "DeleteSetting function [Visual Basic], increasing performance"
   - "My.Computer.Registry object"
 ms.assetid: afd9edf9-ef9b-438b-a390-d71a02dc8203
+<<<<<<< HEAD
 caps.latest.revision: 18
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # My.Computer.Registry Object
 Provides properties and methods for manipulating the registry.  

@@ -1,12 +1,15 @@
 ---
 title: "Return Statement (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.Return"
 helpviewer_keywords: 
@@ -15,9 +18,12 @@ helpviewer_keywords:
   - "Return statement [Visual Basic]"
   - "expressions [Visual Basic], returning control to"
 ms.assetid: ac86e7f0-5a67-42c3-9834-0e0381efa3ec
+<<<<<<< HEAD
 caps.latest.revision: 15
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Return Statement (Visual Basic)
 Returns control to the code that called a `Function`, `Sub`, `Get`, `Set`, or `Operator` procedure.  

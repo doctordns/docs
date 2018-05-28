@@ -1,21 +1,27 @@
 ---
 title: "IsFalse Operator (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.isfalse"
 helpviewer_keywords: 
   - "AndAlso operator [Visual Basic]"
   - "IsFalse operator [Visual Basic]"
 ms.assetid: 37fc9dbf-e5cc-4570-b93f-7213447974df
+<<<<<<< HEAD
 caps.latest.revision: 14
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # IsFalse Operator (Visual Basic)
 Determines whether an expression is `False`.  

@@ -1,6 +1,7 @@
 ---
 title: "Q-Z Statements"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
@@ -14,6 +15,12 @@ ms.author: dotnetcontent
 ---
 # Q-Z Statements
 The following table contains a listing of [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] language statements.  
+=======
+ms.assetid: 32a9e547-c1b7-40f2-8118-7eef1d19649e
+---
+# Q-Z Statements
+The following table contains a listing of Visual Basic language statements.  
+>>>>>>> upstream/master
   
 |||||  
 |---|---|---|---|  

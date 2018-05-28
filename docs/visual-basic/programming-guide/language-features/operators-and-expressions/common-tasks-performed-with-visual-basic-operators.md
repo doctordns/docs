@@ -1,5 +1,6 @@
 ---
 title: "Common Tasks Performed with Visual Basic Operators"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "operators [Visual Basic], logical"
   - "operators [Visual Basic], string concatenation"
@@ -20,9 +24,12 @@ helpviewer_keywords:
   - "operators [Visual Basic], comparison"
   - "operators [Visual Basic], short-circuiting logical"
 ms.assetid: d181afe5-fafa-460f-a13b-81203f6f4587
+<<<<<<< HEAD
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Common Tasks Performed with Visual Basic Operators
 Operators perform many common tasks involving one or more expressions called *operands*.  

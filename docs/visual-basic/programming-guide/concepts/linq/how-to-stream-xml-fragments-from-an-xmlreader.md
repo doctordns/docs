@@ -1,5 +1,6 @@
 ---
 title: "How to: Stream XML Fragments from an XmlReader (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: f67ce598-4a12-4dcb-9a07-24deca02a111
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: f67ce598-4a12-4dcb-9a07-24deca02a111
+>>>>>>> upstream/master
 ---
 # How to: Stream XML Fragments from an XmlReader (Visual Basic)
 When you have to process large XML files, it might not be feasible to load the whole XML tree into memory. This topic shows how to stream fragments using an <xref:System.Xml.XmlReader>.  

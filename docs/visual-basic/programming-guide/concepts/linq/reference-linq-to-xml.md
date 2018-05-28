@@ -1,5 +1,6 @@
 ---
 title: "Reference (LINQ to XML)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 0f4cc4b9-361d-4de2-b4c3-be7cbd5dd47b
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 0f4cc4b9-361d-4de2-b4c3-be7cbd5dd47b
+>>>>>>> upstream/master
 ---
 # Reference (LINQ to XML)
 This topic contains links to the LINQ to XML reference topics.  

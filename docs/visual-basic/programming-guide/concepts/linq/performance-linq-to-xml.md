@@ -1,5 +1,6 @@
 ---
 title: "Performance (LINQ to XML) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 155557f6-5d7e-4784-9d00-f42092a28857
+>>>>>>> upstream/master
 ---
 # Performance (LINQ to XML) (Visual Basic)
 This section provides information about performance in [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)], specifically the performance of functional construction and queries.  

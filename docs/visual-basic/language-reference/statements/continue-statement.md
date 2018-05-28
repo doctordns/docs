@@ -1,21 +1,27 @@
 ---
 title: "Continue Statement (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.continue"
 helpviewer_keywords: 
   - "Continue statement [Visual Basic]"
   - "loops, transferring to next iteration"
 ms.assetid: 3ad00103-358b-4af3-a3a8-1b9ea0e995d3
+<<<<<<< HEAD
 caps.latest.revision: 21
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Continue Statement (Visual Basic)
 Transfers control immediately to the next iteration of a loop.  

@@ -1,5 +1,6 @@
 ---
 title: "How to: Declare an Object by Using an Object Initializer (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,15 +9,21 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "declaring objects using object initializer"
   - "object initializers [Visual Basic]"
   - "initializers [Visual Basic]"
   - "Video How tos, Visual Basic"
 ms.assetid: 0f53a553-efd6-466d-80bf-6b679e5cd174
+<<<<<<< HEAD
 caps.latest.revision: 20
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Declare an Object by Using an Object Initializer (Visual Basic)
 Object initializers enable you to declare and instantiate an instance of a class in a single statement. In addition, you can initialize one or more members of the instance at the same time, without invoking a parameterized constructor.  

@@ -1,5 +1,6 @@
 ---
 title: "How to: Call Windows APIs (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,15 +9,21 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "API calls [Visual Basic]"
   - "Windows API, calling"
   - "API calls [Visual Basic], platform invoke"
   - "calls [Visual Basic], stored procedures"
 ms.assetid: 27d75f0a-54ab-4ee1-b91d-43513a19b12d
+<<<<<<< HEAD
 caps.latest.revision: 14
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Call Windows APIs (Visual Basic)
 This example defines and calls the `MessageBox` function in user32.dll and then passes a string to it.  

@@ -1,6 +1,7 @@
 ---
 title: "Then Statement"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
@@ -13,6 +14,11 @@ ms.assetid: 41fdb422-d222-4c10-b5b0-c421c79e9070
 caps.latest.revision: 10
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+helpviewer_keywords: 
+  - "Then keyword [Visual Basic]"
+ms.assetid: 41fdb422-d222-4c10-b5b0-c421c79e9070
+>>>>>>> upstream/master
 ---
 # Then Statement
 Introduces a statement block to be compiled or executed if a tested condition is true.  

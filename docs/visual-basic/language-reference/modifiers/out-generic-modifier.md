@@ -1,19 +1,25 @@
 ---
 title: "Out (Generic Modifier) (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.VarianceOut"
 helpviewer_keywords: 
   - "Out keyword [Visual Basic]"
   - "covariance, Out keyword [Visual Basic]"
 ms.assetid: c4418369-1518-4a46-9a1e-054c61038eca
+<<<<<<< HEAD
 caps.latest.revision: 14
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Out (Generic Modifier) (Visual Basic)
 For generic type parameters, the `Out` keyword specifies that the type is covariant.  

@@ -1,5 +1,6 @@
 ---
 title: "How to: Combine Data with LINQ by Using Joins (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "queries [LINQ in Visual Basic], joins"
   - "joins [LINQ in Visual Basic]"
@@ -16,9 +20,12 @@ helpviewer_keywords:
   - "joining [LINQ in Visual Basic]"
   - "queries [LINQ in Visual Basic], how-to topics"
 ms.assetid: 5b00a478-035b-41c6-8918-be1a97728396
+<<<<<<< HEAD
 caps.latest.revision: 13
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Combine Data with LINQ by Using Joins (Visual Basic)
 Visual Basic provides the `Join` and `Group Join` query clauses to enable you to combine the contents of multiple collections based on common values between the collections. These values are known as *key* values. Developers familiar with relational database concepts will recognize the `Join` clause as an INNER JOIN and the `Group Join` clause as, effectively, a LEFT OUTER JOIN.  

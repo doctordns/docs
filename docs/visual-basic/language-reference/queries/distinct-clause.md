@@ -1,12 +1,15 @@
 ---
 title: "Distinct Clause (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.QueryDistinct"
 helpviewer_keywords: 
@@ -14,9 +17,12 @@ helpviewer_keywords:
   - "Distinct statement [Visual Basic]"
   - "queries [Visual Basic], Distinct"
 ms.assetid: 86f42614-0d8f-4ffc-b888-ce8a37a8d36a
+<<<<<<< HEAD
 caps.latest.revision: 15
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Distinct Clause (Visual Basic)
 Restricts the values of the current range variable to eliminate duplicate values in subsequent query clauses.  

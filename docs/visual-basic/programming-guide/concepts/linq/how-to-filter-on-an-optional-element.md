@@ -1,5 +1,6 @@
 ---
 title: "How to: Filter on an Optional Element (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: a74b76ad-6889-4185-a189-d6ef2c63841e
+>>>>>>> upstream/master
 ---
 # How to: Filter on an Optional Element (Visual Basic)
 Sometimes you want to filter for an element even though you are not sure it exists in your XML document. The search should be executed so that if the particular element does not have the child element, you do not trigger a null reference exception by filtering for it. In the following example, the `Child5` element does not have a `Type` child element, but the query still executes correctly.  

@@ -1,6 +1,7 @@
 ---
 title: "Argument cannot be an empty string"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: 17dd3385-8655-44f6-bf36-3ef570afb1cb
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 17dd3385-8655-44f6-bf36-3ef570afb1cb
+>>>>>>> upstream/master
 ---
 # Argument cannot be an empty string
 An argument has been defined as an empty string ("").  

@@ -1,5 +1,6 @@
 ---
 title: "&lt;typeparam&gt; (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,13 +9,19 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "typeparam XML tag"
   - "<typeparam> XML tag"
 ms.assetid: 1bb5ba78-f060-478c-905c-77a2e43639af
+<<<<<<< HEAD
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # &lt;typeparam&gt; (Visual Basic)
 Defines a type parameter name and description.  

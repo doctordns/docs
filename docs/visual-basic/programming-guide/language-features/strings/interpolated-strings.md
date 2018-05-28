@@ -1,10 +1,13 @@
 ---
 title: "Interpolated Strings (Visual Basic)"
 ms.date: "10/31/2017"
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 author: "rpetrusha"
 ms.author: "ronpet"
 ---
@@ -77,7 +80,11 @@ There are three implicit type conversions from an interpolated string:
    [!code-vb[interpolated-strings3](../../../../../samples/snippets/visualbasic/programming-guide/language-features/strings/interpolated-strings3.vb)]  
 
 ## See Also  
+<<<<<<< HEAD
 f <xref:System.IFormattable?displayProperty=nameWithType>   
+=======
+ <xref:System.IFormattable?displayProperty=nameWithType>  
+>>>>>>> upstream/master
  <xref:System.FormattableString?displayProperty=nameWithType>  
  [Visual Basic Language Reference](index.md)  
  

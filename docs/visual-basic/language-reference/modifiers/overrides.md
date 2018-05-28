@@ -1,11 +1,14 @@
 ---
 title: "Overrides (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "Overrides"
   - "vb.Overrides"
@@ -18,9 +21,12 @@ helpviewer_keywords:
   - "overriding, Overrides keyword"
   - "properties [Visual Basic], overriding"
 ms.assetid: 9f5e6144-ce10-465e-842b-1a8f8760af90
+<<<<<<< HEAD
 caps.latest.revision: 18
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Overrides (Visual Basic)
 Specifies that a property or procedure overrides an identically named property or procedure inherited from a base class.  

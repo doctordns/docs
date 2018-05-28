@@ -1,10 +1,13 @@
 ---
 title: "Generic Types in Visual Basic (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "generic interfaces"
   - "data type arguments [Visual Basic], defining"
@@ -40,9 +43,12 @@ helpviewer_keywords:
   - "type arguments [Visual Basic], defining"
   - "arguments [Visual Basic], type"
 ms.assetid: 89f771d9-ecbb-4737-88b8-116b63c6cf4d
+<<<<<<< HEAD
 caps.latest.revision: 45
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Generic Types in Visual Basic (Visual Basic)
 A *generic type* is a single programming element that adapts to perform the same functionality for a variety of data types. When you define a generic class or procedure, you do not have to define a separate version for each data type for which you might want to perform that functionality.  

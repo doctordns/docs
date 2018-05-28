@@ -1,6 +1,7 @@
 ---
 title: "System event log cannot be deleted"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: 26ca8819-4ce5-49c6-98f3-27fe9e2e8e3d
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 26ca8819-4ce5-49c6-98f3-27fe9e2e8e3d
+>>>>>>> upstream/master
 ---
 # System event log cannot be deleted
 An attempt has been made to delete the system event log, which cannot be deleted. The system log tracks system events such as system startup and hardware failures.  

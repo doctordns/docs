@@ -1,5 +1,6 @@
 ---
 title: "How to: Combine and Compare String Collections (LINQ) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 243cfafc-9eaa-4354-a9df-d329f1d39913
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 243cfafc-9eaa-4354-a9df-d329f1d39913
+>>>>>>> upstream/master
 ---
 # How to: Combine and Compare String Collections (LINQ) (Visual Basic)
 This example shows how to merge files that contain lines of text and then sort the results. Specifically, it shows how to perform a simple concatenation, a union, and an intersection on the two sets of text lines.  

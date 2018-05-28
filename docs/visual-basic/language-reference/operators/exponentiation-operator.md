@@ -1,12 +1,15 @@
 ---
 title: "^ Operator (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.^"
 helpviewer_keywords: 
@@ -20,9 +23,12 @@ helpviewer_keywords:
   - "powers"
   - "arithmetic operators [Visual Basic], exponentiation"
 ms.assetid: d89a1ca8-83da-4784-a87b-a9d7dceb3f62
+<<<<<<< HEAD
 caps.latest.revision: 14
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # ^ Operator (Visual Basic)
 Raises a number to the power of another number.  

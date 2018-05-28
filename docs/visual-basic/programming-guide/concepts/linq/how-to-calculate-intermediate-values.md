@@ -1,5 +1,6 @@
 ---
 title: "How to: Calculate Intermediate Values (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 933a97b2-dfe7-4f4d-94ad-e6e20df84abd
+>>>>>>> upstream/master
 ---
 # How to: Calculate Intermediate Values (Visual Basic)
 This example shows how to calculate intermediate values that can be used in sorting, filtering, and selecting.  

@@ -1,5 +1,6 @@
 ---
 title: "Sample XML File: Consolidated Purchase Orders3"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 7203da90-a514-415a-b978-6980e89f3e9c
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 7203da90-a514-415a-b978-6980e89f3e9c
+>>>>>>> upstream/master
 ---
 # Sample XML File: Consolidated Purchase Orders
 The following XML file is used in various examples in the [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] documentation. This file is a set of purchase orders with different shapes from multiple companies. Purchase orders from each company are in separate namespaces.  

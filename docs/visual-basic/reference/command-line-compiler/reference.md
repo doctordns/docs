@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "/reference (Visual Basic)"
 ms.date: 07/20/2015
 ms.prod: .net
@@ -7,6 +8,10 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+title: "-reference (Visual Basic)"
+ms.date: 03/13/2018
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "/reference compiler option [Visual Basic]"
   - "r compiler option [Visual Basic]"
@@ -15,19 +20,32 @@ helpviewer_keywords:
   - "reference compiler option [Visual Basic]"
   - "-r compiler option [Visual Basic]"
 ms.assetid: 66bdfced-bbf6-43d1-a554-bc0990315737
+<<<<<<< HEAD
 caps.latest.revision: 16
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # /reference (Visual Basic)
+=======
+author: rpetrusha
+ms.author: ronpet
+---
+# -reference (Visual Basic)
+>>>>>>> upstream/master
 Causes the compiler to make type information in the specified assemblies available to the project you are currently compiling.  
   
 ## Syntax  
   
 ```  
+<<<<<<< HEAD
 /reference:fileList  
 ' -or-  
 /r:fileList  
+=======
+-reference:fileList  
+' -or-  
+-r:fileList  
+>>>>>>> upstream/master
 ```  
   
 ## Arguments  
@@ -45,6 +63,7 @@ Causes the compiler to make type information in the specified assemblies availab
   
 -   A field, property, event, or method that has a return type or parameter type from Assembly B is invoked.  
   
+<<<<<<< HEAD
  Use [/libpath](../../../visual-basic/reference/command-line-compiler/libpath.md) to specify the directory in which one or more of your assembly references is located.  
   
  For the compiler to recognize a type in an assembly (not a module), it must be forced to resolve the type. One example of how you can do this is to define an instance of the type. Other ways are available to resolve type names in an assembly for the compiler. For example, if you inherit from a type in an assembly, the type name then becomes known to the compiler.  
@@ -58,11 +77,31 @@ Causes the compiler to make type information in the specified assemblies availab
   
 ```  
 vbc /reference:metad1.dll,metad2.dll /out:out.exe input.vb  
+=======
+ Use [-libpath](../../../visual-basic/reference/command-line-compiler/libpath.md) to specify the directory in which one or more of your assembly references is located.  
+  
+ For the compiler to recognize a type in an assembly (not a module), it must be forced to resolve the type. One example of how you can do this is to define an instance of the type. Other ways are available to resolve type names in an assembly for the compiler. For example, if you inherit from a type in an assembly, the type name then becomes known to the compiler.  
+  
+ The Vbc.rsp response file, which references commonly used [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] assemblies, is used by default. Use `-noconfig` if you do not want the compiler to use Vbc.rsp.  
+  
+ The short form of `-reference` is `/r`.  
+  
+## Example  
+ The following command compiles source file `Input.vb` and reference assemblies from `Metad1.dll` and `Metad2.dll` to produce `Out.exe`.  
+  
+```console
+vbc -reference:metad1.dll,metad2.dll -out:out.exe input.vb  
+>>>>>>> upstream/master
 ```  
   
 ## See Also  
  [Visual Basic Command-Line Compiler](../../../visual-basic/reference/command-line-compiler/index.md)  
+<<<<<<< HEAD
  [/noconfig](../../../visual-basic/reference/command-line-compiler/noconfig.md)  
  [/target (Visual Basic)](../../../visual-basic/reference/command-line-compiler/target.md)  
+=======
+ [-noconfig](../../../visual-basic/reference/command-line-compiler/noconfig.md)  
+ [-target (Visual Basic)](../../../visual-basic/reference/command-line-compiler/target.md)  
+>>>>>>> upstream/master
  [Public](../../../visual-basic/language-reference/modifiers/public.md)  
  [Sample Compilation Command Lines](../../../visual-basic/reference/command-line-compiler/sample-compilation-command-lines.md)

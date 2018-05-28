@@ -1,5 +1,6 @@
 ---
 title: "How to: Sort Elements (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: c2c09279-6c8a-482e-8e71-b1453a815052
+>>>>>>> upstream/master
 ---
 # How to: Sort Elements (Visual Basic)
 This example shows how to write a query that sorts its results.  

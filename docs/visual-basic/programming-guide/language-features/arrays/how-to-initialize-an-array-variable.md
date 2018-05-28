@@ -1,5 +1,6 @@
 ---
 title: "How to: Initialize an Array Variable in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,15 +9,21 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "variables [Visual Basic], initializing"
   - "arrays [Visual Basic], variables"
   - "arrays [Visual Basic], initializing"
   - "arrays [Visual Basic], declaring"
 ms.assetid: aadd7a60-7ca4-4608-b986-091f19e7fc10
+<<<<<<< HEAD
 caps.latest.revision: 42
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Initialize an Array Variable in Visual Basic
 You initialize an array variable by including an array literal in a `New` clause and specifying the initial values of the array. You can either specify the type or allow it to be inferred from the values in the array literal. For more information about how the type is inferred, see "Populating an Array with Initial Values" in [Arrays](../../../../visual-basic/programming-guide/language-features/arrays/index.md).  

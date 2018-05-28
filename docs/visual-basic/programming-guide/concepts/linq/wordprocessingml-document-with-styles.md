@@ -1,5 +1,6 @@
 ---
 title: "WordprocessingML Document with Styles2"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: a9136e4d-c368-4661-8049-7d45c679a236
+>>>>>>> upstream/master
 ---
 # WordprocessingML Document with Styles
 More complicated WordprocessingML documents have paragraphs that are formatted with styles.  

@@ -1,12 +1,15 @@
 ---
 title: "Select...Case Statement (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.Select"
   - "vb.Case"
@@ -27,9 +30,12 @@ helpviewer_keywords:
   - "End keyword [Visual Basic], Select Case statements"
   - "Case statement [Visual Basic], Select...Case"
 ms.assetid: 68877b65-5419-4bf0-a465-20cd0e4c7d44
+<<<<<<< HEAD
 caps.latest.revision: 15
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Select...Case Statement (Visual Basic)
 Runs one of several groups of statements, depending on the value of an expression.  

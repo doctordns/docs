@@ -1,5 +1,6 @@
 ---
 title: "Differences Between Parameters and Arguments (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "procedures [Visual Basic], arguments"
   - "procedures [Visual Basic], parameters"
@@ -18,9 +22,12 @@ helpviewer_keywords:
   - "procedure parameters"
   - "parameters [Visual Basic], definition"
 ms.assetid: c237c056-74f4-4749-9f2c-15864f139a31
+<<<<<<< HEAD
 caps.latest.revision: 18
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Differences Between Parameters and Arguments (Visual Basic)
 In most cases, a procedure must have some information about the circumstances in which it has been called. A procedure that performs repeated or shared tasks uses different information for each call. This information consists of variables, constants, and expressions that you pass to the procedure when you call it.  

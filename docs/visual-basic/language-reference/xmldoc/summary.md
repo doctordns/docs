@@ -1,5 +1,6 @@
 ---
 title: "&lt;summary&gt; (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,13 +9,19 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "<summary> XML tag"
   - "summary XML tag"
 ms.assetid: 861c847d-dd94-478a-aa23-bf4899cdc848
+<<<<<<< HEAD
 caps.latest.revision: 12
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # &lt;summary&gt; (Visual Basic)
 Specifies the summary of the member.  

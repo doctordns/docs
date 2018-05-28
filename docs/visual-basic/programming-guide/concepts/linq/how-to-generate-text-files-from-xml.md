@@ -1,5 +1,6 @@
 ---
 title: "How to: Generate Text Files from XML (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,12 +15,20 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 3b33f191-4abe-4419-b81b-3cb81d9a317f
+>>>>>>> upstream/master
 ---
 # How to: Generate Text Files from XML (Visual Basic)
 This example shows how to generate a comma-separated values (CSV) file from an XML file.  
   
 ## Example  
+<<<<<<< HEAD
  The [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] version uses procedural code to aggregate the collection of strings into a single string.  
+=======
+ The Visual Basic version uses procedural code to aggregate the collection of strings into a single string.  
+>>>>>>> upstream/master
   
  This example uses the following XML document: [Sample XML File: Customers and Orders (LINQ to XML)](../../../../visual-basic/programming-guide/concepts/linq/sample-xml-file-customers-and-orders-linq-to-xml.md).  
   

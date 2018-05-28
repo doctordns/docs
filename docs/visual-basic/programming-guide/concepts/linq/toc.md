@@ -87,7 +87,10 @@
 ## [How to: Control Namespace Prefixes (LINQ to XML)](how-to-control-namespace-prefixes-linq-to-xml.md)
 ## [Scope of Default Namespaces](scope-of-default-namespaces.md)
 ## [Working with Global Namespaces (LINQ to XML)](working-with-global-namespaces-linq-to-xml.md)
+<<<<<<< HEAD
 ## [Namespaces (LINQ to XML)](namespaces-linq-to-xml.md)
+=======
+>>>>>>> upstream/master
 ## [How to: Write Queries on XML in Namespaces](how-to-write-queries-on-xml-in-namespaces.md)
 
 # [Serializing XML Trees](serializing-xml-trees.md)

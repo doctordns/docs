@@ -1,5 +1,6 @@
 ---
 title: "Comparison of XPath and LINQ to XML1"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: c3fd07c1-6761-4e4b-8eb1-ddd780ed8d44
+>>>>>>> upstream/master
 ---
 # Comparison of XPath and LINQ to XML
 XPath and [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] offer some similar functionality. Both can be used to query an XML tree, returning such results as a collection of elements, a collection of attributes, a collection of nodes, or the value of an element or attribute. However, there are also some differences.  

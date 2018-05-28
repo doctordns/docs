@@ -1,5 +1,6 @@
 ---
 title: "Scope in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "module scope [Visual Basic]"
   - "scope [Visual Basic], levels"
@@ -22,9 +26,12 @@ helpviewer_keywords:
   - "scope [Visual Basic], Visual Basic"
   - "procedure scope [Visual Basic]"
 ms.assetid: 208106fe-79c9-4eec-93c6-55f08548895f
+<<<<<<< HEAD
 caps.latest.revision: 17
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Scope in Visual Basic
 The *scope* of a declared element is the set of all code that can refer to it without qualifying its name or making it available through an [Imports Statement (.NET Namespace and Type)](../../../../visual-basic/language-reference/statements/imports-statement-net-namespace-and-type.md). An element can have scope at one of the following levels:  

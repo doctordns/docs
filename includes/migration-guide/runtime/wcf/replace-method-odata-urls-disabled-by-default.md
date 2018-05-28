@@ -8,5 +8,8 @@
 |Version|4.5|
 |Type|Runtime|
 |Affected APIs|<ul><li><xref:System.Data.Services.DataService%601?displayProperty=nameWithType></li></ul>|
+<<<<<<< HEAD
 |Analyzers|<ul><li>CD0029</li></ul>|
+=======
+>>>>>>> upstream/master
 

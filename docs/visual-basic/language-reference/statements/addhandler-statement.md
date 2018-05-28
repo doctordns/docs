@@ -1,12 +1,15 @@
 ---
 title: "AddHandler Statement"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.AddHandlerMethod"
   - "addhandler"
@@ -14,9 +17,12 @@ f1_keywords:
 helpviewer_keywords: 
   - "AddHandler statement [Visual Basic]"
 ms.assetid: cfe69799-2a0f-42c0-a99e-09fed954da01
+<<<<<<< HEAD
 caps.latest.revision: 15
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # AddHandler Statement
 Associates an event with an event handler at run time.  

@@ -1,5 +1,6 @@
 ---
 title: "Details of Office Open XML WordprocessingML Documents (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 6b1e155c-7174-4244-a6de-0fddf9a0b0d7
+>>>>>>> upstream/master
 ---
 # Details of Office Open XML WordprocessingML Documents (Visual Basic)
 This section provides information about the details of Office Open XML WordprocessingML documents. It shows examples of the document and style parts of an Open XML document.  

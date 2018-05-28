@@ -1,5 +1,6 @@
 ---
 title: "LINQ to XML vs. DOM (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 18c36130-d598-40b7-9007-828232252978
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 18c36130-d598-40b7-9007-828232252978
+>>>>>>> upstream/master
 ---
 # LINQ to XML vs. DOM (Visual Basic)
 This section describes some key differences between [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] and the current predominant XML programming API, the W3C Document Object Model (DOM).  

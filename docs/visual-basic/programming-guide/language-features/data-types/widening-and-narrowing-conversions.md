@@ -1,5 +1,6 @@
 ---
 title: "Widening and Narrowing Conversions (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "widening conversions [Visual Basic]"
   - "narrowing conversions [Visual Basic]"
@@ -26,9 +30,12 @@ helpviewer_keywords:
   - "data type conversion [Visual Basic], exceptions during conversion"
   - "conversions [Visual Basic], widening"
 ms.assetid: 058c3152-6c28-4268-af44-2209e774f0bd
+<<<<<<< HEAD
 caps.latest.revision: 27
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Widening and Narrowing Conversions (Visual Basic)
 An important consideration with a type conversion is whether the result of the conversion is within the range of the destination data type.  
@@ -97,7 +104,11 @@ An important consideration with a type conversion is whether the result of the c
   
 -   <xref:System.OverflowException> — (integral types only) if the converted value is too large for the target type  
   
+<<<<<<< HEAD
  If a class or structure defines a [CType Function](../../../../visual-basic/language-reference/functions/ctype-function.md) to serve as a conversion operator to or from that class or structure, that `CType` can throw any exception it deems appropriate. In addition, that `CType` might call [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] functions or [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] methods, which in turn could throw a variety of exceptions.  
+=======
+ If a class or structure defines a [CType Function](../../../../visual-basic/language-reference/functions/ctype-function.md) to serve as a conversion operator to or from that class or structure, that `CType` can throw any exception it deems appropriate. In addition, that `CType` might call Visual Basic functions or [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] methods, which in turn could throw a variety of exceptions.  
+>>>>>>> upstream/master
   
 ## Changes During Reference Type Conversions  
  A conversion from a *reference type* copies only the pointer to the value. The value itself is neither copied nor changed in any way. The only thing that can change is the data type of the variable holding the pointer. In the following example, the data type is converted from the derived class to its base class, but the object that both variables now point to is unchanged.  

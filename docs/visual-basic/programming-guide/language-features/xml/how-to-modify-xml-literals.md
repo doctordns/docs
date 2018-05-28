@@ -1,5 +1,6 @@
 ---
 title: "How to: Modify XML Literals (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -9,17 +10,26 @@ ms.technology:
   - "devlang-visual-basic"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "XML axis [Visual Basic], Value"
   - "XML literals [Visual Basic]"
   - "XML literals [Visual Basic], modifying"
 ms.assetid: 4e864522-a37a-43a2-8236-af80277c5482
+<<<<<<< HEAD
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # How to: Modify XML Literals (Visual Basic)
 [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] provides convenient ways to modify XML literals. You can add or delete elements and attributes, and you can also replace an existing element with a new XML element. This topic provides several examples of how to modify an existing XML literal.  
+=======
+---
+# How to: Modify XML Literals (Visual Basic)
+Visual Basic provides convenient ways to modify XML literals. You can add or delete elements and attributes, and you can also replace an existing element with a new XML element. This topic provides several examples of how to modify an existing XML literal.  
+>>>>>>> upstream/master
   
 ### To modify the value of an XML literal  
   

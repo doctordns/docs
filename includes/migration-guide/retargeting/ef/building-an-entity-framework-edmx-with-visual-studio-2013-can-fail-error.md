@@ -7,5 +7,8 @@
 |Scope|Major|
 |Version|4.5.1|
 |Type|Retargeting|
+<<<<<<< HEAD
 |Analyzers|<ul><li>CD0109</li></ul>|
+=======
+>>>>>>> upstream/master
 

@@ -1,6 +1,7 @@
 ---
 title: "Objects (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
@@ -12,6 +13,11 @@ ms.assetid: 651c73e4-dca8-402b-9c6b-e3902b3a3f4b
 caps.latest.revision: 22
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+helpviewer_keywords: 
+  - "objects [Visual Basic]"
+ms.assetid: 651c73e4-dca8-402b-9c6b-e3902b3a3f4b
+>>>>>>> upstream/master
 ---
 # Objects (Visual Basic)
 This topic provides links to other topics that document the Visual Basic run-time objects and contain tables of their member procedures, properties, and events.  

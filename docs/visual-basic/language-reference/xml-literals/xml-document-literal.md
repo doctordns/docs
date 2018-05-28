@@ -1,12 +1,15 @@
 ---
 title: "XML Document Literal (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.XmlLiteralDocument"
 helpviewer_keywords: 
@@ -15,9 +18,12 @@ helpviewer_keywords:
   - "XML documents [Visual Basic], creating"
   - "document literal [Visual Basic]"
 ms.assetid: f7bbee56-0911-41de-b907-96f20450137b
+<<<<<<< HEAD
 caps.latest.revision: 20
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # XML Document Literal (Visual Basic)
 A literal representing an <xref:System.Xml.Linq.XDocument> object.  
@@ -49,9 +55,15 @@ rootElement
  An XML document literal cannot appear in an XML element.  
   
 > [!NOTE]
+<<<<<<< HEAD
 >  An XML literal can span multiple lines without using line continuation characters. This enables you to copy content from an XML document and paste it directly into a [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] program.  
   
  The [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] compiler converts the XML document literal into calls to the <xref:System.Xml.Linq.XDocument.%23ctor%2A> and <xref:System.Xml.Linq.XDeclaration.%23ctor%2A> constructors.  
+=======
+>  An XML literal can span multiple lines without using line continuation characters. This enables you to copy content from an XML document and paste it directly into a Visual Basic program.  
+  
+ The Visual Basic compiler converts the XML document literal into calls to the <xref:System.Xml.Linq.XDocument.%23ctor%2A> and <xref:System.Xml.Linq.XDeclaration.%23ctor%2A> constructors.  
+>>>>>>> upstream/master
   
 ## Example  
  The following example creates an XML document that has an XML declaration, a processing instruction, a comment, and an element that contains another element.  

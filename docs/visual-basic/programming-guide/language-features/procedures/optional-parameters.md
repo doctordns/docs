@@ -1,5 +1,6 @@
 ---
 title: "Optional Parameters (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "parameters [Visual Basic], optional"
   - "Visual Basic code, procedures"
@@ -19,9 +23,12 @@ helpviewer_keywords:
   - "arguments [Visual Basic], optional"
   - "optional arguments [Visual Basic], and named arguments"
 ms.assetid: 398d2845-1069-4e94-b934-a73b545c8b87
+<<<<<<< HEAD
 caps.latest.revision: 18
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Optional Parameters (Visual Basic)
 You can specify that a procedure parameter is optional and no argument has to be supplied for it when the procedure is called. *Optional parameters* are indicated by the `Optional` keyword in the procedure definition. The following rules apply:  

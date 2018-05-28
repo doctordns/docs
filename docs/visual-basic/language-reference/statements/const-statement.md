@@ -1,5 +1,6 @@
 ---
 title: "Const Statement (Visual Basic)"
+<<<<<<< HEAD
 ms.date: 07/20/2015
 ms.prod: .net
 ms.reviewer: ""
@@ -7,14 +8,20 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 05/12/2018
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.Const"
 helpviewer_keywords: 
   - "Const statement [Visual Basic]"
 ms.assetid: 495b318d-b7c5-4198-94f8-0790a541b07a
+<<<<<<< HEAD
 caps.latest.revision: 28
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Const Statement (Visual Basic)
 Declares and defines one or more constants.  
@@ -31,7 +38,11 @@ Const constantlist
  Optional. List of attributes that apply to all the constants declared in this statement. See [Attribute List](../../../visual-basic/language-reference/statements/attribute-list.md) in angle brackets ("`<`" and "`>`").  
   
  `accessmodifier`  
+<<<<<<< HEAD
  Optional. Use this to specify what code can access these constants. Can be [Public](../../../visual-basic/language-reference/modifiers/public.md), [Protected](../../../visual-basic/language-reference/modifiers/protected.md), [Friend](../../../visual-basic/language-reference/modifiers/friend.md), `Protected Friend`, or [Private](../../../visual-basic/language-reference/modifiers/private.md).  
+=======
+ Optional. Use this to specify what code can access these constants. Can be [Public](../../../visual-basic/language-reference/modifiers/public.md), [Protected](../../../visual-basic/language-reference/modifiers/protected.md), [Friend](../../../visual-basic/language-reference/modifiers/friend.md), [Protected Friend](../modifiers/protected-friend.md), [Private](../../../visual-basic/language-reference/modifiers/private.md), or [Private Protected](../../language-reference/modifiers/private-protected.md).
+>>>>>>> upstream/master
   
  `Shadows`  
  Optional. Use this to redeclare and hide a programming element in a base class. See [Shadows](../../../visual-basic/language-reference/modifiers/shadows.md).  

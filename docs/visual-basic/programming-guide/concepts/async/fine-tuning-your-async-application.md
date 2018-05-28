@@ -1,5 +1,6 @@
 ---
 title: "Fine-Tuning Your Async Application (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 4c3e7997-a95f-4fbe-a6ac-60ba042d30b9
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 4c3e7997-a95f-4fbe-a6ac-60ba042d30b9
+>>>>>>> upstream/master
 ---
 # Fine-Tuning Your Async Application (Visual Basic)
 You can add precision and flexibility to your async applications by using the methods and properties that the <xref:System.Threading.Tasks.Task> type makes available. The topics in this section show examples that use <xref:System.Threading.CancellationToken> and important `Task` methods such as <xref:System.Threading.Tasks.Task.WhenAll%2A?displayProperty=nameWithType> and <xref:System.Threading.Tasks.Task.WhenAny%2A?displayProperty=nameWithType>.  

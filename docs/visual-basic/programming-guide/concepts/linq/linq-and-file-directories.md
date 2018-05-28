@@ -1,5 +1,6 @@
 ---
 title: "LINQ and File Directories (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 159fd5c3-3926-4071-ae78-d8e423287eb7
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 159fd5c3-3926-4071-ae78-d8e423287eb7
+>>>>>>> upstream/master
 ---
 # LINQ and File Directories (Visual Basic)
 Many file system operations are essentially queries and are therefore well-suited to the LINQ approach.  

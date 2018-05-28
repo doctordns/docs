@@ -1,5 +1,6 @@
 ---
 title: "&lt;permission&gt; (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,13 +9,19 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "<permission> XML tag"
   - "permission XML tag"
 ms.assetid: 0edf0500-5cd7-49c0-9255-64c48f972b77
+<<<<<<< HEAD
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # &lt;permission&gt; (Visual Basic)
 Specifies a required permission for the member.  

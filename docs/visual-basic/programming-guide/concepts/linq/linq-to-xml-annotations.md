@@ -1,5 +1,6 @@
 ---
 title: "LINQ to XML Annotations2"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: c3e8b3ff-fceb-4428-b0ca-1ed6f128aac8
+>>>>>>> upstream/master
 ---
 # LINQ to XML Annotations
 Annotations in [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] enable you to associate any arbitrary object of any arbitrary type with any XML component in an XML tree.  

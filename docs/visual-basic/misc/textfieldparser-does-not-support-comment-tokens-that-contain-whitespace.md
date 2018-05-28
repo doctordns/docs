@@ -1,6 +1,7 @@
 ---
 title: "TextFieldParser does not support comment tokens that contain whitespace"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -11,6 +12,11 @@ ms.assetid: 55107656-270e-4bbb-841a-478904df8e07
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+f1_keywords: 
+  - "vbrTextFieldParser_WhitespaceInToken"
+ms.assetid: 55107656-270e-4bbb-841a-478904df8e07
+>>>>>>> upstream/master
 ---
 # TextFieldParser does not support comment tokens that contain whitespace
 A comment token that contains white space has been supplied. The `TextFieldParser` does not support comment tokens that contain white space unless the white space occurs at the beginning of the token. White space occurring at the beginning of a token is ignored.  

@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "/optioninfer"
 ms.date: 07/20/2015
 ms.prod: .net
@@ -9,28 +10,44 @@ ms.technology:
 ms.topic: "article"
 f1_keywords: 
   - "/optioninfer"
+=======
+title: "-optioninfer"
+ms.date: 07/20/2015
+f1_keywords: 
+  - "-optioninfer"
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "-optioninfer compiler option [Visual Basic]"
   - "/optioninfer compiler option [Visual Basic]"
   - "optioninfer compiler option [Visual Basic]"
 ms.assetid: f6c09db1-0553-464a-abe3-d4510c61d6ed
+<<<<<<< HEAD
 caps.latest.revision: 19
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # /optioninfer
+=======
+---
+# -optioninfer
+>>>>>>> upstream/master
 Enables the use of local type inference in variable declarations.  
   
 ## Syntax  
   
 ```  
+<<<<<<< HEAD
 /optioninfer[+ | -]  
+=======
+-optioninfer[+ | -]  
+>>>>>>> upstream/master
 ```  
   
 ## Arguments  
   
 |Term|Definition|  
 |---|---|  
+<<<<<<< HEAD
 |`+` &#124; `-`|Optional. Specify `/optioninfer+` to enable local type inference, or `/optioninfer-` to block it. The `/optioninfer` option, with no value specified, is the same as `/optioninfer+`. The default value when the `/optioninfer` switch is not present is also `/optioninfer+`. The default value is set in the Vbc.rsp response file.|  
   
 > [!NOTE]
@@ -40,6 +57,17 @@ Enables the use of local type inference in variable declarations.
  If the source code file contains an [Option Infer Statement](../../../visual-basic/language-reference/statements/option-infer-statement.md), the statement overrides the `/optioninfer` command-line compiler setting.  
   
 ### To set /optioninfer in the Visual Studio IDE  
+=======
+|`+` &#124; `-`|Optional. Specify `-optioninfer+` to enable local type inference, or `-optioninfer-` to block it. The `-optioninfer` option, with no value specified, is the same as `-optioninfer+`. The default value when the `-optioninfer` switch is not present is also `-optioninfer+`. The default value is set in the Vbc.rsp response file.|  
+  
+> [!NOTE]
+>  You can use the `-noconfig` option to retain the compiler's internal defaults instead of those specified in vbc.rsp. The compiler default for this option is `-optioninfer-`.  
+  
+## Remarks  
+ If the source code file contains an [Option Infer Statement](../../../visual-basic/language-reference/statements/option-infer-statement.md), the statement overrides the `-optioninfer` command-line compiler setting.  
+  
+### To set -optioninfer in the Visual Studio IDE  
+>>>>>>> upstream/master
   
 1.  Select a project in **Solution Explorer**. On the **Project** menu, click **Properties**.  
   
@@ -48,15 +76,26 @@ Enables the use of local type inference in variable declarations.
 ## Example  
  The following code compiles `test.vb` with local type inference enabled.  
   
+<<<<<<< HEAD
 ```  
 vbc /optioninfer+ test.vb  
+=======
+```console
+vbc -optioninfer+ test.vb  
+>>>>>>> upstream/master
 ```  
   
 ## See Also  
  [Visual Basic Command-Line Compiler](../../../visual-basic/reference/command-line-compiler/index.md)  
+<<<<<<< HEAD
  [/optioncompare](../../../visual-basic/reference/command-line-compiler/optioncompare.md)  
  [/optionexplicit](../../../visual-basic/reference/command-line-compiler/optionexplicit.md)  
  [/optionstrict](../../../visual-basic/reference/command-line-compiler/optionstrict.md)  
+=======
+ [-optioncompare](../../../visual-basic/reference/command-line-compiler/optioncompare.md)  
+ [-optionexplicit](../../../visual-basic/reference/command-line-compiler/optionexplicit.md)  
+ [-optionstrict](../../../visual-basic/reference/command-line-compiler/optionstrict.md)  
+>>>>>>> upstream/master
  [Sample Compilation Command Lines](../../../visual-basic/reference/command-line-compiler/sample-compilation-command-lines.md)  
  [Option Infer Statement](../../../visual-basic/language-reference/statements/option-infer-statement.md)  
  [Local Type Inference](../../../visual-basic/programming-guide/language-features/variables/local-type-inference.md)  

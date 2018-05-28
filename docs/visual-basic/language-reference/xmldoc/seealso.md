@@ -1,5 +1,6 @@
 ---
 title: "&lt;seealso&gt; (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,13 +9,19 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "<seealso> XML tag"
   - "seealso XML tag"
 ms.assetid: 36050c95-1af2-4284-b9b6-1a70691ed978
+<<<<<<< HEAD
 caps.latest.revision: 10
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # &lt;seealso&gt; (Visual Basic)
 Specifies a link that appears in the See Also section.  

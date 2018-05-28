@@ -1,10 +1,13 @@
 ---
 title: "Nothing (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "Nothing"
   - "vb.Nothing"
@@ -12,9 +15,12 @@ helpviewer_keywords:
   - "Nothing keyword [Visual Basic]"
   - "Nothing keyword [Visual Basic], syntax"
 ms.assetid: 06176e2d-bbf7-4a37-afaa-a86ad21ee99f
+<<<<<<< HEAD
 caps.latest.revision: 31
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Nothing (Visual Basic)
 Represents the default value of any data type. For reference types, the default value is the `null` reference. For value types, the default value depends on whether the value type is nullable.  

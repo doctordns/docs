@@ -1,5 +1,6 @@
 ---
 title: "Relaxed Delegate Conversion (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,14 +9,20 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "relaxed delegate conversion [Visual Basic]"
   - "delegates [Visual Basic], relaxed conversion"
   - "conversions [Visual Basic], relaxed delegate"
 ms.assetid: 64f371d0-5416-4f65-b23b-adcbf556e81c
+<<<<<<< HEAD
 caps.latest.revision: 19
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Relaxed Delegate Conversion (Visual Basic)
 Relaxed delegate conversion enables you to assign subs and functions to delegates or handlers even when their signatures are not identical. Therefore, binding to delegates becomes consistent with the binding already allowed for method invocations.  

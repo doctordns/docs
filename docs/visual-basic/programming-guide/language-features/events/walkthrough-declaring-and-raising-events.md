@@ -1,5 +1,6 @@
 ---
 title: "Declaring and Raising Events (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "declarations [Visual Basic], events"
   - "events [Visual Basic], walkthroughs"
@@ -16,9 +20,12 @@ helpviewer_keywords:
   - "events [Visual Basic], raising"
   - "raising events [Visual Basic], walkthroughs"
 ms.assetid: 8ffb3be8-097d-4d3c-b71e-04555ebda2a2
+<<<<<<< HEAD
 caps.latest.revision: 16
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Walkthrough: Declaring and Raising Events (Visual Basic)
 This walkthrough demonstrates how to declare and raise events for a class named `Widget`. After you complete the steps, you might want to read the companion topic, [Walkthrough: Handling Events](../../../../visual-basic/programming-guide/language-features/events/walkthrough-handling-events.md), which shows how to use events from `Widget` objects to provide status information in an application.  
@@ -32,7 +39,11 @@ This walkthrough demonstrates how to declare and raise events for a class named 
   
 #### To build the code example for this topic  
   
+<<<<<<< HEAD
 1.  Open a new [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] Windows Application project and create a form named `Form1`.  
+=======
+1.  Open a new Visual Basic Windows Application project and create a form named `Form1`.  
+>>>>>>> upstream/master
   
 2.  Add two buttons and a label to `Form1`.  
   

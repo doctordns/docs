@@ -1,20 +1,26 @@
 ---
 title: "Sub Expression (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "lambda expressions [Visual Basic], sub expression"
   - "Sub Expression [Visual Basic]"
   - "subroutines [Visual Basic], sub expressions"
 ms.assetid: 36b6bfd1-6539-4d8f-a5eb-6541a745ffde
+<<<<<<< HEAD
 caps.latest.revision: 6
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Sub Expression (Visual Basic)
 Declares the parameters and code that define a subroutine lambda expression.  

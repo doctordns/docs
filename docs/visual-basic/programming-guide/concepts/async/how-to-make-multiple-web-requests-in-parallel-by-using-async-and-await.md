@@ -1,5 +1,6 @@
 ---
 title: "How to: Make Multiple Web Requests in Parallel by Using Async and Await (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: a894b99b-7cfd-4a38-adfb-20d24f986730
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: a894b99b-7cfd-4a38-adfb-20d24f986730
+>>>>>>> upstream/master
 ---
 # How to: Make Multiple Web Requests in Parallel by Using Async and Await (Visual Basic)
 In an async method, tasks are started when they’re created. The [Await](../../../../visual-basic/language-reference/operators/await-operator.md) operator is applied to the task at the point in the method where processing can’t continue until the task finishes. Often a task is awaited as soon as it’s created, as the following example shows.  

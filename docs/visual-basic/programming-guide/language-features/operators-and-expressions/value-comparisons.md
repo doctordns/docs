@@ -1,5 +1,6 @@
 ---
 title: "Value Comparisons (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "variables [Visual Basic], comparing values"
   - "Visual Basic code, operators"
@@ -17,9 +21,12 @@ helpviewer_keywords:
   - "operators [Visual Basic], comparison"
   - "expressions [Visual Basic], comparing"
 ms.assetid: 60da0c76-9458-4afc-97e9-44a7939c064c
+<<<<<<< HEAD
 caps.latest.revision: 9
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Value Comparisons (Visual Basic)
 Comparison operators can be used to construct expressions that compare the values of numeric variables. These expressions return a `Boolean` value based on whether the comparison is true or false. Examples of such an expression are as follows.  

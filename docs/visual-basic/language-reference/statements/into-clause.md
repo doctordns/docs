@@ -1,6 +1,7 @@
 ---
 title: "Into Clause (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
@@ -13,6 +14,11 @@ ms.assetid: e1534550-8f4b-4978-b043-fad7b8fd79ac
 caps.latest.revision: 6
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+helpviewer_keywords: 
+  - "Into keyword [Visual Basic]"
+ms.assetid: e1534550-8f4b-4978-b043-fad7b8fd79ac
+>>>>>>> upstream/master
 ---
 # Into Clause (Visual Basic)
 Identifies aggregate functions or groupings to apply to a collection.  

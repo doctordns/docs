@@ -1,5 +1,6 @@
 ---
 title: "How to: Populate Object Collections from Multiple Sources (LINQ) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 63062a22-e6a9-42c0-b357-c7c965f58f33
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 63062a22-e6a9-42c0-b357-c7c965f58f33
+>>>>>>> upstream/master
 ---
 # How to: Populate Object Collections from Multiple Sources (LINQ) (Visual Basic)
 This example shows how to merge data from different sources into a sequence of new types.  

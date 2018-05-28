@@ -1,5 +1,6 @@
 ---
 title: "Generic Procedures in Visual Basic"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "generic methods [Visual Basic], type inference"
   - "generics [Visual Basic], type inference"
@@ -19,9 +23,12 @@ helpviewer_keywords:
   - "generics [Visual Basic], procedures"
   - "generic procedures [Visual Basic], type inference"
 ms.assetid: 95577b28-137f-4d5c-a149-919c828600e5
+<<<<<<< HEAD
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Generic Procedures in Visual Basic
 A *generic procedure*, also called a *generic method*, is a procedure defined with at least one type parameter. This allows the calling code to tailor the data types to its requirements each time it calls the procedure.  

@@ -1,6 +1,7 @@
 ---
 title: "Covariance and Contravariance (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -10,6 +11,9 @@ ms.assetid: 59224c46-9931-466b-8c6e-3648c3e609c6
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: 59224c46-9931-466b-8c6e-3648c3e609c6
+>>>>>>> upstream/master
 ---
 # Covariance and Contravariance (Visual Basic)
 In Visual Basic, covariance and contravariance enable implicit reference conversion for array types, delegate types, and generic type arguments. Covariance preserves assignment compatibility and contravariance reverses it.  

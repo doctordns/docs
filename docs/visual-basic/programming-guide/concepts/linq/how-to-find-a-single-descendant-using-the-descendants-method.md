@@ -1,5 +1,6 @@
 ---
 title: "How to: Find a Single Descendant Using the Descendants Method (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 0c03468c-efc8-4140-98f3-fb67acd9e8e1
+>>>>>>> upstream/master
 ---
 # How to: Find a Single Descendant Using the Descendants Method (Visual Basic)
 You can use the <xref:System.Xml.Linq.XContainer.Descendants%2A> axis method to quickly write code to find a single uniquely named element. This technique is especially useful when you want to find a particular descendant with a specific name. You could write the code to navigate to the desired element, but it is often faster and easier to write the code using the <xref:System.Xml.Linq.XContainer.Descendants%2A> axis.  

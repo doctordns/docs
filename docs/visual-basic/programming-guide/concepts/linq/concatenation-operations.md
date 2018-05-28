@@ -1,5 +1,6 @@
 ---
 title: "Concatenation Operations (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 4021e019-a8f7-477b-879e-07dd7f44feb9
 caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 4021e019-a8f7-477b-879e-07dd7f44feb9
+>>>>>>> upstream/master
 ---
 # Concatenation Operations (Visual Basic)
 Concatenation refers to the operation of appending one sequence to another.  

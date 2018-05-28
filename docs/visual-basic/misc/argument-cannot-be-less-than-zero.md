@@ -1,6 +1,7 @@
 ---
 title: "Argument cannot be less than zero"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: ce004a9a-5fb5-4aa9-8717-63bdc101a639
 caps.latest.revision: 10
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: ce004a9a-5fb5-4aa9-8717-63bdc101a639
+>>>>>>> upstream/master
 ---
 # Argument cannot be less than zero
 A value that is less than zero has been supplied, but the argument cannot be less than zero.  

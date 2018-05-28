@@ -1,11 +1,14 @@
 ---
 title: "Shadows (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.Shadows"
   - "shadows"
@@ -16,9 +19,12 @@ helpviewer_keywords:
   - "Shadows keyword [Visual Basic]"
   - "names [Visual Basic], shadowing"
 ms.assetid: 6bf687cd-0544-4797-b51b-911125ec57c6
+<<<<<<< HEAD
 caps.latest.revision: 16
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Shadows (Visual Basic)
 Specifies that a declared programming element redeclares and hides an identically named element, or set of overloaded elements, in a base class.  

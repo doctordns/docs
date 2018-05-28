@@ -1,5 +1,6 @@
 ---
 title: "How to: Access a Variable Hidden by a Derived Class (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,6 +9,9 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "qualification [Visual Basic], of element names"
   - "base classes [Visual Basic], accessing elements"
@@ -16,9 +20,12 @@ helpviewer_keywords:
   - "declared elements [Visual Basic], referencing"
   - "variables [Visual Basic], accessing hidden"
 ms.assetid: ae21a8ac-9cd4-4fba-a3ec-ecc4321ef93c
+<<<<<<< HEAD
 caps.latest.revision: 20
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Access a Variable Hidden by a Derived Class (Visual Basic)
 When code in a derived class accesses a variable, the compiler normally resolves the reference to the closest accessible version, that is, the accessible version the fewest derivational steps backward from the accessing class. If the variable is defined in the derived class, the code normally accesses that definition.  

@@ -7,5 +7,8 @@
 |Scope|Minor|
 |Version|4.6|
 |Type|Runtime|
+<<<<<<< HEAD
 |Analyzers|<ul><li>CD0077</li></ul>|
+=======
+>>>>>>> upstream/master
 

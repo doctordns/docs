@@ -1,5 +1,6 @@
 ---
 title: "How to: Retrieve a Single Child Element (LINQ to XML) (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -14,6 +15,10 @@ caps.latest.revision: 3
 author: dotnet-bot
 ms.author: dotnetcontent
 
+=======
+ms.date: 07/20/2015
+ms.assetid: 0033e258-d9c4-4569-86f6-79b7c06d1204
+>>>>>>> upstream/master
 ---
 # How to: Retrieve a Single Child Element (LINQ to XML) (Visual Basic)
 This topic explains how to retrieve a single child element, given the name of the child element. When you know the name of the child element and that there is only one element that has this name, it can be convenient to retrieve just one element, instead of a collection.  

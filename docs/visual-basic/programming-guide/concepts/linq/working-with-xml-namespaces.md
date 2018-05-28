@@ -1,5 +1,6 @@
 ---
 title: "Working with XML Namespaces (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -13,6 +14,10 @@ ms.assetid: 428bf4b0-e348-4ffd-986b-d905d5a0e7fa
 caps.latest.revision: 4
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.date: 07/20/2015
+ms.assetid: 428bf4b0-e348-4ffd-986b-d905d5a0e7fa
+>>>>>>> upstream/master
 ---
 # Working with XML Namespaces (Visual Basic)
 The topics in this section describe how [!INCLUDE[sqltecxlinq](~/includes/sqltecxlinq-md.md)] supports namespaces.  

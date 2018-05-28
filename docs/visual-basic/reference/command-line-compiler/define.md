@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "/define (Visual Basic)"
 ms.date: 07/20/2015
 ms.prod: .net
@@ -7,6 +8,10 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+title: "-define (Visual Basic)"
+ms.date: 03/10/2018
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "-d compiler option [Visual Basic]"
   - "/d compiler option [Visual Basic]"
@@ -15,19 +20,32 @@ helpviewer_keywords:
   - "/define compiler option [Visual Basic]"
   - "define compiler option [Visual Basic]"
 ms.assetid: f735c57d-1cf9-4f2f-a26f-0de630fd4077
+<<<<<<< HEAD
 caps.latest.revision: 15
 author: dotnet-bot
 ms.author: dotnetcontent
 ---
 # /define (Visual Basic)
+=======
+author: rpetrusha
+ms.author: ronpet
+---
+# -define (Visual Basic)
+>>>>>>> upstream/master
 Defines conditional compiler constants.  
   
 ## Syntax  
   
 ```  
+<<<<<<< HEAD
 /define:["]symbol[=value][,symbol[=value]]["]  
 ' -or-  
 /d:["]symbol[=value][,symbol[=value]]["]  
+=======
+-define:["]symbol[=value][,symbol[=value]]["]  
+' -or-  
+-d:["]symbol[=value][,symbol[=value]]["]  
+>>>>>>> upstream/master
 ```  
   
 ## Arguments  
@@ -38,6 +56,7 @@ Defines conditional compiler constants.
 |`value`|Optional. The value to assign `symbol`. If `value` is a string, it must be surrounded by backslash/quotation-mark sequences (\\") instead of quotation marks. If no value is specified, then it is taken to be True.|  
   
 ## Remarks  
+<<<<<<< HEAD
  The `/define` option has an effect  similar to using a `#Const` preprocessor directive in your source file, except that constants defined with `/define` are public and apply to all files in the project.  
   
  You can use symbols created by this option with the `#If`...`Then`...`#Else` directive to compile source files conditionally.  
@@ -45,6 +64,15 @@ Defines conditional compiler constants.
  `/d` is the short form of `/define`.  
   
  You can define multiple symbols with `/define` by using a comma to separate symbol definitions.  
+=======
+ The `-define` option has an effect similar to using a `#Const` preprocessor directive in your source file, except that constants defined with `-define` are public and apply to all files in the project.  
+  
+ You can use symbols created by this option with the `#If`...`Then`...`#Else` directive to compile source files conditionally.  
+  
+ `-d` is the short form of `-define`.  
+  
+ You can define multiple symbols with `-define` by using a comma to separate symbol definitions.  
+>>>>>>> upstream/master
   
 |To set /define in the Visual Studio integrated development environment|  
 |---|  

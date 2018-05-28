@@ -1,6 +1,7 @@
 ---
 title: "DataBits must be greater than 0"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.technology: 
   - "devlang-visual-basic"
@@ -9,6 +10,9 @@ ms.assetid: b0e1d53f-ed19-47bf-b7ef-06479aa76338
 caps.latest.revision: 8
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+ms.assetid: b0e1d53f-ed19-47bf-b7ef-06479aa76338
+>>>>>>> upstream/master
 ---
 # DataBits must be greater than 0
 The `DataBits` argument specified for the `My.Computer.Ports.OpenSerialPort` method must be greater than zero.  

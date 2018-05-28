@@ -1,5 +1,6 @@
 ---
 title: "How to: Declare Custom Events To Conserve Memory (Visual Basic)"
+<<<<<<< HEAD
 ms.custom: ""
 ms.date: 07/20/2015
 ms.prod: .net
@@ -8,14 +9,20 @@ ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+ms.date: 07/20/2015
+>>>>>>> upstream/master
 helpviewer_keywords: 
   - "declaring events [Visual Basic], custom"
   - "events [Visual Basic], custom"
   - "custom events [Visual Basic]"
 ms.assetid: 87ebee87-260c-462f-979c-407874debd19
+<<<<<<< HEAD
 caps.latest.revision: 11
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # How to: Declare Custom Events To Conserve Memory (Visual Basic)
 There are several circumstances when it is important that an application keep its memory usage low. Custom events allow the application to use memory only for the events that it handles.  

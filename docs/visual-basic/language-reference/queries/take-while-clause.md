@@ -1,12 +1,15 @@
 ---
 title: "Take While Clause (Visual Basic)"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.reviewer: ""
 ms.suite: ""
 ms.technology: 
   - "devlang-visual-basic"
 ms.topic: "article"
+=======
+>>>>>>> upstream/master
 f1_keywords: 
   - "vb.QueryTakeWhile"
 helpviewer_keywords: 
@@ -14,9 +17,12 @@ helpviewer_keywords:
   - "Take While clause [Visual Basic]"
   - "Take While statement [Visual Basic]"
 ms.assetid: db8f9f2f-fc9f-4a6c-b0b8-1bf048147e11
+<<<<<<< HEAD
 caps.latest.revision: 14
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+>>>>>>> upstream/master
 ---
 # Take While Clause (Visual Basic)
 Includes elements in a collection as long as a specified condition is `true` and bypasses the remaining elements.  

@@ -1,6 +1,7 @@
 ---
 title: "My.Log Object"
 ms.date: 07/20/2015
+<<<<<<< HEAD
 ms.prod: .net
 ms.suite: ""
 ms.technology: 
@@ -12,6 +13,11 @@ ms.assetid: 309b14b4-8875-4b2f-9661-a734b8cbff07
 caps.latest.revision: 12
 author: dotnet-bot
 ms.author: dotnetcontent
+=======
+helpviewer_keywords: 
+  - "My.Log object"
+ms.assetid: 309b14b4-8875-4b2f-9661-a734b8cbff07
+>>>>>>> upstream/master
 ---
 # My.Log Object
 Provides a property and methods for writing event and exception information to the application's log listeners.  
